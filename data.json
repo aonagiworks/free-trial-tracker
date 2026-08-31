@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-31T18:01:01.396393+00:00",
-  "total": 89,
-  "curated": 51,
-  "from_feeds": 38,
+  "updated_at": "2026-08-31T22:24:23.699433+00:00",
+  "total": 131,
+  "curated": 91,
+  "from_feeds": 40,
   "regions": [
     "Cek per negara",
     "Global",
@@ -939,7 +939,727 @@
       "source": "curated"
     },
     {
-      "id": "fb22e3088b20",
+      "id": "0c00befe97d8",
+      "title": "Windscribe Free 10GB",
+      "provider": "Windscribe",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://windscribe.com/",
+      "desc": "VPN 10GB/bulan gratis kalau konfirmasi email, 10+ lokasi negara. Bisa ganti region.",
+      "tags": [
+        "vpn",
+        "privacy"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "b546a5cdf45d",
+      "title": "Tailscale Personal",
+      "provider": "Tailscale",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Personal use",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://tailscale.com/pricing",
+      "desc": "Mesh VPN gratis 3 user + 100 device. Cara termudah akses VPS/homelab tanpa buka port.",
+      "tags": [
+        "vpn",
+        "developer",
+        "privacy"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "31c01fa80275",
+      "title": "Supabase Free Tier",
+      "provider": "Supabase",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://supabase.com/pricing",
+      "desc": "Postgres 500MB, auth, storage 1GB, realtime. Project di-pause kalau idle 1 minggu.",
+      "tags": [
+        "database",
+        "backend",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ddf03ef75f9c",
+      "title": "Neon Free Tier",
+      "provider": "Neon",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://neon.com/pricing",
+      "desc": "Serverless Postgres 0.5GB, branching database (bikin cabang DB kayak git).",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "3927a05c4878",
+      "title": "MongoDB Atlas M0",
+      "provider": "MongoDB",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.mongodb.com/pricing",
+      "desc": "Cluster shared 512MB gratis permanen, tanpa kartu kredit.",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "d63d4ba53ae1",
+      "title": "Upstash Free Tier",
+      "provider": "Upstash",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://upstash.com/pricing",
+      "desc": "Redis + Kafka serverless, bayar per request. Free tier 10k command/hari.",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "0eba2a607f13",
+      "title": "Netlify Free",
+      "provider": "Netlify",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.netlify.com/pricing/",
+      "desc": "Static hosting 100GB bandwidth/bln + serverless function 125k req.",
+      "tags": [
+        "hosting",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9f4c15ad7b69",
+      "title": "GitHub Pages",
+      "provider": "GitHub",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://pages.github.com/",
+      "desc": "Hosting static dari repo, 100GB bandwidth/bln, custom domain + SSL gratis.",
+      "tags": [
+        "hosting",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "587972a46458",
+      "title": "Render Free Web Service",
+      "provider": "Render",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://render.com/pricing",
+      "desc": "Web service gratis (sleep setelah 15 menit idle) + static site unlimited.",
+      "tags": [
+        "hosting",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "bd2373a04af3",
+      "title": "Resend Free 3000 Email",
+      "provider": "Resend",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://resend.com/pricing",
+      "desc": "3.000 email/bulan, 100/hari. API transactional email paling gampang dipakai.",
+      "tags": [
+        "email",
+        "api",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "67f4e7471984",
+      "title": "Cloudinary Free Tier",
+      "provider": "Cloudinary",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://cloudinary.com/pricing",
+      "desc": "CDN gambar/video + transform on-the-fly, 25 credit/bln (~25GB bandwidth).",
+      "tags": [
+        "media",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9b0feeb83379",
+      "title": "GitHub Codespaces Free",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "Selamanya (kuota bulanan)",
+      "price": "$0",
+      "eligibility": "Akun personal",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://github.com/features/codespaces",
+      "desc": "120 core-hours + 15GB storage per bulan gratis. VS Code di browser, cocok tanpa laptop kuat.",
+      "tags": [
+        "developer",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c905df808a63",
+      "title": "Postman Free",
+      "provider": "Postman",
+      "category": "Developer",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.postman.com/pricing/",
+      "desc": "API testing, 3 collaborator, unlimited collection & request.",
+      "tags": [
+        "developer",
+        "api"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "3f6ba69c5fa2",
+      "title": "MEGA 20GB Free",
+      "provider": "MEGA",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://mega.io/pricing",
+      "desc": "20GB gratis dengan enkripsi end-to-end. Transfer quota dibatasi per hari.",
+      "tags": [
+        "storage",
+        "privacy"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c1475bb5aed2",
+      "title": "Google Drive 15GB",
+      "provider": "Google",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://one.google.com/about/plans",
+      "desc": "15GB dibagi Drive + Gmail + Photos. Google One trial 1 bulan untuk upgrade.",
+      "tags": [
+        "storage"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "cda9e347e88a",
+      "title": "Backblaze B2 10GB",
+      "provider": "Backblaze",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.backblaze.com/cloud-storage/pricing",
+      "desc": "Object storage S3-compatible 10GB gratis. Egress gratis kalau lewat Cloudflare.",
+      "tags": [
+        "storage",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f817f0bfd730",
+      "title": "Dropbox Basic 2GB",
+      "provider": "Dropbox",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.dropbox.com/plans",
+      "desc": "2GB gratis, bisa nambah lewat referral. Sync paling stabil lintas OS.",
+      "tags": [
+        "storage"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "2dfd3ac84ef8",
+      "title": "n8n Self-Hosted",
+      "provider": "n8n",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Self-host",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://n8n.io/pricing/",
+      "desc": "Workflow automation unlimited kalau host sendiri (Docker). Alternatif Zapier tanpa biaya.",
+      "tags": [
+        "automation",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f6f3bc5677d4",
+      "title": "Zapier Free",
+      "provider": "Zapier",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://zapier.com/pricing",
+      "desc": "100 task/bulan, 5 zap single-step. Cukup untuk automation ringan.",
+      "tags": [
+        "automation"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "3011daf7b820",
+      "title": "Make Free",
+      "provider": "Make",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.make.com/en/pricing",
+      "desc": "1.000 operation/bulan, 2 active scenario. Editor visual lebih fleksibel dari Zapier.",
+      "tags": [
+        "automation"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "863713d508f9",
+      "title": "Google Apps Script",
+      "provider": "Google",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Akun Google",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://script.google.com/",
+      "desc": "Automation Sheets/Gmail/Drive + trigger terjadwal. Gratis penuh, kuota harian wajar.",
+      "tags": [
+        "automation",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "850c1c0f8677",
+      "title": "Epic Games Free Weekly",
+      "provider": "Epic Games",
+      "category": "Gaming",
+      "duration": "Rotasi tiap minggu",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://store.epicgames.com/free-games",
+      "desc": "1-2 game berbayar digratiskan tiap Kamis, klaim = milik permanen. Sudah ratusan game dibagi.",
+      "tags": [
+        "gaming",
+        "deal"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "741ec225001d",
+      "title": "Steam Free to Play",
+      "provider": "Valve",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://store.steampowered.com/genre/Free%20to%20Play/",
+      "desc": "Katalog F2P + demo. Steam Next Fest tiap kuartal ada ratusan demo gratis.",
+      "tags": [
+        "gaming"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "276b986fef94",
+      "title": "Unity Personal",
+      "provider": "Unity",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Revenue < $200k/tahun",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://unity.com/products/unity-personal",
+      "desc": "Engine lengkap gratis sampai revenue $200k/tahun. Splash screen sudah opsional.",
+      "tags": [
+        "gaming",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a64d079e9b6e",
+      "title": "Unreal Engine 5",
+      "provider": "Epic Games",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0 sampai $1jt revenue",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.unrealengine.com/download",
+      "desc": "Gratis sampai game revenue $1jt, lalu royalti 5%. Non-game (film/arsitektur) gratis penuh.",
+      "tags": [
+        "gaming",
+        "developer",
+        "3d"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "143b724efc89",
+      "title": "Godot Engine",
+      "provider": "Godot Foundation",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://godotengine.org/",
+      "desc": "Engine 2D/3D open source MIT — tanpa royalti, tanpa splash, tanpa batas revenue.",
+      "tags": [
+        "gaming",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f24fb01ebd20",
+      "title": "FL Studio Trial",
+      "provider": "Image-Line",
+      "category": "Music",
+      "duration": "Tanpa batas waktu",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.image-line.com/fl-studio-download/",
+      "desc": "Trial tanpa expiry — semua fitur jalan, cuma tidak bisa buka ulang project yang disave.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "381a6adf1d9b",
+      "title": "Ableton Live Trial",
+      "provider": "Ableton",
+      "category": "Music",
+      "duration": "90 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.ableton.com/en/trial/",
+      "desc": "Trial penuh 90 hari (paling panjang di kelas DAW). Ada harga student ~40% off setelahnya.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ab9b4f5cadd9",
+      "title": "Reaper 60-Day Eval",
+      "provider": "Cockos",
+      "category": "Music",
+      "duration": "60 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.reaper.fm/",
+      "desc": "DAW ringan, eval 60 hari tanpa batasan fitur. Lisensi personal cuma $60 sekali bayar.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7656b2ab7938",
+      "title": "BandLab",
+      "provider": "BandLab",
+      "category": "Music",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.bandlab.com/",
+      "desc": "DAW browser + mastering gratis unlimited + distribusi ke Spotify tanpa biaya.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9e72f387c5c5",
+      "title": "ElevenLabs Free",
+      "provider": "ElevenLabs",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://elevenlabs.io/pricing",
+      "desc": "10.000 karakter TTS/bulan, voice cloning di tier bayar. Kualitas suara terbaik saat ini.",
+      "tags": [
+        "ai",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4302ada24c62",
+      "title": "Leonardo AI Free",
+      "provider": "Leonardo",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://leonardo.ai/",
+      "desc": "150 token/hari untuk generate gambar. Model fine-tune komunitas banyak.",
+      "tags": [
+        "ai",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "d4a0466eaad3",
+      "title": "Suno Free",
+      "provider": "Suno",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://suno.com/",
+      "desc": "Generate lagu lengkap (vokal + instrumen), 50 credit/hari. Non-komersial di tier gratis.",
+      "tags": [
+        "ai",
+        "music"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4e96bf3a4422",
+      "title": "Windsurf / Codeium Free",
+      "provider": "Codeium",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://windsurf.com/pricing",
+      "desc": "AI autocomplete + chat gratis unlimited untuk individu. Alternatif Copilot tanpa bayar.",
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "2da0ec2ac601",
+      "title": "GIMP",
+      "provider": "GNU",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.gimp.org/",
+      "desc": "Photo editing raster, alternatif Photoshop. Gratis penuh tanpa akun.",
+      "tags": [
+        "design",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ecfedc760a57",
+      "title": "Krita",
+      "provider": "KDE",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://krita.org/",
+      "desc": "Digital painting & ilustrasi, brush engine kelas pro. Gratis, dibiayai donasi.",
+      "tags": [
+        "design",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c87cf4e5ff79",
+      "title": "Inkscape",
+      "provider": "Inkscape",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://inkscape.org/",
+      "desc": "Vector editor (SVG), alternatif Illustrator. Cocok untuk logo & aset web.",
+      "tags": [
+        "design",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f17754b92557",
+      "title": "Linux Foundation Free Courses",
+      "provider": "Linux Foundation",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://training.linuxfoundation.org/resources/free-courses/",
+      "desc": "~60 course gratis: Kubernetes, DevOps, blockchain, Linux dasar. Sertifikat berbayar terpisah.",
+      "tags": [
+        "education",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f77e0b9b7a6d",
+      "title": "Kaggle Learn",
+      "provider": "Kaggle",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.kaggle.com/learn",
+      "desc": "Micro-course data science + notebook GPU 30 jam/minggu gratis.",
+      "tags": [
+        "education",
+        "ai",
+        "data"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "12f2c2eebbec",
+      "title": "Microsoft Learn",
+      "provider": "Microsoft",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://learn.microsoft.com/training/",
+      "desc": "Learning path Azure, .NET, Power Platform + sandbox lab gratis.",
+      "tags": [
+        "education",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "be2ec7a58b04",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -948,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4lp4",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2ce2",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -973,8 +1693,8 @@
       "source": "feed"
     },
     {
-      "id": "389d7c61cf87",
-      "title": "Free Model Meets Free Server: Designing a Repeatable Reliability Experiment",
+      "id": "b9321c5fd7ea",
+      "title": "Student Account Recovery Design for Password Reset Flows Without Account Enumeration",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -982,8 +1702,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/aiio_6471/free-model-meets-free-server-designing-a-repeatable-reliability-experiment-1dfe",
-      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into a working pipeline ",
+      "url": "https://dev.to/milohastings5316/student-account-recovery-design-for-password-reset-flows-without-account-enumeration-6bd",
+      "desc": "Student account recovery is a boundary-setting problem, not a form-design problem. For an education platform moving off a managed authentication provider, the least complex flow that preserves account continuity is two s",
       "tags": [
         "news"
       ],
@@ -1120,6 +1840,40 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3eaae75266f5",
+      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+      "desc": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. I",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "d420c0bf0964",
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "desc": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of",
       "tags": [
         "news"
       ],
@@ -2510,7 +3264,727 @@
       "source": "curated"
     },
     {
-      "id": "fb22e3088b20",
+      "id": "0c00befe97d8",
+      "title": "Windscribe Free 10GB",
+      "provider": "Windscribe",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://windscribe.com/",
+      "desc": "VPN 10GB/bulan gratis kalau konfirmasi email, 10+ lokasi negara. Bisa ganti region.",
+      "tags": [
+        "vpn",
+        "privacy"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "b546a5cdf45d",
+      "title": "Tailscale Personal",
+      "provider": "Tailscale",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Personal use",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://tailscale.com/pricing",
+      "desc": "Mesh VPN gratis 3 user + 100 device. Cara termudah akses VPS/homelab tanpa buka port.",
+      "tags": [
+        "vpn",
+        "developer",
+        "privacy"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "31c01fa80275",
+      "title": "Supabase Free Tier",
+      "provider": "Supabase",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://supabase.com/pricing",
+      "desc": "Postgres 500MB, auth, storage 1GB, realtime. Project di-pause kalau idle 1 minggu.",
+      "tags": [
+        "database",
+        "backend",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ddf03ef75f9c",
+      "title": "Neon Free Tier",
+      "provider": "Neon",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://neon.com/pricing",
+      "desc": "Serverless Postgres 0.5GB, branching database (bikin cabang DB kayak git).",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "3927a05c4878",
+      "title": "MongoDB Atlas M0",
+      "provider": "MongoDB",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.mongodb.com/pricing",
+      "desc": "Cluster shared 512MB gratis permanen, tanpa kartu kredit.",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "d63d4ba53ae1",
+      "title": "Upstash Free Tier",
+      "provider": "Upstash",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://upstash.com/pricing",
+      "desc": "Redis + Kafka serverless, bayar per request. Free tier 10k command/hari.",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "0eba2a607f13",
+      "title": "Netlify Free",
+      "provider": "Netlify",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.netlify.com/pricing/",
+      "desc": "Static hosting 100GB bandwidth/bln + serverless function 125k req.",
+      "tags": [
+        "hosting",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9f4c15ad7b69",
+      "title": "GitHub Pages",
+      "provider": "GitHub",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://pages.github.com/",
+      "desc": "Hosting static dari repo, 100GB bandwidth/bln, custom domain + SSL gratis.",
+      "tags": [
+        "hosting",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "587972a46458",
+      "title": "Render Free Web Service",
+      "provider": "Render",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://render.com/pricing",
+      "desc": "Web service gratis (sleep setelah 15 menit idle) + static site unlimited.",
+      "tags": [
+        "hosting",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "bd2373a04af3",
+      "title": "Resend Free 3000 Email",
+      "provider": "Resend",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://resend.com/pricing",
+      "desc": "3.000 email/bulan, 100/hari. API transactional email paling gampang dipakai.",
+      "tags": [
+        "email",
+        "api",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "67f4e7471984",
+      "title": "Cloudinary Free Tier",
+      "provider": "Cloudinary",
+      "category": "Hosting",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://cloudinary.com/pricing",
+      "desc": "CDN gambar/video + transform on-the-fly, 25 credit/bln (~25GB bandwidth).",
+      "tags": [
+        "media",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9b0feeb83379",
+      "title": "GitHub Codespaces Free",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "Selamanya (kuota bulanan)",
+      "price": "$0",
+      "eligibility": "Akun personal",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://github.com/features/codespaces",
+      "desc": "120 core-hours + 15GB storage per bulan gratis. VS Code di browser, cocok tanpa laptop kuat.",
+      "tags": [
+        "developer",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c905df808a63",
+      "title": "Postman Free",
+      "provider": "Postman",
+      "category": "Developer",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.postman.com/pricing/",
+      "desc": "API testing, 3 collaborator, unlimited collection & request.",
+      "tags": [
+        "developer",
+        "api"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "3f6ba69c5fa2",
+      "title": "MEGA 20GB Free",
+      "provider": "MEGA",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://mega.io/pricing",
+      "desc": "20GB gratis dengan enkripsi end-to-end. Transfer quota dibatasi per hari.",
+      "tags": [
+        "storage",
+        "privacy"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c1475bb5aed2",
+      "title": "Google Drive 15GB",
+      "provider": "Google",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://one.google.com/about/plans",
+      "desc": "15GB dibagi Drive + Gmail + Photos. Google One trial 1 bulan untuk upgrade.",
+      "tags": [
+        "storage"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "cda9e347e88a",
+      "title": "Backblaze B2 10GB",
+      "provider": "Backblaze",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.backblaze.com/cloud-storage/pricing",
+      "desc": "Object storage S3-compatible 10GB gratis. Egress gratis kalau lewat Cloudflare.",
+      "tags": [
+        "storage",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f817f0bfd730",
+      "title": "Dropbox Basic 2GB",
+      "provider": "Dropbox",
+      "category": "Storage",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.dropbox.com/plans",
+      "desc": "2GB gratis, bisa nambah lewat referral. Sync paling stabil lintas OS.",
+      "tags": [
+        "storage"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "2dfd3ac84ef8",
+      "title": "n8n Self-Hosted",
+      "provider": "n8n",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Self-host",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://n8n.io/pricing/",
+      "desc": "Workflow automation unlimited kalau host sendiri (Docker). Alternatif Zapier tanpa biaya.",
+      "tags": [
+        "automation",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f6f3bc5677d4",
+      "title": "Zapier Free",
+      "provider": "Zapier",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://zapier.com/pricing",
+      "desc": "100 task/bulan, 5 zap single-step. Cukup untuk automation ringan.",
+      "tags": [
+        "automation"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "3011daf7b820",
+      "title": "Make Free",
+      "provider": "Make",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.make.com/en/pricing",
+      "desc": "1.000 operation/bulan, 2 active scenario. Editor visual lebih fleksibel dari Zapier.",
+      "tags": [
+        "automation"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "863713d508f9",
+      "title": "Google Apps Script",
+      "provider": "Google",
+      "category": "Automation",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Akun Google",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://script.google.com/",
+      "desc": "Automation Sheets/Gmail/Drive + trigger terjadwal. Gratis penuh, kuota harian wajar.",
+      "tags": [
+        "automation",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "850c1c0f8677",
+      "title": "Epic Games Free Weekly",
+      "provider": "Epic Games",
+      "category": "Gaming",
+      "duration": "Rotasi tiap minggu",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://store.epicgames.com/free-games",
+      "desc": "1-2 game berbayar digratiskan tiap Kamis, klaim = milik permanen. Sudah ratusan game dibagi.",
+      "tags": [
+        "gaming",
+        "deal"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "741ec225001d",
+      "title": "Steam Free to Play",
+      "provider": "Valve",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://store.steampowered.com/genre/Free%20to%20Play/",
+      "desc": "Katalog F2P + demo. Steam Next Fest tiap kuartal ada ratusan demo gratis.",
+      "tags": [
+        "gaming"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "276b986fef94",
+      "title": "Unity Personal",
+      "provider": "Unity",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Revenue < $200k/tahun",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://unity.com/products/unity-personal",
+      "desc": "Engine lengkap gratis sampai revenue $200k/tahun. Splash screen sudah opsional.",
+      "tags": [
+        "gaming",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a64d079e9b6e",
+      "title": "Unreal Engine 5",
+      "provider": "Epic Games",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0 sampai $1jt revenue",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.unrealengine.com/download",
+      "desc": "Gratis sampai game revenue $1jt, lalu royalti 5%. Non-game (film/arsitektur) gratis penuh.",
+      "tags": [
+        "gaming",
+        "developer",
+        "3d"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "143b724efc89",
+      "title": "Godot Engine",
+      "provider": "Godot Foundation",
+      "category": "Gaming",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://godotengine.org/",
+      "desc": "Engine 2D/3D open source MIT — tanpa royalti, tanpa splash, tanpa batas revenue.",
+      "tags": [
+        "gaming",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f24fb01ebd20",
+      "title": "FL Studio Trial",
+      "provider": "Image-Line",
+      "category": "Music",
+      "duration": "Tanpa batas waktu",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.image-line.com/fl-studio-download/",
+      "desc": "Trial tanpa expiry — semua fitur jalan, cuma tidak bisa buka ulang project yang disave.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "381a6adf1d9b",
+      "title": "Ableton Live Trial",
+      "provider": "Ableton",
+      "category": "Music",
+      "duration": "90 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.ableton.com/en/trial/",
+      "desc": "Trial penuh 90 hari (paling panjang di kelas DAW). Ada harga student ~40% off setelahnya.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ab9b4f5cadd9",
+      "title": "Reaper 60-Day Eval",
+      "provider": "Cockos",
+      "category": "Music",
+      "duration": "60 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.reaper.fm/",
+      "desc": "DAW ringan, eval 60 hari tanpa batasan fitur. Lisensi personal cuma $60 sekali bayar.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7656b2ab7938",
+      "title": "BandLab",
+      "provider": "BandLab",
+      "category": "Music",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.bandlab.com/",
+      "desc": "DAW browser + mastering gratis unlimited + distribusi ke Spotify tanpa biaya.",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9e72f387c5c5",
+      "title": "ElevenLabs Free",
+      "provider": "ElevenLabs",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://elevenlabs.io/pricing",
+      "desc": "10.000 karakter TTS/bulan, voice cloning di tier bayar. Kualitas suara terbaik saat ini.",
+      "tags": [
+        "ai",
+        "audio"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4302ada24c62",
+      "title": "Leonardo AI Free",
+      "provider": "Leonardo",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://leonardo.ai/",
+      "desc": "150 token/hari untuk generate gambar. Model fine-tune komunitas banyak.",
+      "tags": [
+        "ai",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "d4a0466eaad3",
+      "title": "Suno Free",
+      "provider": "Suno",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://suno.com/",
+      "desc": "Generate lagu lengkap (vokal + instrumen), 50 credit/hari. Non-komersial di tier gratis.",
+      "tags": [
+        "ai",
+        "music"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4e96bf3a4422",
+      "title": "Windsurf / Codeium Free",
+      "provider": "Codeium",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://windsurf.com/pricing",
+      "desc": "AI autocomplete + chat gratis unlimited untuk individu. Alternatif Copilot tanpa bayar.",
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "2da0ec2ac601",
+      "title": "GIMP",
+      "provider": "GNU",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.gimp.org/",
+      "desc": "Photo editing raster, alternatif Photoshop. Gratis penuh tanpa akun.",
+      "tags": [
+        "design",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ecfedc760a57",
+      "title": "Krita",
+      "provider": "KDE",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://krita.org/",
+      "desc": "Digital painting & ilustrasi, brush engine kelas pro. Gratis, dibiayai donasi.",
+      "tags": [
+        "design",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c87cf4e5ff79",
+      "title": "Inkscape",
+      "provider": "Inkscape",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://inkscape.org/",
+      "desc": "Vector editor (SVG), alternatif Illustrator. Cocok untuk logo & aset web.",
+      "tags": [
+        "design",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f17754b92557",
+      "title": "Linux Foundation Free Courses",
+      "provider": "Linux Foundation",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://training.linuxfoundation.org/resources/free-courses/",
+      "desc": "~60 course gratis: Kubernetes, DevOps, blockchain, Linux dasar. Sertifikat berbayar terpisah.",
+      "tags": [
+        "education",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f77e0b9b7a6d",
+      "title": "Kaggle Learn",
+      "provider": "Kaggle",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.kaggle.com/learn",
+      "desc": "Micro-course data science + notebook GPU 30 jam/minggu gratis.",
+      "tags": [
+        "education",
+        "ai",
+        "data"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "12f2c2eebbec",
+      "title": "Microsoft Learn",
+      "provider": "Microsoft",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://learn.microsoft.com/training/",
+      "desc": "Learning path Azure, .NET, Power Platform + sandbox lab gratis.",
+      "tags": [
+        "education",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "be2ec7a58b04",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -2519,7 +3993,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4lp4",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2ce2",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -2544,8 +4018,8 @@
       "source": "feed"
     },
     {
-      "id": "389d7c61cf87",
-      "title": "Free Model Meets Free Server: Designing a Repeatable Reliability Experiment",
+      "id": "b9321c5fd7ea",
+      "title": "Student Account Recovery Design for Password Reset Flows Without Account Enumeration",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -2553,8 +4027,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/aiio_6471/free-model-meets-free-server-designing-a-repeatable-reliability-experiment-1dfe",
-      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into a working pipeline ",
+      "url": "https://dev.to/milohastings5316/student-account-recovery-design-for-password-reset-flows-without-account-enumeration-6bd",
+      "desc": "Student account recovery is a boundary-setting problem, not a form-design problem. For an education platform moving off a managed authentication provider, the least complex flow that preserves account continuity is two s",
       "tags": [
         "news"
       ],
@@ -2691,6 +4165,40 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3eaae75266f5",
+      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+      "desc": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. I",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "d420c0bf0964",
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "desc": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of",
       "tags": [
         "news"
       ],

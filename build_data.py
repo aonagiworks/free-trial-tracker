@@ -70,6 +70,62 @@ CURATED = [
   {"t":"Cloudflare WARP","p":"Cloudflare","c":"Privacy","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://one.one.one.one/","x":"VPN-ish (1.1.1.1) gratis unlimited, bukan untuk ganti lokasi negara.","g":["privacy","vpn"]},
   {"t":"Bitwarden Free","p":"Bitwarden","c":"Privacy","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://bitwarden.com/","x":"Password manager gratis unlimited device & unlimited password. Open source.","g":["privacy","security"]},
   {"t":"Namecheap .me Domain","p":"Namecheap","c":"Developer","d":"1 tahun","pr":"$0","e":"Lewat GitHub Student Pack","r":"Global","u":"https://education.github.com/pack/offers","x":"Domain .me gratis 1 tahun + SSL. Klaim dari GitHub Student Pack.","g":["student","domain"]},
+  {"t":"Windscribe Free 10GB","p":"Windscribe","c":"Privacy","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://windscribe.com/","x":"VPN 10GB/bulan gratis kalau konfirmasi email, 10+ lokasi negara. Bisa ganti region.","g":["vpn","privacy"]},
+  {"t":"Tailscale Personal","p":"Tailscale","c":"Privacy","d":"Selamanya","pr":"$0","e":"Personal use","r":"Global","u":"https://tailscale.com/pricing","x":"Mesh VPN gratis 3 user + 100 device. Cara termudah akses VPS/homelab tanpa buka port.","g":["vpn","developer","privacy"]},
+
+  # ---------- HOSTING / DATABASE ----------
+  {"t":"Supabase Free Tier","p":"Supabase","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://supabase.com/pricing","x":"Postgres 500MB, auth, storage 1GB, realtime. Project di-pause kalau idle 1 minggu.","g":["database","backend","developer"]},
+  {"t":"Neon Free Tier","p":"Neon","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://neon.com/pricing","x":"Serverless Postgres 0.5GB, branching database (bikin cabang DB kayak git).","g":["database","developer"]},
+  {"t":"MongoDB Atlas M0","p":"MongoDB","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.mongodb.com/pricing","x":"Cluster shared 512MB gratis permanen, tanpa kartu kredit.","g":["database","developer"]},
+  {"t":"Upstash Free Tier","p":"Upstash","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://upstash.com/pricing","x":"Redis + Kafka serverless, bayar per request. Free tier 10k command/hari.","g":["database","developer"]},
+  {"t":"Netlify Free","p":"Netlify","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.netlify.com/pricing/","x":"Static hosting 100GB bandwidth/bln + serverless function 125k req.","g":["hosting","developer"]},
+  {"t":"GitHub Pages","p":"GitHub","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://pages.github.com/","x":"Hosting static dari repo, 100GB bandwidth/bln, custom domain + SSL gratis.","g":["hosting","developer"]},
+  {"t":"Render Free Web Service","p":"Render","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://render.com/pricing","x":"Web service gratis (sleep setelah 15 menit idle) + static site unlimited.","g":["hosting","developer"]},
+  {"t":"Resend Free 3000 Email","p":"Resend","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://resend.com/pricing","x":"3.000 email/bulan, 100/hari. API transactional email paling gampang dipakai.","g":["email","api","developer"]},
+  {"t":"Cloudinary Free Tier","p":"Cloudinary","c":"Hosting","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://cloudinary.com/pricing","x":"CDN gambar/video + transform on-the-fly, 25 credit/bln (~25GB bandwidth).","g":["media","developer"]},
+  {"t":"GitHub Codespaces Free","p":"GitHub","c":"Developer","d":"Selamanya (kuota bulanan)","pr":"$0","e":"Akun personal","r":"Global","u":"https://github.com/features/codespaces","x":"120 core-hours + 15GB storage per bulan gratis. VS Code di browser, cocok tanpa laptop kuat.","g":["developer","cloud"]},
+  {"t":"Postman Free","p":"Postman","c":"Developer","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.postman.com/pricing/","x":"API testing, 3 collaborator, unlimited collection & request.","g":["developer","api"]},
+
+  # ---------- STORAGE ----------
+  {"t":"MEGA 20GB Free","p":"MEGA","c":"Storage","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://mega.io/pricing","x":"20GB gratis dengan enkripsi end-to-end. Transfer quota dibatasi per hari.","g":["storage","privacy"]},
+  {"t":"Google Drive 15GB","p":"Google","c":"Storage","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://one.google.com/about/plans","x":"15GB dibagi Drive + Gmail + Photos. Google One trial 1 bulan untuk upgrade.","g":["storage"]},
+  {"t":"Backblaze B2 10GB","p":"Backblaze","c":"Storage","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.backblaze.com/cloud-storage/pricing","x":"Object storage S3-compatible 10GB gratis. Egress gratis kalau lewat Cloudflare.","g":["storage","developer"]},
+  {"t":"Dropbox Basic 2GB","p":"Dropbox","c":"Storage","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.dropbox.com/plans","x":"2GB gratis, bisa nambah lewat referral. Sync paling stabil lintas OS.","g":["storage"]},
+
+  # ---------- AUTOMATION / NO-CODE ----------
+  {"t":"n8n Self-Hosted","p":"n8n","c":"Automation","d":"Selamanya","pr":"$0","e":"Self-host","r":"Global","u":"https://n8n.io/pricing/","x":"Workflow automation unlimited kalau host sendiri (Docker). Alternatif Zapier tanpa biaya.","g":["automation","opensource"]},
+  {"t":"Zapier Free","p":"Zapier","c":"Automation","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://zapier.com/pricing","x":"100 task/bulan, 5 zap single-step. Cukup untuk automation ringan.","g":["automation"]},
+  {"t":"Make Free","p":"Make","c":"Automation","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.make.com/en/pricing","x":"1.000 operation/bulan, 2 active scenario. Editor visual lebih fleksibel dari Zapier.","g":["automation"]},
+  {"t":"Google Apps Script","p":"Google","c":"Automation","d":"Selamanya","pr":"$0","e":"Akun Google","r":"Global","u":"https://script.google.com/","x":"Automation Sheets/Gmail/Drive + trigger terjadwal. Gratis penuh, kuota harian wajar.","g":["automation","developer"]},
+
+  # ---------- GAMING ----------
+  {"t":"Epic Games Free Weekly","p":"Epic Games","c":"Gaming","d":"Rotasi tiap minggu","pr":"$0","e":"Umum","r":"Global","u":"https://store.epicgames.com/free-games","x":"1-2 game berbayar digratiskan tiap Kamis, klaim = milik permanen. Sudah ratusan game dibagi.","g":["gaming","deal"]},
+  {"t":"Steam Free to Play","p":"Valve","c":"Gaming","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://store.steampowered.com/genre/Free%20to%20Play/","x":"Katalog F2P + demo. Steam Next Fest tiap kuartal ada ratusan demo gratis.","g":["gaming"]},
+  {"t":"Unity Personal","p":"Unity","c":"Gaming","d":"Selamanya","pr":"$0","e":"Revenue < $200k/tahun","r":"Global","u":"https://unity.com/products/unity-personal","x":"Engine lengkap gratis sampai revenue $200k/tahun. Splash screen sudah opsional.","g":["gaming","developer"]},
+  {"t":"Unreal Engine 5","p":"Epic Games","c":"Gaming","d":"Selamanya","pr":"$0 sampai $1jt revenue","e":"Umum","r":"Global","u":"https://www.unrealengine.com/download","x":"Gratis sampai game revenue $1jt, lalu royalti 5%. Non-game (film/arsitektur) gratis penuh.","g":["gaming","developer","3d"]},
+  {"t":"Godot Engine","p":"Godot Foundation","c":"Gaming","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://godotengine.org/","x":"Engine 2D/3D open source MIT — tanpa royalti, tanpa splash, tanpa batas revenue.","g":["gaming","opensource"]},
+
+  # ---------- MUSIC / AUDIO PRODUCTION ----------
+  {"t":"FL Studio Trial","p":"Image-Line","c":"Music","d":"Tanpa batas waktu","pr":"$0 trial","e":"Umum","r":"Global","u":"https://www.image-line.com/fl-studio-download/","x":"Trial tanpa expiry — semua fitur jalan, cuma tidak bisa buka ulang project yang disave.","g":["music","audio"]},
+  {"t":"Ableton Live Trial","p":"Ableton","c":"Music","d":"90 hari","pr":"$0 trial","e":"Umum","r":"Global","u":"https://www.ableton.com/en/trial/","x":"Trial penuh 90 hari (paling panjang di kelas DAW). Ada harga student ~40% off setelahnya.","g":["music","audio"]},
+  {"t":"Reaper 60-Day Eval","p":"Cockos","c":"Music","d":"60 hari","pr":"$0 trial","e":"Umum","r":"Global","u":"https://www.reaper.fm/","x":"DAW ringan, eval 60 hari tanpa batasan fitur. Lisensi personal cuma $60 sekali bayar.","g":["music","audio"]},
+  {"t":"BandLab","p":"BandLab","c":"Music","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.bandlab.com/","x":"DAW browser + mastering gratis unlimited + distribusi ke Spotify tanpa biaya.","g":["music","audio"]},
+
+  # ---------- AI CREATIVE ----------
+  {"t":"ElevenLabs Free","p":"ElevenLabs","c":"AI","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://elevenlabs.io/pricing","x":"10.000 karakter TTS/bulan, voice cloning di tier bayar. Kualitas suara terbaik saat ini.","g":["ai","audio"]},
+  {"t":"Leonardo AI Free","p":"Leonardo","c":"AI","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://leonardo.ai/","x":"150 token/hari untuk generate gambar. Model fine-tune komunitas banyak.","g":["ai","design"]},
+  {"t":"Suno Free","p":"Suno","c":"AI","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://suno.com/","x":"Generate lagu lengkap (vokal + instrumen), 50 credit/hari. Non-komersial di tier gratis.","g":["ai","music"]},
+  {"t":"Windsurf / Codeium Free","p":"Codeium","c":"AI","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://windsurf.com/pricing","x":"AI autocomplete + chat gratis unlimited untuk individu. Alternatif Copilot tanpa bayar.","g":["ai","developer"]},
+
+  # ---------- DESIGN OPEN SOURCE ----------
+  {"t":"GIMP","p":"GNU","c":"Design","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.gimp.org/","x":"Photo editing raster, alternatif Photoshop. Gratis penuh tanpa akun.","g":["design","opensource"]},
+  {"t":"Krita","p":"KDE","c":"Design","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://krita.org/","x":"Digital painting & ilustrasi, brush engine kelas pro. Gratis, dibiayai donasi.","g":["design","opensource"]},
+  {"t":"Inkscape","p":"Inkscape","c":"Design","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://inkscape.org/","x":"Vector editor (SVG), alternatif Illustrator. Cocok untuk logo & aset web.","g":["design","opensource"]},
+
+  # ---------- EDUCATION EXTRA ----------
+  {"t":"Linux Foundation Free Courses","p":"Linux Foundation","c":"Education","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://training.linuxfoundation.org/resources/free-courses/","x":"~60 course gratis: Kubernetes, DevOps, blockchain, Linux dasar. Sertifikat berbayar terpisah.","g":["education","developer"]},
+  {"t":"Kaggle Learn","p":"Kaggle","c":"Education","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://www.kaggle.com/learn","x":"Micro-course data science + notebook GPU 30 jam/minggu gratis.","g":["education","ai","data"]},
+  {"t":"Microsoft Learn","p":"Microsoft","c":"Education","d":"Selamanya","pr":"$0","e":"Umum","r":"Global","u":"https://learn.microsoft.com/training/","x":"Learning path Azure, .NET, Power Platform + sandbox lab gratis.","g":["education","cloud"]},
 ]
 
 FEEDS = [
