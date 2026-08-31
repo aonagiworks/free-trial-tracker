@@ -1,0 +1,1378 @@
+{
+  "updated_at": "2026-08-31T14:14:43.383347+00:00",
+  "total": 44,
+  "curated": 25,
+  "from_feeds": 19,
+  "offers": [
+    {
+      "id": "2d42ed8b5dc7",
+      "title": "GitHub Student Developer Pack",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "2 tahun",
+      "price": "$0",
+      "eligibility": "Student verified",
+      "url": "https://education.github.com/pack",
+      "desc": "Copilot Pro + 100+ tools (JetBrains, Canva, Namecheap) gratis untuk student terverifikasi.",
+      "tags": [
+        "student",
+        "developer",
+        "copilot"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "2a119440d320",
+      "title": "JetBrains All Products Pack",
+      "provider": "JetBrains",
+      "category": "Developer",
+      "duration": "1 tahun (renew)",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://www.jetbrains.com/community/education/#students",
+      "desc": "IntelliJ, PyCharm Pro, WebStorm dll gratis untuk student.",
+      "tags": [
+        "student",
+        "ide"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "b63af85f232b",
+      "title": "Perplexity Pro",
+      "provider": "Perplexity",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student (.edu)",
+      "url": "https://www.perplexity.ai/student",
+      "desc": "Pro search + GPT-4o + Claude gratis 1 tahun untuk student (promo US, cek eligibility).",
+      "tags": [
+        "ai",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "998568f0ac28",
+      "title": "Google Gemini Advanced (Google One AI Premium)",
+      "provider": "Google",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student US 18+",
+      "url": "https://gemini.google/students/",
+      "desc": "Gemini Advanced + 2TB Drive gratis 1 tahun untuk student US. Butuh .edu verification.",
+      "tags": [
+        "ai",
+        "student",
+        "google"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "6d0582f9519b",
+      "title": "Cursor Pro",
+      "provider": "Cursor",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://cursor.sh/students",
+      "desc": "AI code editor Pro gratis 1 tahun untuk student verified.",
+      "tags": [
+        "ai",
+        "developer",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4963fc589c4f",
+      "title": "Notion Plus + AI",
+      "provider": "Notion",
+      "category": "Productivity",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student (.edu)",
+      "url": "https://www.notion.com/product/notion-for-education",
+      "desc": "Notion Plus + Notion AI gratis untuk student & educator.",
+      "tags": [
+        "student",
+        "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e1f6fc829b2c",
+      "title": "Figma Education",
+      "provider": "Figma",
+      "category": "Design",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://www.figma.com/education/",
+      "desc": "Figma Professional + FigJam gratis untuk student.",
+      "tags": [
+        "student",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "281ece4b2b34",
+      "title": "Canva Pro for Education",
+      "provider": "Canva",
+      "category": "Design",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student/Educator",
+      "url": "https://www.canva.com/education/",
+      "desc": "Canva Pro gratis untuk student & guru (K-12 & univ tertentu).",
+      "tags": [
+        "student",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "414c027205b0",
+      "title": "Adobe Creative Cloud",
+      "provider": "Adobe",
+      "category": "Editing",
+      "duration": "7 hari trial + diskon 60%",
+      "price": "~Rp 120rb/bln",
+      "eligibility": "Student trial umum",
+      "url": "https://www.adobe.com/creativecloud/buy/students.html",
+      "desc": "Photoshop, Premiere, After Effects. Trial 7 hari, lalu harga student ~60% off.",
+      "tags": [
+        "editing",
+        "student",
+        "adobe"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "50f37543ad4e",
+      "title": "CapCut Pro",
+      "provider": "CapCut",
+      "category": "Editing",
+      "duration": "7 hari trial",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.capcut.com/",
+      "desc": "Video editor Pro trial 7 hari. Banyak fitur tetap free.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7d073fd1429c",
+      "title": "DaVinci Resolve Studio",
+      "provider": "Blackmagic",
+      "category": "Editing",
+      "duration": "Gratis (free version)",
+      "price": "$0",
+      "eligibility": "Umum",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "desc": "Versi free sudah super lengkap untuk editing & color grading.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ad82a3cc5917",
+      "title": "Microsoft 365 Education",
+      "provider": "Microsoft",
+      "category": "Productivity",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://education.microsoft.com/",
+      "desc": "Word, Excel, PowerPoint, Teams + 1TB OneDrive gratis.",
+      "tags": [
+        "student",
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "24779f43d8cc",
+      "title": "Autodesk Education",
+      "provider": "Autodesk",
+      "category": "Design",
+      "duration": "1 tahun",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://www.autodesk.com/education/edu-software/overview",
+      "desc": "AutoCAD, Maya, Revit gratis 1 tahun untuk student.",
+      "tags": [
+        "student",
+        "design",
+        "3d"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f18d854db05f",
+      "title": "Apple Music Student",
+      "provider": "Apple",
+      "category": "Music",
+      "duration": "1 bulan trial + 50% off",
+      "price": "Rp 35rb/bln",
+      "eligibility": "Student",
+      "url": "https://www.apple.com/apple-music/",
+      "desc": "Apple Music + Apple TV+ gratis untuk student.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "58e674317c55",
+      "title": "Spotify Premium Student",
+      "provider": "Spotify",
+      "category": "Music",
+      "duration": "1 bulan trial + 50% off",
+      "price": "~Rp 27rb/bln",
+      "eligibility": "Student",
+      "url": "https://www.spotify.com/student/",
+      "desc": "Premium + Hulu (US) / diskon 50% di ID.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "452ca3460f80",
+      "title": "YouTube Premium Student",
+      "provider": "Google",
+      "category": "Music",
+      "duration": "1 bulan trial + diskon",
+      "price": "~Rp 35rb/bln",
+      "eligibility": "Student",
+      "url": "https://www.youtube.com/premium/student",
+      "desc": "YouTube Premium diskon student + trial 1 bulan.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "dba769c840cc",
+      "title": "GitHub Copilot Free Trial",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "30 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://github.com/features/copilot",
+      "desc": "Copilot trial 30 hari, gratis selamanya jika student via pack.",
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ed4706f78ba4",
+      "title": "ChatGPT Plus Trial",
+      "provider": "OpenAI",
+      "category": "AI",
+      "duration": "— (promo musiman)",
+      "price": "$20/bln normal",
+      "eligibility": "Umum",
+      "url": "https://openai.com/chatgpt/pricing",
+      "desc": "Tidak ada trial permanen, tapi sering ada promo bundle. Free tier tetap ada.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "859bac2d4fb5",
+      "title": "Claude Pro Trial",
+      "provider": "Anthropic",
+      "category": "AI",
+      "duration": "7 hari (via app)",
+      "price": "$20/bln",
+      "eligibility": "Umum",
+      "url": "https://claude.ai/",
+      "desc": "Claude Pro kadang kasih trial 7 hari via mobile subscription.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ad39e226a729",
+      "title": "Vercel Pro Trial",
+      "provider": "Vercel",
+      "category": "Developer",
+      "duration": "14 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://vercel.com/pricing",
+      "desc": "Hobby free selamanya, Pro trial 14 hari.",
+      "tags": [
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "549a975cd5d1",
+      "title": "Framer Pro Trial",
+      "provider": "Framer",
+      "category": "Design",
+      "duration": "14 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.framer.com/pricing",
+      "desc": "Website builder trial 14 hari.",
+      "tags": [
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e226a3ef075e",
+      "title": "Notion AI Trial",
+      "provider": "Notion",
+      "category": "AI",
+      "duration": "Gratis terbatas",
+      "price": "$0",
+      "eligibility": "Umum",
+      "url": "https://www.notion.com/pricing",
+      "desc": "AI trial dengan limit, gratis penuh jika student.",
+      "tags": [
+        "ai",
+        "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "efd2238d1379",
+      "title": "Office 365 Family Trial",
+      "provider": "Microsoft",
+      "category": "Productivity",
+      "duration": "1 bulan",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products",
+      "desc": "Family/Personal 1 bulan trial.",
+      "tags": [
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "aabf913a99a0",
+      "title": "Grammarly Premium",
+      "provider": "Grammarly",
+      "category": "Productivity",
+      "duration": "7 hari trial",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.grammarly.com/",
+      "desc": "Writing assistant premium trial 7 hari.",
+      "tags": [
+        "productivity",
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e47219b5f1a7",
+      "title": "Coursera Plus Trial",
+      "provider": "Coursera",
+      "category": "Education",
+      "duration": "7 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.coursera.org/courseraplus",
+      "desc": "7 hari trial akses 7000+ course.",
+      "tags": [
+        "education"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7cf87755a586",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-d55",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "389d7c61cf87",
+      "title": "Free Model Meets Free Server: Designing a Repeatable Reliability Experiment",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/aiio_6471/free-model-meets-free-server-designing-a-repeatable-reliability-experiment-1dfe",
+      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "e86caf4a3595",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-26em",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "201ff89b3353",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-g24",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c8a8acdd7a6a",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3pd5",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "02dcb49fedfc",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-12k4",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "8a46758e7bcd",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3kmp",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "8bbea75a9bb8",
+      "title": "Best Laptop Deals Singapore June 2026",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/buywhere/best-laptop-deals-singapore-june-2026-38kc",
+      "desc": "\n  \n  \n  Best Laptops for Students and Professionals in Singapore\n\n\nCurated picks for June 2026.\n\n\n  \n  \n  Top Picks\n\n\n\nStudent budget: SGD 800-1,000\nProfessional: SGD 1,200-1,800\nCreative/development",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "42a8a56c73b6",
+      "title": "Realtime Mini Project Centers Chennai: Guided Practical Mini Projects for Engineering Students",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/jawagar_raj_e41371bc8599f/realtime-mini-project-centers-chennai-guided-practical-mini-projects-for-engineering-students-1af7",
+      "desc": "Students searching for realtime mini project centers Chennai can consider project guidance that helps them develop smaller applications based on practical and industry relevant concepts. Realtime mini",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "076c64539cca",
+      "title": "Student Portfolio Builder: How to Get a Free Student Portfolio Website Live in Minutes published: false tags: career",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
+      "desc": "\n  \n  \n  Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "578984e7b35f",
+      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
+      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, stu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c03848aa9cee",
+      "title": "Vacation Accommodation on Student Budget: Finding the Best Deals",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
+      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try loca",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "0b8d0e003fe8",
+      "title": "How I Keep My AI Coding Agent Costs Down as a Student",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
+      "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era rul",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c6049498f461",
+      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-2270",
+      "desc": "Parents are a child's first and most influential teachers, while Special Education Specialists provide the professional expertise needed to support students with diverse learning needs. When families ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4b5d25320f78",
+      "title": "15 Free Online Tools Every Student Should Bookmark",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/jeeajeea/15-free-online-tools-every-student-should-bookmark-30ol",
+      "desc": "Students use dozens of online tools every week for assignments, projects, reports, and productivity. Instead of installing software, many of these tasks can now be completed directly in the browser.\n\n",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "16b2e2d45d99",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "provider": "blog.google",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "ebe6abbf73bf",
+      "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
+      "provider": "techncruncher.blogspot.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+      "desc": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" T",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3613ba53c925",
+      "title": "7 Free Websites Every Content Creator Needs to Know",
+      "provider": "techncruncher.blogspot.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
+      "desc": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know.1.Exploding Topics (Trending Topics)(Photo Credit:- Ex",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "6564e4217734",
+      "title": "Top 9 Free AI Tools That Make Your Life Easier",
+      "provider": "techncruncher.blogspot.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
+      "desc": "Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai. It is an AI based copy writer tool. Basically&nbsp; what a copywriter tool does is, it gives you content that you can post on your blog or video",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    }
+  ],
+  "courses": [
+    {
+      "id": "2d42ed8b5dc7",
+      "title": "GitHub Student Developer Pack",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "2 tahun",
+      "price": "$0",
+      "eligibility": "Student verified",
+      "url": "https://education.github.com/pack",
+      "desc": "Copilot Pro + 100+ tools (JetBrains, Canva, Namecheap) gratis untuk student terverifikasi.",
+      "tags": [
+        "student",
+        "developer",
+        "copilot"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "2a119440d320",
+      "title": "JetBrains All Products Pack",
+      "provider": "JetBrains",
+      "category": "Developer",
+      "duration": "1 tahun (renew)",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://www.jetbrains.com/community/education/#students",
+      "desc": "IntelliJ, PyCharm Pro, WebStorm dll gratis untuk student.",
+      "tags": [
+        "student",
+        "ide"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "b63af85f232b",
+      "title": "Perplexity Pro",
+      "provider": "Perplexity",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student (.edu)",
+      "url": "https://www.perplexity.ai/student",
+      "desc": "Pro search + GPT-4o + Claude gratis 1 tahun untuk student (promo US, cek eligibility).",
+      "tags": [
+        "ai",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "998568f0ac28",
+      "title": "Google Gemini Advanced (Google One AI Premium)",
+      "provider": "Google",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student US 18+",
+      "url": "https://gemini.google/students/",
+      "desc": "Gemini Advanced + 2TB Drive gratis 1 tahun untuk student US. Butuh .edu verification.",
+      "tags": [
+        "ai",
+        "student",
+        "google"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "6d0582f9519b",
+      "title": "Cursor Pro",
+      "provider": "Cursor",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://cursor.sh/students",
+      "desc": "AI code editor Pro gratis 1 tahun untuk student verified.",
+      "tags": [
+        "ai",
+        "developer",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4963fc589c4f",
+      "title": "Notion Plus + AI",
+      "provider": "Notion",
+      "category": "Productivity",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student (.edu)",
+      "url": "https://www.notion.com/product/notion-for-education",
+      "desc": "Notion Plus + Notion AI gratis untuk student & educator.",
+      "tags": [
+        "student",
+        "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e1f6fc829b2c",
+      "title": "Figma Education",
+      "provider": "Figma",
+      "category": "Design",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://www.figma.com/education/",
+      "desc": "Figma Professional + FigJam gratis untuk student.",
+      "tags": [
+        "student",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "281ece4b2b34",
+      "title": "Canva Pro for Education",
+      "provider": "Canva",
+      "category": "Design",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student/Educator",
+      "url": "https://www.canva.com/education/",
+      "desc": "Canva Pro gratis untuk student & guru (K-12 & univ tertentu).",
+      "tags": [
+        "student",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "414c027205b0",
+      "title": "Adobe Creative Cloud",
+      "provider": "Adobe",
+      "category": "Editing",
+      "duration": "7 hari trial + diskon 60%",
+      "price": "~Rp 120rb/bln",
+      "eligibility": "Student trial umum",
+      "url": "https://www.adobe.com/creativecloud/buy/students.html",
+      "desc": "Photoshop, Premiere, After Effects. Trial 7 hari, lalu harga student ~60% off.",
+      "tags": [
+        "editing",
+        "student",
+        "adobe"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "50f37543ad4e",
+      "title": "CapCut Pro",
+      "provider": "CapCut",
+      "category": "Editing",
+      "duration": "7 hari trial",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.capcut.com/",
+      "desc": "Video editor Pro trial 7 hari. Banyak fitur tetap free.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7d073fd1429c",
+      "title": "DaVinci Resolve Studio",
+      "provider": "Blackmagic",
+      "category": "Editing",
+      "duration": "Gratis (free version)",
+      "price": "$0",
+      "eligibility": "Umum",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "desc": "Versi free sudah super lengkap untuk editing & color grading.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ad82a3cc5917",
+      "title": "Microsoft 365 Education",
+      "provider": "Microsoft",
+      "category": "Productivity",
+      "duration": "Gratis selama student",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://education.microsoft.com/",
+      "desc": "Word, Excel, PowerPoint, Teams + 1TB OneDrive gratis.",
+      "tags": [
+        "student",
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "24779f43d8cc",
+      "title": "Autodesk Education",
+      "provider": "Autodesk",
+      "category": "Design",
+      "duration": "1 tahun",
+      "price": "$0",
+      "eligibility": "Student",
+      "url": "https://www.autodesk.com/education/edu-software/overview",
+      "desc": "AutoCAD, Maya, Revit gratis 1 tahun untuk student.",
+      "tags": [
+        "student",
+        "design",
+        "3d"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f18d854db05f",
+      "title": "Apple Music Student",
+      "provider": "Apple",
+      "category": "Music",
+      "duration": "1 bulan trial + 50% off",
+      "price": "Rp 35rb/bln",
+      "eligibility": "Student",
+      "url": "https://www.apple.com/apple-music/",
+      "desc": "Apple Music + Apple TV+ gratis untuk student.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "58e674317c55",
+      "title": "Spotify Premium Student",
+      "provider": "Spotify",
+      "category": "Music",
+      "duration": "1 bulan trial + 50% off",
+      "price": "~Rp 27rb/bln",
+      "eligibility": "Student",
+      "url": "https://www.spotify.com/student/",
+      "desc": "Premium + Hulu (US) / diskon 50% di ID.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "452ca3460f80",
+      "title": "YouTube Premium Student",
+      "provider": "Google",
+      "category": "Music",
+      "duration": "1 bulan trial + diskon",
+      "price": "~Rp 35rb/bln",
+      "eligibility": "Student",
+      "url": "https://www.youtube.com/premium/student",
+      "desc": "YouTube Premium diskon student + trial 1 bulan.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "dba769c840cc",
+      "title": "GitHub Copilot Free Trial",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "30 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://github.com/features/copilot",
+      "desc": "Copilot trial 30 hari, gratis selamanya jika student via pack.",
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ed4706f78ba4",
+      "title": "ChatGPT Plus Trial",
+      "provider": "OpenAI",
+      "category": "AI",
+      "duration": "— (promo musiman)",
+      "price": "$20/bln normal",
+      "eligibility": "Umum",
+      "url": "https://openai.com/chatgpt/pricing",
+      "desc": "Tidak ada trial permanen, tapi sering ada promo bundle. Free tier tetap ada.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "859bac2d4fb5",
+      "title": "Claude Pro Trial",
+      "provider": "Anthropic",
+      "category": "AI",
+      "duration": "7 hari (via app)",
+      "price": "$20/bln",
+      "eligibility": "Umum",
+      "url": "https://claude.ai/",
+      "desc": "Claude Pro kadang kasih trial 7 hari via mobile subscription.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ad39e226a729",
+      "title": "Vercel Pro Trial",
+      "provider": "Vercel",
+      "category": "Developer",
+      "duration": "14 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://vercel.com/pricing",
+      "desc": "Hobby free selamanya, Pro trial 14 hari.",
+      "tags": [
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "549a975cd5d1",
+      "title": "Framer Pro Trial",
+      "provider": "Framer",
+      "category": "Design",
+      "duration": "14 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.framer.com/pricing",
+      "desc": "Website builder trial 14 hari.",
+      "tags": [
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e226a3ef075e",
+      "title": "Notion AI Trial",
+      "provider": "Notion",
+      "category": "AI",
+      "duration": "Gratis terbatas",
+      "price": "$0",
+      "eligibility": "Umum",
+      "url": "https://www.notion.com/pricing",
+      "desc": "AI trial dengan limit, gratis penuh jika student.",
+      "tags": [
+        "ai",
+        "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "efd2238d1379",
+      "title": "Office 365 Family Trial",
+      "provider": "Microsoft",
+      "category": "Productivity",
+      "duration": "1 bulan",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products",
+      "desc": "Family/Personal 1 bulan trial.",
+      "tags": [
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "aabf913a99a0",
+      "title": "Grammarly Premium",
+      "provider": "Grammarly",
+      "category": "Productivity",
+      "duration": "7 hari trial",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.grammarly.com/",
+      "desc": "Writing assistant premium trial 7 hari.",
+      "tags": [
+        "productivity",
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e47219b5f1a7",
+      "title": "Coursera Plus Trial",
+      "provider": "Coursera",
+      "category": "Education",
+      "duration": "7 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "url": "https://www.coursera.org/courseraplus",
+      "desc": "7 hari trial akses 7000+ course.",
+      "tags": [
+        "education"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7cf87755a586",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-d55",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "389d7c61cf87",
+      "title": "Free Model Meets Free Server: Designing a Repeatable Reliability Experiment",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/aiio_6471/free-model-meets-free-server-designing-a-repeatable-reliability-experiment-1dfe",
+      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "e86caf4a3595",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-26em",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "201ff89b3353",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-g24",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c8a8acdd7a6a",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3pd5",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "02dcb49fedfc",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-12k4",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "8a46758e7bcd",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3kmp",
+      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "8bbea75a9bb8",
+      "title": "Best Laptop Deals Singapore June 2026",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/buywhere/best-laptop-deals-singapore-june-2026-38kc",
+      "desc": "\n  \n  \n  Best Laptops for Students and Professionals in Singapore\n\n\nCurated picks for June 2026.\n\n\n  \n  \n  Top Picks\n\n\n\nStudent budget: SGD 800-1,000\nProfessional: SGD 1,200-1,800\nCreative/development",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "42a8a56c73b6",
+      "title": "Realtime Mini Project Centers Chennai: Guided Practical Mini Projects for Engineering Students",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/jawagar_raj_e41371bc8599f/realtime-mini-project-centers-chennai-guided-practical-mini-projects-for-engineering-students-1af7",
+      "desc": "Students searching for realtime mini project centers Chennai can consider project guidance that helps them develop smaller applications based on practical and industry relevant concepts. Realtime mini",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "076c64539cca",
+      "title": "Student Portfolio Builder: How to Get a Free Student Portfolio Website Live in Minutes published: false tags: career",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
+      "desc": "\n  \n  \n  Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "578984e7b35f",
+      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
+      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, stu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c03848aa9cee",
+      "title": "Vacation Accommodation on Student Budget: Finding the Best Deals",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
+      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try loca",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "0b8d0e003fe8",
+      "title": "How I Keep My AI Coding Agent Costs Down as a Student",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
+      "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era rul",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c6049498f461",
+      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-2270",
+      "desc": "Parents are a child's first and most influential teachers, while Special Education Specialists provide the professional expertise needed to support students with diverse learning needs. When families ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4b5d25320f78",
+      "title": "15 Free Online Tools Every Student Should Bookmark",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://dev.to/jeeajeea/15-free-online-tools-every-student-should-bookmark-30ol",
+      "desc": "Students use dozens of online tools every week for assignments, projects, reports, and productivity. Instead of installing software, many of these tasks can now be completed directly in the browser.\n\n",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "16b2e2d45d99",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "provider": "blog.google",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "ebe6abbf73bf",
+      "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
+      "provider": "techncruncher.blogspot.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+      "desc": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" T",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3613ba53c925",
+      "title": "7 Free Websites Every Content Creator Needs to Know",
+      "provider": "techncruncher.blogspot.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
+      "desc": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know.1.Exploding Topics (Trending Topics)(Photo Credit:- Ex",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "6564e4217734",
+      "title": "Top 9 Free AI Tools That Make Your Life Easier",
+      "provider": "techncruncher.blogspot.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
+      "desc": "Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai. It is an AI based copy writer tool. Basically&nbsp; what a copywriter tool does is, it gives you content that you can post on your blog or video",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    }
+  ]
+}

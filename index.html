@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Free Trial Tracker — Student, AI, Editing, Apps</title>
+<meta name="description" content="Database free trial & gratisan: student packs, AI tools, editing, produktivitas. Auto-update.">
+<style>
+  :root{--bg:#0d0d0f;--card:#161619;--line:#26262c;--fg:#f2f2f4;--mut:#8a8a94;--acc:#c7f14a;--acc2:#ff5c8a}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px;max-width:1100px;margin:0 auto}
+  header{border:2px solid var(--fg);padding:16px;margin-bottom:16px;background:var(--card)}
+  h1{font-size:26px;font-weight:800;letter-spacing:-.5px;text-transform:uppercase}
+  .sub{color:var(--mut);font-size:13px;margin-top:4px}
+  .meta{font-size:12px;color:var(--mut);margin-top:8px}
+  .controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+  input[type=search]{flex:1;min-width:200px;background:var(--card);border:2px solid var(--line);color:var(--fg);padding:10px 12px;font-size:14px;outline:none}
+  input[type=search]:focus{border-color:var(--acc)}
+  .cats{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+  .cat{background:var(--card);border:2px solid var(--line);color:var(--mut);padding:6px 12px;font-size:13px;cursor:pointer;user-select:none;font-weight:600}
+  .cat.on{background:var(--acc);color:#000;border-color:var(--acc)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+  .card{background:var(--card);border:2px solid var(--line);padding:14px;display:flex;flex-direction:column;gap:8px;position:relative}
+  .card:hover{border-color:var(--acc)}
+  .card h3{font-size:16px;font-weight:700;padding-right:28px}
+  .badges{display:flex;flex-wrap:wrap;gap:5px}
+  .b{font-size:11px;padding:2px 7px;border:1px solid var(--line);color:var(--mut);text-transform:uppercase;letter-spacing:.3px}
+  .b.price{border-color:var(--acc);color:var(--acc)}
+  .b.dur{border-color:var(--acc2);color:var(--acc2)}
+  .desc{font-size:13px;color:#c8c8d0}
+  .prov{font-size:12px;color:var(--mut)}
+  .row{display:flex;justify-content:space-between;align-items:center;margin-top:auto;gap:8px}
+  a.go{background:var(--fg);color:#000;text-decoration:none;padding:7px 14px;font-weight:700;font-size:13px}
+  a.go:hover{background:var(--acc)}
+  .fav{position:absolute;top:12px;right:12px;background:none;border:none;font-size:20px;cursor:pointer;color:var(--line)}
+  .fav.on{color:var(--acc2)}
+  .empty{color:var(--mut);text-align:center;padding:40px;grid-column:1/-1}
+  footer{margin-top:24px;color:var(--mut);font-size:12px;text-align:center;border-top:1px solid var(--line);padding-top:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Free Trial Tracker</h1>
+  <div class="sub">Student packs · AI · Editing · Produktivitas · Apps — gratisan & trial, auto-update</div>
+  <div class="meta" id="meta">memuat…</div>
+</header>
+<div class="controls">
+  <input type="search" id="q" placeholder="Cari: gemini, adobe, student, gratis…">
+  <div class="cat" id="favBtn" style="border-color:var(--acc2);color:var(--acc2)">★ Favorit</div>
+</div>
+<div class="cats" id="cats"></div>
+<div class="grid" id="grid"></div>
+<footer>Data curated + feed publik. Cek eligibility di situs resmi. Tidak ada jaminan promo aktif terus.</footer>
+<script>
+var DATA=[], CATS=[], activeCat='Semua', showFav=false;
+var FAV=JSON.parse(localStorage.getItem('ftt_fav')||'{}');
+function esc(s){var d=document.createElement('div');d.textContent=s==null?'':String(s);return d.innerHTML;}
+function saveFav(){localStorage.setItem('ftt_fav',JSON.stringify(FAV));}
+function toggleFav(id){if(FAV[id])delete FAV[id];else FAV[id]=1;saveFav();render();}
+function render(){
+  var q=document.getElementById('q').value.toLowerCase().trim();
+  var grid=document.getElementById('grid');
+  var items=DATA.filter(function(x){
+    if(showFav && !FAV[x.id])return false;
+    if(activeCat!=='Semua' && x.category!==activeCat)return false;
+    if(q){
+      var hay=(x.title+' '+x.provider+' '+x.desc+' '+(x.tags||[]).join(' ')).toLowerCase();
+      if(hay.indexOf(q)<0)return false;
+    }
+    return true;
+  });
+  if(!items.length){grid.innerHTML='<div class="empty">Tidak ada hasil.</div>';return;}
+  var html='';
+  for(var i=0;i<items.length;i++){
+    var x=items[i];
+    var on=FAV[x.id]?' on':'';
+    html+='<div class="card">';
+    html+='<button class="fav'+on+'" onclick="toggleFav(\''+esc(x.id)+'\')" title="Favorit">★</button>';
+    html+='<h3>'+esc(x.title)+'</h3>';
+    html+='<div class="prov">'+esc(x.provider)+' · '+esc(x.category)+'</div>';
+    html+='<div class="badges">';
+    if(x.price&&x.price!=='—')html+='<span class="b price">'+esc(x.price)+'</span>';
+    if(x.duration&&x.duration!=='—')html+='<span class="b dur">'+esc(x.duration)+'</span>';
+    if(x.eligibility)html+='<span class="b">'+esc(x.eligibility)+'</span>';
+    html+='</div>';
+    html+='<div class="desc">'+esc(x.desc)+'</div>';
+    html+='<div class="row"><a class="go" href="'+esc(x.url)+'" target="_blank" rel="noopener">Buka →</a></div>';
+    html+='</div>';
+  }
+  grid.innerHTML=html;
+}
+function buildCats(){
+  var set={'Semua':1};
+  DATA.forEach(function(x){if(x.category)set[x.category]=1;});
+  CATS=Object.keys(set);
+  var c=document.getElementById('cats');
+  c.innerHTML='';
+  CATS.forEach(function(cat){
+    var el=document.createElement('div');
+    el.className='cat'+(cat===activeCat?' on':'');
+    el.textContent=cat;
+    el.onclick=function(){activeCat=cat;showFav=false;document.getElementById('favBtn').classList.remove('on');buildCats();render();};
+    c.appendChild(el);
+  });
+}
+document.getElementById('q').addEventListener('input',render);
+document.getElementById('favBtn').onclick=function(){showFav=!showFav;this.classList.toggle('on',showFav);if(showFav){activeCat='Semua';buildCats();}render();};
+fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(function(j){
+  DATA=j.offers||j.courses||[];
+  var d=new Date(j.updated_at);
+  document.getElementById('meta').textContent=j.total+' offers · '+j.curated+' curated · '+j.from_feeds+' feed · update '+d.toLocaleString('id-ID');
+  buildCats();render();
+}).catch(function(e){document.getElementById('meta').textContent='gagal load data.json';});
+</script>
+</body>
+</html>
