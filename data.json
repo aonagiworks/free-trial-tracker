@@ -1,19 +1,32 @@
 {
-  "updated_at": "2026-08-31T14:28:40.325324+00:00",
-  "total": 44,
-  "curated": 25,
-  "from_feeds": 19,
+  "updated_at": "2026-08-31T16:00:17.938556+00:00",
+  "total": 88,
+  "curated": 51,
+  "from_feeds": 37,
+  "regions": [
+    "Cek per negara",
+    "Global",
+    "Global (beberapa negara dibatasi)",
+    "Global (fitur beda per negara)",
+    "Global (harga per negara)",
+    "Global (institusi terdaftar)",
+    "ID tersedia",
+    "US + terpilih",
+    "US/UK/EU"
+  ],
   "offers": [
     {
       "id": "2d42ed8b5dc7",
       "title": "GitHub Student Developer Pack",
       "provider": "GitHub",
       "category": "Developer",
-      "duration": "2 tahun",
+      "duration": "Selama student",
       "price": "$0",
       "eligibility": "Student verified",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://education.github.com/pack",
-      "desc": "Copilot Pro + 100+ tools (JetBrains, Canva, Namecheap) gratis untuk student terverifikasi.",
+      "desc": "Copilot Pro + 100+ tools (JetBrains, Canva, Namecheap, DigitalOcean credit). Verifikasi pakai email kampus atau foto kartu student — Indonesia diterima.",
       "tags": [
         "student",
         "developer",
@@ -28,9 +41,11 @@
       "category": "Developer",
       "duration": "1 tahun (renew)",
       "price": "$0",
-      "eligibility": "Student",
+      "eligibility": "Student/Teacher",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://www.jetbrains.com/community/education/#students",
-      "desc": "IntelliJ, PyCharm Pro, WebStorm dll gratis untuk student.",
+      "desc": "IntelliJ IDEA Ultimate, PyCharm Pro, WebStorm, DataGrip. Renew tiap tahun selama masih student.",
       "tags": [
         "student",
         "ide"
@@ -38,48 +53,17 @@
       "source": "curated"
     },
     {
-      "id": "b63af85f232b",
-      "title": "Perplexity Pro",
-      "provider": "Perplexity",
-      "category": "AI",
-      "duration": "12 bulan",
-      "price": "$0",
-      "eligibility": "Student (.edu)",
-      "url": "https://www.perplexity.ai/student",
-      "desc": "Pro search + GPT-4o + Claude gratis 1 tahun untuk student (promo US, cek eligibility).",
-      "tags": [
-        "ai",
-        "student"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "998568f0ac28",
-      "title": "Google Gemini Advanced (Google One AI Premium)",
-      "provider": "Google",
-      "category": "AI",
-      "duration": "12 bulan",
-      "price": "$0",
-      "eligibility": "Student US 18+",
-      "url": "https://gemini.google/students/",
-      "desc": "Gemini Advanced + 2TB Drive gratis 1 tahun untuk student US. Butuh .edu verification.",
-      "tags": [
-        "ai",
-        "student",
-        "google"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "6d0582f9519b",
-      "title": "Cursor Pro",
+      "id": "f88fe7b8ca48",
+      "title": "Cursor Pro Student",
       "provider": "Cursor",
       "category": "AI",
       "duration": "12 bulan",
       "price": "$0",
       "eligibility": "Student",
-      "url": "https://cursor.sh/students",
-      "desc": "AI code editor Pro gratis 1 tahun untuk student verified.",
+      "region": "US + terpilih",
+      "region_class": "Region tertentu",
+      "url": "https://cursor.com/students",
+      "desc": "AI code editor Pro 1 tahun. Awalnya US-only, bertahap dibuka ke negara lain — cek halaman resmi apakah negara kamu sudah masuk.",
       "tags": [
         "ai",
         "developer",
@@ -88,18 +72,401 @@
       "source": "curated"
     },
     {
-      "id": "4963fc589c4f",
-      "title": "Notion Plus + AI",
-      "provider": "Notion",
-      "category": "Productivity",
-      "duration": "Gratis selama student",
-      "price": "$0",
-      "eligibility": "Student (.edu)",
-      "url": "https://www.notion.com/product/notion-for-education",
-      "desc": "Notion Plus + Notion AI gratis untuk student & educator.",
+      "id": "dba769c840cc",
+      "title": "GitHub Copilot Free Trial",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "30 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://github.com/features/copilot",
+      "desc": "Trial 30 hari untuk semua. Ada juga Copilot Free tier (limit 2000 completion/bln) tanpa batas waktu.",
       "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ad39e226a729",
+      "title": "Vercel Hobby + Pro Trial",
+      "provider": "Vercel",
+      "category": "Developer",
+      "duration": "Hobby gratis selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://vercel.com/pricing",
+      "desc": "Hobby plan gratis permanen (cukup untuk portfolio & side project). Pro trial 14 hari.",
+      "tags": [
+        "developer",
+        "hosting"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a6b760cc81f8",
+      "title": "Cloudflare Free Plan",
+      "provider": "Cloudflare",
+      "category": "Developer",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.cloudflare.com/plans/free/",
+      "desc": "CDN, DNS, Workers 100k req/hari, Pages unlimited bandwidth, R2 10GB. Free tier paling generous.",
+      "tags": [
+        "developer",
+        "hosting"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "606dc6f1c9c3",
+      "title": "Oracle Cloud Always Free",
+      "provider": "Oracle",
+      "category": "Developer",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum (butuh kartu verifikasi)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.oracle.com/cloud/free/",
+      "desc": "2 VM ARM (4 vCPU, 24GB RAM total) gratis permanen + 200GB storage. Butuh kartu untuk verifikasi, tidak ditagih.",
+      "tags": [
+        "developer",
+        "vps",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "928ea214ed19",
+      "title": "Google Cloud $300 Credit",
+      "provider": "Google",
+      "category": "Developer",
+      "duration": "90 hari",
+      "price": "$300 credit",
+      "eligibility": "Akun baru",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://cloud.google.com/free",
+      "desc": "$300 credit 90 hari + Always Free tier (e2-micro VM, 5GB storage) setelahnya.",
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c7b04571cc72",
+      "title": "AWS Free Tier",
+      "provider": "Amazon",
+      "category": "Developer",
+      "duration": "12 bulan + always free",
+      "price": "$0",
+      "eligibility": "Akun baru",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://aws.amazon.com/free/",
+      "desc": "EC2 t2.micro 750 jam/bln selama 12 bulan, Lambda 1jt req/bln permanen.",
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "add8ad5617a9",
+      "title": "Azure for Students",
+      "provider": "Microsoft",
+      "category": "Developer",
+      "duration": "12 bulan",
+      "price": "$100 credit",
+      "eligibility": "Student (.edu / verifikasi)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://azure.microsoft.com/free/students/",
+      "desc": "$100 credit tanpa kartu kredit + 25+ service gratis selamanya.",
+      "tags": [
+        "cloud",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9ce3dae68dee",
+      "title": "DigitalOcean $200 Credit",
+      "provider": "DigitalOcean",
+      "category": "Developer",
+      "duration": "60 hari",
+      "price": "$200 credit",
+      "eligibility": "Akun baru",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.digitalocean.com/free-trial-offer",
+      "desc": "$200 credit 60 hari. Gratis lewat GitHub Student Pack juga.",
+      "tags": [
+        "cloud",
+        "vps"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "998568f0ac28",
+      "title": "Google Gemini (AI Pro untuk Student)",
+      "provider": "Google",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student 18+",
+      "region": "US + terpilih",
+      "region_class": "Region tertentu",
+      "url": "https://gemini.google/students/",
+      "desc": "Gemini AI Pro + 2TB storage 1 tahun. Berlaku di US, Jepang, Brazil, Indonesia, Korea (daftar negara berubah — cek halaman resmi).",
+      "tags": [
+        "ai",
         "student",
+        "google"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "b63af85f232b",
+      "title": "Perplexity Pro Student",
+      "provider": "Perplexity",
+      "category": "AI",
+      "duration": "1-12 bulan",
+      "price": "$0",
+      "eligibility": "Student (email kampus)",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.perplexity.ai/student",
+      "desc": "Pro search + akses model frontier. Durasi & negara tergantung promo yang aktif; kadang bundle lewat operator seluler.",
+      "tags": [
+        "ai",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a2b7c1160d7f",
+      "title": "ChatGPT Free Tier",
+      "provider": "OpenAI",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://chatgpt.com/",
+      "desc": "GPT-5 dengan limit, browsing, image gen terbatas. Plus $20/bln tidak punya trial permanen — hanya promo musiman.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "859bac2d4fb5",
+      "title": "Claude Free Tier",
+      "provider": "Anthropic",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://claude.ai/",
+      "desc": "Claude gratis dengan limit harian. Pro kadang ada trial 7 hari lewat langganan mobile app.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f0404fae7b1c",
+      "title": "Google AI Studio (API gratis)",
+      "provider": "Google",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global (beberapa negara dibatasi)",
+      "region_class": "Semua region",
+      "url": "https://aistudio.google.com/",
+      "desc": "Gemini API free tier untuk developer — rate limit tapi tanpa biaya. Cara termurah bangun app AI.",
+      "tags": [
+        "ai",
+        "developer",
+        "api"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "89ebea80a2b1",
+      "title": "Groq API Free Tier",
+      "provider": "Groq",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://console.groq.com/",
+      "desc": "Inference super cepat (Llama, Mixtral) gratis dengan rate limit. Tanpa kartu kredit.",
+      "tags": [
+        "ai",
+        "api"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e78a1aba65be",
+      "title": "HuggingFace Free Tier",
+      "provider": "HuggingFace",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://huggingface.co/pricing",
+      "desc": "Spaces gratis (CPU), Inference API limit, unlimited public repo model/dataset.",
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ccdcdba4db7d",
+      "title": "Notion AI",
+      "provider": "Notion",
+      "category": "AI",
+      "duration": "Termasuk paket Edu",
+      "price": "$0",
+      "eligibility": "Student → gratis",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.notion.com/product/ai",
+      "desc": "Gratis penuh kalau akun Education. Non-student dapat trial responses terbatas.",
+      "tags": [
+        "ai",
         "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7d073fd1429c",
+      "title": "DaVinci Resolve (Free)",
+      "provider": "Blackmagic",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "desc": "Editing + color grading + audio level Hollywood, versi free sudah sangat lengkap. Tidak ada watermark.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "50f37543ad4e",
+      "title": "CapCut Pro Trial",
+      "provider": "CapCut",
+      "category": "Editing",
+      "duration": "7 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global (fitur beda per negara)",
+      "region_class": "Semua region",
+      "url": "https://www.capcut.com/",
+      "desc": "Trial Pro 7 hari. Versi free tetap kuat untuk konten pendek. Beberapa fitur AI dibatasi per region.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "414c027205b0",
+      "title": "Adobe Creative Cloud Student",
+      "provider": "Adobe",
+      "category": "Editing",
+      "duration": "7 hari trial, lalu ~60% off",
+      "price": "Diskon student",
+      "eligibility": "Student",
+      "region": "Global (harga per negara)",
+      "region_class": "Semua region",
+      "url": "https://www.adobe.com/creativecloud/buy/students.html",
+      "desc": "Photoshop, Premiere Pro, After Effects, Illustrator. Trial 7 hari gratis, lanjut harga student.",
+      "tags": [
+        "editing",
+        "student",
+        "adobe"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4241c4380397",
+      "title": "CapCut / Canva Video Free",
+      "provider": "Canva",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.canva.com/video-editor/",
+      "desc": "Video editor browser gratis, tanpa install. Pro gratis kalau lewat jalur Education.",
+      "tags": [
+        "editing",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "cd9a7bb160d2",
+      "title": "Shotcut / Kdenlive",
+      "provider": "Open Source",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://shotcut.org/",
+      "desc": "Editor video open source, tanpa akun & tanpa watermark. Alternatif kalau tidak mau langganan.",
+      "tags": [
+        "editing",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "16e832822c84",
+      "title": "Audacity",
+      "provider": "Open Source",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.audacityteam.org/",
+      "desc": "Audio editing & recording gratis penuh.",
+      "tags": [
+        "editing",
+        "audio",
+        "opensource"
       ],
       "source": "curated"
     },
@@ -108,11 +475,13 @@
       "title": "Figma Education",
       "provider": "Figma",
       "category": "Design",
-      "duration": "Gratis selama student",
+      "duration": "Selama student",
       "price": "$0",
-      "eligibility": "Student",
+      "eligibility": "Student/Educator",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://www.figma.com/education/",
-      "desc": "Figma Professional + FigJam gratis untuk student.",
+      "desc": "Figma Professional + FigJam gratis. Verifikasi dokumen student, Indonesia diterima.",
       "tags": [
         "student",
         "design"
@@ -124,79 +493,16 @@
       "title": "Canva Pro for Education",
       "provider": "Canva",
       "category": "Design",
-      "duration": "Gratis selama student",
+      "duration": "Selama terdaftar",
       "price": "$0",
-      "eligibility": "Student/Educator",
+      "eligibility": "Guru & siswa K-12 / kampus mitra",
+      "region": "Global (institusi terdaftar)",
+      "region_class": "Butuh institusi",
       "url": "https://www.canva.com/education/",
-      "desc": "Canva Pro gratis untuk student & guru (K-12 & univ tertentu).",
+      "desc": "Canva Pro penuh. Untuk siswa harus diundang guru; guru bisa apply sendiri.",
       "tags": [
         "student",
         "design"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "414c027205b0",
-      "title": "Adobe Creative Cloud",
-      "provider": "Adobe",
-      "category": "Editing",
-      "duration": "7 hari trial + diskon 60%",
-      "price": "~Rp 120rb/bln",
-      "eligibility": "Student trial umum",
-      "url": "https://www.adobe.com/creativecloud/buy/students.html",
-      "desc": "Photoshop, Premiere, After Effects. Trial 7 hari, lalu harga student ~60% off.",
-      "tags": [
-        "editing",
-        "student",
-        "adobe"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "50f37543ad4e",
-      "title": "CapCut Pro",
-      "provider": "CapCut",
-      "category": "Editing",
-      "duration": "7 hari trial",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://www.capcut.com/",
-      "desc": "Video editor Pro trial 7 hari. Banyak fitur tetap free.",
-      "tags": [
-        "editing",
-        "video"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "7d073fd1429c",
-      "title": "DaVinci Resolve Studio",
-      "provider": "Blackmagic",
-      "category": "Editing",
-      "duration": "Gratis (free version)",
-      "price": "$0",
-      "eligibility": "Umum",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
-      "desc": "Versi free sudah super lengkap untuk editing & color grading.",
-      "tags": [
-        "editing",
-        "video"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "ad82a3cc5917",
-      "title": "Microsoft 365 Education",
-      "provider": "Microsoft",
-      "category": "Productivity",
-      "duration": "Gratis selama student",
-      "price": "$0",
-      "eligibility": "Student",
-      "url": "https://education.microsoft.com/",
-      "desc": "Word, Excel, PowerPoint, Teams + 1TB OneDrive gratis.",
-      "tags": [
-        "student",
-        "office"
       ],
       "source": "curated"
     },
@@ -205,11 +511,13 @@
       "title": "Autodesk Education",
       "provider": "Autodesk",
       "category": "Design",
-      "duration": "1 tahun",
+      "duration": "1 tahun (renew)",
       "price": "$0",
-      "eligibility": "Student",
+      "eligibility": "Student/Educator",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://www.autodesk.com/education/edu-software/overview",
-      "desc": "AutoCAD, Maya, Revit gratis 1 tahun untuk student.",
+      "desc": "AutoCAD, Fusion 360, Maya, Revit, 3ds Max gratis 1 tahun, bisa perpanjang.",
       "tags": [
         "student",
         "design",
@@ -218,18 +526,271 @@
       "source": "curated"
     },
     {
-      "id": "f18d854db05f",
-      "title": "Apple Music Student",
-      "provider": "Apple",
-      "category": "Music",
-      "duration": "1 bulan trial + 50% off",
-      "price": "Rp 35rb/bln",
-      "eligibility": "Student",
-      "url": "https://www.apple.com/apple-music/",
-      "desc": "Apple Music + Apple TV+ gratis untuk student.",
+      "id": "6ea274f89dd1",
+      "title": "Blender",
+      "provider": "Blender Foundation",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.blender.org/",
+      "desc": "3D modeling, animasi, VFX, video editing. Gratis penuh, tanpa lisensi.",
       "tags": [
-        "music",
+        "design",
+        "3d",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "549a975cd5d1",
+      "title": "Framer Pro Trial",
+      "provider": "Framer",
+      "category": "Design",
+      "duration": "14 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.framer.com/pricing",
+      "desc": "Website builder visual. Free tier ada (subdomain framer.website).",
+      "tags": [
+        "design",
+        "web"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a0c7094870cb",
+      "title": "Affinity Suite Trial",
+      "provider": "Canva/Affinity",
+      "category": "Design",
+      "duration": "6 bulan trial",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://affinity.serif.com/",
+      "desc": "Photo, Designer, Publisher. Trial panjang + harga sekali bayar (tanpa langganan).",
+      "tags": [
+        "design",
+        "editing"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4963fc589c4f",
+      "title": "Notion for Education",
+      "provider": "Notion",
+      "category": "Productivity",
+      "duration": "Selama student",
+      "price": "$0",
+      "eligibility": "Student/Educator (email kampus)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.notion.com/product/notion-for-education",
+      "desc": "Notion Plus + Notion AI gratis. Verifikasi otomatis pakai email .edu / .ac.id.",
+      "tags": [
+        "student",
+        "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "1e78daa880c8",
+      "title": "Microsoft 365 Education",
+      "provider": "Microsoft",
+      "category": "Productivity",
+      "duration": "Selama terdaftar",
+      "price": "$0",
+      "eligibility": "Student kampus terdaftar",
+      "region": "Global (institusi terdaftar)",
+      "region_class": "Butuh institusi",
+      "url": "https://www.microsoft.com/education/products/office",
+      "desc": "Word, Excel, PowerPoint, Teams + 1TB OneDrive. Kampus harus punya lisensi institusi.",
+      "tags": [
+        "student",
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "27eba6ed810e",
+      "title": "Google Workspace for Education",
+      "provider": "Google",
+      "category": "Productivity",
+      "duration": "Selama terdaftar",
+      "price": "$0",
+      "eligibility": "Lewat institusi",
+      "region": "Global (institusi terdaftar)",
+      "region_class": "Butuh institusi",
+      "url": "https://edu.google.com/workspace-for-education/",
+      "desc": "Classroom, Docs, Meet. Storage pool institusi.",
+      "tags": [
+        "student",
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "aabf913a99a0",
+      "title": "Grammarly Free + Trial",
+      "provider": "Grammarly",
+      "category": "Productivity",
+      "duration": "Free selamanya / 7 hari Premium",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.grammarly.com/",
+      "desc": "Grammar checker gratis. Premium trial 7 hari lewat promo.",
+      "tags": [
+        "productivity",
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "11796bc7cd9e",
+      "title": "Obsidian",
+      "provider": "Obsidian",
+      "category": "Productivity",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Personal use",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://obsidian.md/",
+      "desc": "Note-taking lokal (markdown), gratis untuk penggunaan pribadi termasuk komersial-solo.",
+      "tags": [
+        "productivity",
+        "notes"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "898d227acd7b",
+      "title": "Todoist Pro for Students",
+      "provider": "Todoist",
+      "category": "Productivity",
+      "duration": "Diskon/promo",
+      "price": "Diskon student",
+      "eligibility": "Student",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.todoist.com/help/articles/student-discount",
+      "desc": "Diskon Pro untuk student. Free tier sudah cukup untuk kebanyakan orang.",
+      "tags": [
+        "productivity",
         "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e47219b5f1a7",
+      "title": "Coursera Plus Trial",
+      "provider": "Coursera",
+      "category": "Education",
+      "duration": "7 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.coursera.org/courseraplus",
+      "desc": "7 hari akses 10.000+ course. Banyak course bisa di-audit gratis tanpa sertifikat.",
+      "tags": [
+        "education"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "fc4713a4f8df",
+      "title": "Coursera Financial Aid",
+      "provider": "Coursera",
+      "category": "Education",
+      "duration": "180 hari per course",
+      "price": "$0",
+      "eligibility": "Semua (isi form)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid",
+      "desc": "Sertifikat gratis lewat financial aid. Approval ~15 hari, tulis esai singkat.",
+      "tags": [
+        "education",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e6ccc45660c0",
+      "title": "freeCodeCamp",
+      "provider": "freeCodeCamp",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.freecodecamp.org/",
+      "desc": "Sertifikasi full-stack, Python, data science — 100% gratis tanpa paywall.",
+      "tags": [
+        "education",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "dfe8a3fa48cd",
+      "title": "Google Skills / Cloud Skills Boost",
+      "provider": "Google",
+      "category": "Education",
+      "duration": "Sering ada credit gratis",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.cloudskillsboost.google/",
+      "desc": "Lab hands-on GCP. Sering ada campaign credit gratis 30-90 hari.",
+      "tags": [
+        "education",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "bf72604a1057",
+      "title": "MIT OpenCourseWare",
+      "provider": "MIT",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://ocw.mit.edu/",
+      "desc": "Materi kuliah MIT lengkap (video, PSet, solusi). Tanpa sertifikat.",
+      "tags": [
+        "education"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c2281d4f06cb",
+      "title": "Duolingo Free",
+      "provider": "Duolingo",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.duolingo.com/",
+      "desc": "Belajar bahasa gratis dengan iklan. Super trial 14 hari.",
+      "tags": [
+        "education",
+        "language"
       ],
       "source": "curated"
     },
@@ -240,9 +801,29 @@
       "category": "Music",
       "duration": "1 bulan trial + 50% off",
       "price": "~Rp 27rb/bln",
-      "eligibility": "Student",
+      "eligibility": "Student kampus terverifikasi",
+      "region": "ID tersedia",
+      "region_class": "Region tertentu",
       "url": "https://www.spotify.com/student/",
-      "desc": "Premium + Hulu (US) / diskon 50% di ID.",
+      "desc": "Diskon 50%. Verifikasi lewat SheerID; kampus Indonesia banyak yang sudah terdaftar.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f18d854db05f",
+      "title": "Apple Music Student",
+      "provider": "Apple",
+      "category": "Music",
+      "duration": "1 bulan trial + diskon",
+      "price": "~Rp 35rb/bln",
+      "eligibility": "Student",
+      "region": "ID tersedia",
+      "region_class": "Region tertentu",
+      "url": "https://www.apple.com/apple-music/",
+      "desc": "Harga student + Apple TV+ termasuk di beberapa region.",
       "tags": [
         "music",
         "student"
@@ -257,8 +838,10 @@
       "duration": "1 bulan trial + diskon",
       "price": "~Rp 35rb/bln",
       "eligibility": "Student",
+      "region": "ID tersedia",
+      "region_class": "Region tertentu",
       "url": "https://www.youtube.com/premium/student",
-      "desc": "YouTube Premium diskon student + trial 1 bulan.",
+      "desc": "No-ads + YouTube Music. Verifikasi ulang tahunan, maks 4 tahun.",
       "tags": [
         "music",
         "student"
@@ -266,153 +849,107 @@
       "source": "curated"
     },
     {
-      "id": "dba769c840cc",
-      "title": "GitHub Copilot Free Trial",
-      "provider": "GitHub",
-      "category": "Developer",
-      "duration": "30 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://github.com/features/copilot",
-      "desc": "Copilot trial 30 hari, gratis selamanya jika student via pack.",
+      "id": "c32f475a782f",
+      "title": "Amazon Prime Student",
+      "provider": "Amazon",
+      "category": "Entertainment",
+      "duration": "6 bulan gratis",
+      "price": "$0",
+      "eligibility": "Student",
+      "region": "US/UK/EU",
+      "region_class": "Region tertentu",
+      "url": "https://www.amazon.com/prime/student",
+      "desc": "6 bulan Prime gratis lalu 50% off. Tidak berlaku Indonesia.",
       "tags": [
-        "ai",
-        "developer"
+        "student",
+        "shopping"
       ],
       "source": "curated"
     },
     {
-      "id": "ed4706f78ba4",
-      "title": "ChatGPT Plus Trial",
-      "provider": "OpenAI",
-      "category": "AI",
-      "duration": "— (promo musiman)",
-      "price": "$20/bln normal",
-      "eligibility": "Umum",
-      "url": "https://openai.com/chatgpt/pricing",
-      "desc": "Tidak ada trial permanen, tapi sering ada promo bundle. Free tier tetap ada.",
-      "tags": [
-        "ai"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "859bac2d4fb5",
-      "title": "Claude Pro Trial",
-      "provider": "Anthropic",
-      "category": "AI",
-      "duration": "7 hari (via app)",
-      "price": "$20/bln",
-      "eligibility": "Umum",
-      "url": "https://claude.ai/",
-      "desc": "Claude Pro kadang kasih trial 7 hari via mobile subscription.",
-      "tags": [
-        "ai"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "ad39e226a729",
-      "title": "Vercel Pro Trial",
-      "provider": "Vercel",
-      "category": "Developer",
-      "duration": "14 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://vercel.com/pricing",
-      "desc": "Hobby free selamanya, Pro trial 14 hari.",
-      "tags": [
-        "developer"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "549a975cd5d1",
-      "title": "Framer Pro Trial",
-      "provider": "Framer",
-      "category": "Design",
-      "duration": "14 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://www.framer.com/pricing",
-      "desc": "Website builder trial 14 hari.",
-      "tags": [
-        "design"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "e226a3ef075e",
-      "title": "Notion AI Trial",
-      "provider": "Notion",
-      "category": "AI",
-      "duration": "Gratis terbatas",
+      "id": "ec208e8619cd",
+      "title": "Proton Free (Mail/VPN/Drive)",
+      "provider": "Proton",
+      "category": "Privacy",
+      "duration": "Selamanya",
       "price": "$0",
       "eligibility": "Umum",
-      "url": "https://www.notion.com/pricing",
-      "desc": "AI trial dengan limit, gratis penuh jika student.",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://proton.me/",
+      "desc": "Email terenkripsi 1GB, VPN gratis unlimited data (server terbatas), Drive 5GB.",
       "tags": [
-        "ai",
-        "productivity"
+        "privacy",
+        "vpn"
       ],
       "source": "curated"
     },
     {
-      "id": "efd2238d1379",
-      "title": "Office 365 Family Trial",
-      "provider": "Microsoft",
-      "category": "Productivity",
-      "duration": "1 bulan",
-      "price": "$0 trial",
+      "id": "7eb8c3836cae",
+      "title": "Cloudflare WARP",
+      "provider": "Cloudflare",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
       "eligibility": "Umum",
-      "url": "https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products",
-      "desc": "Family/Personal 1 bulan trial.",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://one.one.one.one/",
+      "desc": "VPN-ish (1.1.1.1) gratis unlimited, bukan untuk ganti lokasi negara.",
       "tags": [
-        "office"
+        "privacy",
+        "vpn"
       ],
       "source": "curated"
     },
     {
-      "id": "aabf913a99a0",
-      "title": "Grammarly Premium",
-      "provider": "Grammarly",
-      "category": "Productivity",
-      "duration": "7 hari trial",
-      "price": "$0 trial",
+      "id": "431e111e27aa",
+      "title": "Bitwarden Free",
+      "provider": "Bitwarden",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
       "eligibility": "Umum",
-      "url": "https://www.grammarly.com/",
-      "desc": "Writing assistant premium trial 7 hari.",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://bitwarden.com/",
+      "desc": "Password manager gratis unlimited device & unlimited password. Open source.",
       "tags": [
-        "productivity",
-        "ai"
+        "privacy",
+        "security"
       ],
       "source": "curated"
     },
     {
-      "id": "e47219b5f1a7",
-      "title": "Coursera Plus Trial",
-      "provider": "Coursera",
-      "category": "Education",
-      "duration": "7 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://www.coursera.org/courseraplus",
-      "desc": "7 hari trial akses 7000+ course.",
+      "id": "fb3b8566b196",
+      "title": "Namecheap .me Domain",
+      "provider": "Namecheap",
+      "category": "Developer",
+      "duration": "1 tahun",
+      "price": "$0",
+      "eligibility": "Lewat GitHub Student Pack",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://education.github.com/pack/offers",
+      "desc": "Domain .me gratis 1 tahun + SSL. Klaim dari GitHub Student Pack.",
       "tags": [
-        "education"
+        "student",
+        "domain"
       ],
       "source": "curated"
     },
     {
-      "id": "7cf87755a586",
+      "id": "1d56f75ad180",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-d55",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-120e",
+      "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
       ],
@@ -426,83 +963,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/aiio_6471/free-model-meets-free-server-designing-a-repeatable-reliability-experiment-1dfe",
-      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "e86caf4a3595",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-26em",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "201ff89b3353",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-g24",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c8a8acdd7a6a",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3pd5",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "02dcb49fedfc",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-12k4",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "8a46758e7bcd",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3kmp",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into a working pipeline ",
       "tags": [
         "news"
       ],
@@ -516,8 +980,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/buywhere/best-laptop-deals-singapore-june-2026-38kc",
-      "desc": "\n  \n  \n  Best Laptops for Students and Professionals in Singapore\n\n\nCurated picks for June 2026.\n\n\n  \n  \n  Top Picks\n\n\n\nStudent budget: SGD 800-1,000\nProfessional: SGD 1,200-1,800\nCreative/development",
+      "desc": "Best Laptops for Students and Professionals in Singapore\n\n\nCurated picks for June 2026.\n\n\n  \n  \n  Top Picks\n\n\n\nStudent budget: SGD 800-1,000\nProfessional: SGD 1,200-1,800\nCreative/development: SGD 1,500+\n\n\nSee full deals",
       "tags": [
         "news"
       ],
@@ -531,8 +997,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/jawagar_raj_e41371bc8599f/realtime-mini-project-centers-chennai-guided-practical-mini-projects-for-engineering-students-1af7",
-      "desc": "Students searching for realtime mini project centers Chennai can consider project guidance that helps them develop smaller applications based on practical and industry relevant concepts. Realtime mini",
+      "desc": "Students searching for realtime mini project centers Chennai can consider project guidance that helps them develop smaller applications based on practical and industry relevant concepts. Realtime mini projects are useful",
       "tags": [
         "news"
       ],
@@ -546,8 +1014,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
-      "desc": "\n  \n  \n  Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: ",
+      "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
       "tags": [
         "news"
       ],
@@ -561,8 +1031,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
-      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, stu",
+      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
       "tags": [
         "news"
       ],
@@ -576,8 +1048,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
-      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try loca",
+      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try local food. With a plan ",
       "tags": [
         "news"
       ],
@@ -591,23 +1065,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
-      "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era rul",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c6049498f461",
-      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-2270",
-      "desc": "Parents are a child's first and most influential teachers, while Special Education Specialists provide the professional expertise needed to support students with diverse learning needs. When families ",
+      "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era ruled by StackOverflow ",
       "tags": [
         "news"
       ],
@@ -621,8 +1082,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/jeeajeea/15-free-online-tools-every-student-should-bookmark-30ol",
-      "desc": "Students use dozens of online tools every week for assignments, projects, reports, and productivity. Instead of installing software, many of these tasks can now be completed directly in the browser.\n\n",
+      "desc": "Students use dozens of online tools every week for assignments, projects, reports, and productivity. Instead of installing software, many of these tasks can now be completed directly in the browser.\n\nHere are some useful",
       "tags": [
         "news"
       ],
@@ -636,6 +1099,8 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
       "tags": [
@@ -651,8 +1116,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
-      "desc": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" T",
+      "desc": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appea",
       "tags": [
         "news"
       ],
@@ -666,8 +1133,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
-      "desc": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know.1.Exploding Topics (Trending Topics)(Photo Credit:- Ex",
+      "desc": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know.1.Exploding Topics (Trending Topics)(Photo Credit:- Exploding Topics)If yo",
       "tags": [
         "news"
       ],
@@ -681,8 +1150,418 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
-      "desc": "Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai. It is an AI based copy writer tool. Basically&nbsp; what a copywriter tool does is, it gives you content that you can post on your blog or video",
+      "desc": "Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai. It is an AI based copy writer tool. Basically&nbsp; what a copywriter tool does is, it gives you content that you can post on your blog or video&nbsp; when you give",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5250e71c3d45",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "desc": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "7e1debc1bd0a",
+      "title": "Offering Zero Data Retention for frontier models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "desc": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "e1775d8d2e17",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "desc": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "f601b26b225b",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/patch-the-planet",
+      "desc": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "65edefcb4544",
+      "title": "Industrial policy for the Intelligence Age",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "desc": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "919d46e19bc3",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/warp",
+      "desc": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "desc": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "7c483a75c783",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "desc": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c32a08ac79ed",
+      "title": "Codex now offers more flexible pricing for teams",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "desc": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "51c5e121f963",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "desc": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "abf99c21c726",
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "desc": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "10c90d7cc781",
+      "title": "A free version of ChatGPT built for teachers",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/chatgpt-for-teachers",
+      "desc": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "963896ca7550",
+      "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/chatgpt-for-veterans",
+      "desc": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, educ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "7e49bfef6007",
+      "title": "Teen safety, freedom, and privacy",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+      "desc": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "48bed504eb23",
+      "title": "Intellectual freedom by design",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
+      "desc": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "84ea06dbd9b7",
+      "title": "OpenAI and the CSU system bring AI to 500,000 students & faculty",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/openai-and-the-csu-system",
+      "desc": "The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "768b82833f45",
+      "title": "Personalizing education with ChatGPT",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/asu",
+      "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "667d2feb16eb",
+      "title": "OpenAI for Education",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/introducing-chatgpt-edu",
+      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c486538cb168",
+      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5e004c9c8676",
+      "title": "Making education data accessible",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/zelma",
+      "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "64b19ff9d69b",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ffjord",
+      "desc": "",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "fc8789a61329",
+      "title": "Teacher–student curriculum learning",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
+      "desc": "",
       "tags": [
         "news"
       ],
@@ -695,11 +1574,13 @@
       "title": "GitHub Student Developer Pack",
       "provider": "GitHub",
       "category": "Developer",
-      "duration": "2 tahun",
+      "duration": "Selama student",
       "price": "$0",
       "eligibility": "Student verified",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://education.github.com/pack",
-      "desc": "Copilot Pro + 100+ tools (JetBrains, Canva, Namecheap) gratis untuk student terverifikasi.",
+      "desc": "Copilot Pro + 100+ tools (JetBrains, Canva, Namecheap, DigitalOcean credit). Verifikasi pakai email kampus atau foto kartu student — Indonesia diterima.",
       "tags": [
         "student",
         "developer",
@@ -714,9 +1595,11 @@
       "category": "Developer",
       "duration": "1 tahun (renew)",
       "price": "$0",
-      "eligibility": "Student",
+      "eligibility": "Student/Teacher",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://www.jetbrains.com/community/education/#students",
-      "desc": "IntelliJ, PyCharm Pro, WebStorm dll gratis untuk student.",
+      "desc": "IntelliJ IDEA Ultimate, PyCharm Pro, WebStorm, DataGrip. Renew tiap tahun selama masih student.",
       "tags": [
         "student",
         "ide"
@@ -724,48 +1607,17 @@
       "source": "curated"
     },
     {
-      "id": "b63af85f232b",
-      "title": "Perplexity Pro",
-      "provider": "Perplexity",
-      "category": "AI",
-      "duration": "12 bulan",
-      "price": "$0",
-      "eligibility": "Student (.edu)",
-      "url": "https://www.perplexity.ai/student",
-      "desc": "Pro search + GPT-4o + Claude gratis 1 tahun untuk student (promo US, cek eligibility).",
-      "tags": [
-        "ai",
-        "student"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "998568f0ac28",
-      "title": "Google Gemini Advanced (Google One AI Premium)",
-      "provider": "Google",
-      "category": "AI",
-      "duration": "12 bulan",
-      "price": "$0",
-      "eligibility": "Student US 18+",
-      "url": "https://gemini.google/students/",
-      "desc": "Gemini Advanced + 2TB Drive gratis 1 tahun untuk student US. Butuh .edu verification.",
-      "tags": [
-        "ai",
-        "student",
-        "google"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "6d0582f9519b",
-      "title": "Cursor Pro",
+      "id": "f88fe7b8ca48",
+      "title": "Cursor Pro Student",
       "provider": "Cursor",
       "category": "AI",
       "duration": "12 bulan",
       "price": "$0",
       "eligibility": "Student",
-      "url": "https://cursor.sh/students",
-      "desc": "AI code editor Pro gratis 1 tahun untuk student verified.",
+      "region": "US + terpilih",
+      "region_class": "Region tertentu",
+      "url": "https://cursor.com/students",
+      "desc": "AI code editor Pro 1 tahun. Awalnya US-only, bertahap dibuka ke negara lain — cek halaman resmi apakah negara kamu sudah masuk.",
       "tags": [
         "ai",
         "developer",
@@ -774,18 +1626,401 @@
       "source": "curated"
     },
     {
-      "id": "4963fc589c4f",
-      "title": "Notion Plus + AI",
-      "provider": "Notion",
-      "category": "Productivity",
-      "duration": "Gratis selama student",
-      "price": "$0",
-      "eligibility": "Student (.edu)",
-      "url": "https://www.notion.com/product/notion-for-education",
-      "desc": "Notion Plus + Notion AI gratis untuk student & educator.",
+      "id": "dba769c840cc",
+      "title": "GitHub Copilot Free Trial",
+      "provider": "GitHub",
+      "category": "Developer",
+      "duration": "30 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://github.com/features/copilot",
+      "desc": "Trial 30 hari untuk semua. Ada juga Copilot Free tier (limit 2000 completion/bln) tanpa batas waktu.",
       "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ad39e226a729",
+      "title": "Vercel Hobby + Pro Trial",
+      "provider": "Vercel",
+      "category": "Developer",
+      "duration": "Hobby gratis selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://vercel.com/pricing",
+      "desc": "Hobby plan gratis permanen (cukup untuk portfolio & side project). Pro trial 14 hari.",
+      "tags": [
+        "developer",
+        "hosting"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a6b760cc81f8",
+      "title": "Cloudflare Free Plan",
+      "provider": "Cloudflare",
+      "category": "Developer",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.cloudflare.com/plans/free/",
+      "desc": "CDN, DNS, Workers 100k req/hari, Pages unlimited bandwidth, R2 10GB. Free tier paling generous.",
+      "tags": [
+        "developer",
+        "hosting"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "606dc6f1c9c3",
+      "title": "Oracle Cloud Always Free",
+      "provider": "Oracle",
+      "category": "Developer",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum (butuh kartu verifikasi)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.oracle.com/cloud/free/",
+      "desc": "2 VM ARM (4 vCPU, 24GB RAM total) gratis permanen + 200GB storage. Butuh kartu untuk verifikasi, tidak ditagih.",
+      "tags": [
+        "developer",
+        "vps",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "928ea214ed19",
+      "title": "Google Cloud $300 Credit",
+      "provider": "Google",
+      "category": "Developer",
+      "duration": "90 hari",
+      "price": "$300 credit",
+      "eligibility": "Akun baru",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://cloud.google.com/free",
+      "desc": "$300 credit 90 hari + Always Free tier (e2-micro VM, 5GB storage) setelahnya.",
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c7b04571cc72",
+      "title": "AWS Free Tier",
+      "provider": "Amazon",
+      "category": "Developer",
+      "duration": "12 bulan + always free",
+      "price": "$0",
+      "eligibility": "Akun baru",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://aws.amazon.com/free/",
+      "desc": "EC2 t2.micro 750 jam/bln selama 12 bulan, Lambda 1jt req/bln permanen.",
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "add8ad5617a9",
+      "title": "Azure for Students",
+      "provider": "Microsoft",
+      "category": "Developer",
+      "duration": "12 bulan",
+      "price": "$100 credit",
+      "eligibility": "Student (.edu / verifikasi)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://azure.microsoft.com/free/students/",
+      "desc": "$100 credit tanpa kartu kredit + 25+ service gratis selamanya.",
+      "tags": [
+        "cloud",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "9ce3dae68dee",
+      "title": "DigitalOcean $200 Credit",
+      "provider": "DigitalOcean",
+      "category": "Developer",
+      "duration": "60 hari",
+      "price": "$200 credit",
+      "eligibility": "Akun baru",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.digitalocean.com/free-trial-offer",
+      "desc": "$200 credit 60 hari. Gratis lewat GitHub Student Pack juga.",
+      "tags": [
+        "cloud",
+        "vps"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "998568f0ac28",
+      "title": "Google Gemini (AI Pro untuk Student)",
+      "provider": "Google",
+      "category": "AI",
+      "duration": "12 bulan",
+      "price": "$0",
+      "eligibility": "Student 18+",
+      "region": "US + terpilih",
+      "region_class": "Region tertentu",
+      "url": "https://gemini.google/students/",
+      "desc": "Gemini AI Pro + 2TB storage 1 tahun. Berlaku di US, Jepang, Brazil, Indonesia, Korea (daftar negara berubah — cek halaman resmi).",
+      "tags": [
+        "ai",
         "student",
+        "google"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "b63af85f232b",
+      "title": "Perplexity Pro Student",
+      "provider": "Perplexity",
+      "category": "AI",
+      "duration": "1-12 bulan",
+      "price": "$0",
+      "eligibility": "Student (email kampus)",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.perplexity.ai/student",
+      "desc": "Pro search + akses model frontier. Durasi & negara tergantung promo yang aktif; kadang bundle lewat operator seluler.",
+      "tags": [
+        "ai",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a2b7c1160d7f",
+      "title": "ChatGPT Free Tier",
+      "provider": "OpenAI",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://chatgpt.com/",
+      "desc": "GPT-5 dengan limit, browsing, image gen terbatas. Plus $20/bln tidak punya trial permanen — hanya promo musiman.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "859bac2d4fb5",
+      "title": "Claude Free Tier",
+      "provider": "Anthropic",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://claude.ai/",
+      "desc": "Claude gratis dengan limit harian. Pro kadang ada trial 7 hari lewat langganan mobile app.",
+      "tags": [
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f0404fae7b1c",
+      "title": "Google AI Studio (API gratis)",
+      "provider": "Google",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global (beberapa negara dibatasi)",
+      "region_class": "Semua region",
+      "url": "https://aistudio.google.com/",
+      "desc": "Gemini API free tier untuk developer — rate limit tapi tanpa biaya. Cara termurah bangun app AI.",
+      "tags": [
+        "ai",
+        "developer",
+        "api"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "89ebea80a2b1",
+      "title": "Groq API Free Tier",
+      "provider": "Groq",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://console.groq.com/",
+      "desc": "Inference super cepat (Llama, Mixtral) gratis dengan rate limit. Tanpa kartu kredit.",
+      "tags": [
+        "ai",
+        "api"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e78a1aba65be",
+      "title": "HuggingFace Free Tier",
+      "provider": "HuggingFace",
+      "category": "AI",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://huggingface.co/pricing",
+      "desc": "Spaces gratis (CPU), Inference API limit, unlimited public repo model/dataset.",
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "ccdcdba4db7d",
+      "title": "Notion AI",
+      "provider": "Notion",
+      "category": "AI",
+      "duration": "Termasuk paket Edu",
+      "price": "$0",
+      "eligibility": "Student → gratis",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.notion.com/product/ai",
+      "desc": "Gratis penuh kalau akun Education. Non-student dapat trial responses terbatas.",
+      "tags": [
+        "ai",
         "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "7d073fd1429c",
+      "title": "DaVinci Resolve (Free)",
+      "provider": "Blackmagic",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "desc": "Editing + color grading + audio level Hollywood, versi free sudah sangat lengkap. Tidak ada watermark.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "50f37543ad4e",
+      "title": "CapCut Pro Trial",
+      "provider": "CapCut",
+      "category": "Editing",
+      "duration": "7 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global (fitur beda per negara)",
+      "region_class": "Semua region",
+      "url": "https://www.capcut.com/",
+      "desc": "Trial Pro 7 hari. Versi free tetap kuat untuk konten pendek. Beberapa fitur AI dibatasi per region.",
+      "tags": [
+        "editing",
+        "video"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "414c027205b0",
+      "title": "Adobe Creative Cloud Student",
+      "provider": "Adobe",
+      "category": "Editing",
+      "duration": "7 hari trial, lalu ~60% off",
+      "price": "Diskon student",
+      "eligibility": "Student",
+      "region": "Global (harga per negara)",
+      "region_class": "Semua region",
+      "url": "https://www.adobe.com/creativecloud/buy/students.html",
+      "desc": "Photoshop, Premiere Pro, After Effects, Illustrator. Trial 7 hari gratis, lanjut harga student.",
+      "tags": [
+        "editing",
+        "student",
+        "adobe"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4241c4380397",
+      "title": "CapCut / Canva Video Free",
+      "provider": "Canva",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.canva.com/video-editor/",
+      "desc": "Video editor browser gratis, tanpa install. Pro gratis kalau lewat jalur Education.",
+      "tags": [
+        "editing",
+        "design"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "cd9a7bb160d2",
+      "title": "Shotcut / Kdenlive",
+      "provider": "Open Source",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://shotcut.org/",
+      "desc": "Editor video open source, tanpa akun & tanpa watermark. Alternatif kalau tidak mau langganan.",
+      "tags": [
+        "editing",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "16e832822c84",
+      "title": "Audacity",
+      "provider": "Open Source",
+      "category": "Editing",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.audacityteam.org/",
+      "desc": "Audio editing & recording gratis penuh.",
+      "tags": [
+        "editing",
+        "audio",
+        "opensource"
       ],
       "source": "curated"
     },
@@ -794,11 +2029,13 @@
       "title": "Figma Education",
       "provider": "Figma",
       "category": "Design",
-      "duration": "Gratis selama student",
+      "duration": "Selama student",
       "price": "$0",
-      "eligibility": "Student",
+      "eligibility": "Student/Educator",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://www.figma.com/education/",
-      "desc": "Figma Professional + FigJam gratis untuk student.",
+      "desc": "Figma Professional + FigJam gratis. Verifikasi dokumen student, Indonesia diterima.",
       "tags": [
         "student",
         "design"
@@ -810,79 +2047,16 @@
       "title": "Canva Pro for Education",
       "provider": "Canva",
       "category": "Design",
-      "duration": "Gratis selama student",
+      "duration": "Selama terdaftar",
       "price": "$0",
-      "eligibility": "Student/Educator",
+      "eligibility": "Guru & siswa K-12 / kampus mitra",
+      "region": "Global (institusi terdaftar)",
+      "region_class": "Butuh institusi",
       "url": "https://www.canva.com/education/",
-      "desc": "Canva Pro gratis untuk student & guru (K-12 & univ tertentu).",
+      "desc": "Canva Pro penuh. Untuk siswa harus diundang guru; guru bisa apply sendiri.",
       "tags": [
         "student",
         "design"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "414c027205b0",
-      "title": "Adobe Creative Cloud",
-      "provider": "Adobe",
-      "category": "Editing",
-      "duration": "7 hari trial + diskon 60%",
-      "price": "~Rp 120rb/bln",
-      "eligibility": "Student trial umum",
-      "url": "https://www.adobe.com/creativecloud/buy/students.html",
-      "desc": "Photoshop, Premiere, After Effects. Trial 7 hari, lalu harga student ~60% off.",
-      "tags": [
-        "editing",
-        "student",
-        "adobe"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "50f37543ad4e",
-      "title": "CapCut Pro",
-      "provider": "CapCut",
-      "category": "Editing",
-      "duration": "7 hari trial",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://www.capcut.com/",
-      "desc": "Video editor Pro trial 7 hari. Banyak fitur tetap free.",
-      "tags": [
-        "editing",
-        "video"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "7d073fd1429c",
-      "title": "DaVinci Resolve Studio",
-      "provider": "Blackmagic",
-      "category": "Editing",
-      "duration": "Gratis (free version)",
-      "price": "$0",
-      "eligibility": "Umum",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
-      "desc": "Versi free sudah super lengkap untuk editing & color grading.",
-      "tags": [
-        "editing",
-        "video"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "ad82a3cc5917",
-      "title": "Microsoft 365 Education",
-      "provider": "Microsoft",
-      "category": "Productivity",
-      "duration": "Gratis selama student",
-      "price": "$0",
-      "eligibility": "Student",
-      "url": "https://education.microsoft.com/",
-      "desc": "Word, Excel, PowerPoint, Teams + 1TB OneDrive gratis.",
-      "tags": [
-        "student",
-        "office"
       ],
       "source": "curated"
     },
@@ -891,11 +2065,13 @@
       "title": "Autodesk Education",
       "provider": "Autodesk",
       "category": "Design",
-      "duration": "1 tahun",
+      "duration": "1 tahun (renew)",
       "price": "$0",
-      "eligibility": "Student",
+      "eligibility": "Student/Educator",
+      "region": "Global",
+      "region_class": "Semua region",
       "url": "https://www.autodesk.com/education/edu-software/overview",
-      "desc": "AutoCAD, Maya, Revit gratis 1 tahun untuk student.",
+      "desc": "AutoCAD, Fusion 360, Maya, Revit, 3ds Max gratis 1 tahun, bisa perpanjang.",
       "tags": [
         "student",
         "design",
@@ -904,18 +2080,271 @@
       "source": "curated"
     },
     {
-      "id": "f18d854db05f",
-      "title": "Apple Music Student",
-      "provider": "Apple",
-      "category": "Music",
-      "duration": "1 bulan trial + 50% off",
-      "price": "Rp 35rb/bln",
-      "eligibility": "Student",
-      "url": "https://www.apple.com/apple-music/",
-      "desc": "Apple Music + Apple TV+ gratis untuk student.",
+      "id": "6ea274f89dd1",
+      "title": "Blender",
+      "provider": "Blender Foundation",
+      "category": "Design",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.blender.org/",
+      "desc": "3D modeling, animasi, VFX, video editing. Gratis penuh, tanpa lisensi.",
       "tags": [
-        "music",
+        "design",
+        "3d",
+        "opensource"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "549a975cd5d1",
+      "title": "Framer Pro Trial",
+      "provider": "Framer",
+      "category": "Design",
+      "duration": "14 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.framer.com/pricing",
+      "desc": "Website builder visual. Free tier ada (subdomain framer.website).",
+      "tags": [
+        "design",
+        "web"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "a0c7094870cb",
+      "title": "Affinity Suite Trial",
+      "provider": "Canva/Affinity",
+      "category": "Design",
+      "duration": "6 bulan trial",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://affinity.serif.com/",
+      "desc": "Photo, Designer, Publisher. Trial panjang + harga sekali bayar (tanpa langganan).",
+      "tags": [
+        "design",
+        "editing"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "4963fc589c4f",
+      "title": "Notion for Education",
+      "provider": "Notion",
+      "category": "Productivity",
+      "duration": "Selama student",
+      "price": "$0",
+      "eligibility": "Student/Educator (email kampus)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.notion.com/product/notion-for-education",
+      "desc": "Notion Plus + Notion AI gratis. Verifikasi otomatis pakai email .edu / .ac.id.",
+      "tags": [
+        "student",
+        "productivity"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "1e78daa880c8",
+      "title": "Microsoft 365 Education",
+      "provider": "Microsoft",
+      "category": "Productivity",
+      "duration": "Selama terdaftar",
+      "price": "$0",
+      "eligibility": "Student kampus terdaftar",
+      "region": "Global (institusi terdaftar)",
+      "region_class": "Butuh institusi",
+      "url": "https://www.microsoft.com/education/products/office",
+      "desc": "Word, Excel, PowerPoint, Teams + 1TB OneDrive. Kampus harus punya lisensi institusi.",
+      "tags": [
+        "student",
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "27eba6ed810e",
+      "title": "Google Workspace for Education",
+      "provider": "Google",
+      "category": "Productivity",
+      "duration": "Selama terdaftar",
+      "price": "$0",
+      "eligibility": "Lewat institusi",
+      "region": "Global (institusi terdaftar)",
+      "region_class": "Butuh institusi",
+      "url": "https://edu.google.com/workspace-for-education/",
+      "desc": "Classroom, Docs, Meet. Storage pool institusi.",
+      "tags": [
+        "student",
+        "office"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "aabf913a99a0",
+      "title": "Grammarly Free + Trial",
+      "provider": "Grammarly",
+      "category": "Productivity",
+      "duration": "Free selamanya / 7 hari Premium",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.grammarly.com/",
+      "desc": "Grammar checker gratis. Premium trial 7 hari lewat promo.",
+      "tags": [
+        "productivity",
+        "ai"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "11796bc7cd9e",
+      "title": "Obsidian",
+      "provider": "Obsidian",
+      "category": "Productivity",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Personal use",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://obsidian.md/",
+      "desc": "Note-taking lokal (markdown), gratis untuk penggunaan pribadi termasuk komersial-solo.",
+      "tags": [
+        "productivity",
+        "notes"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "898d227acd7b",
+      "title": "Todoist Pro for Students",
+      "provider": "Todoist",
+      "category": "Productivity",
+      "duration": "Diskon/promo",
+      "price": "Diskon student",
+      "eligibility": "Student",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.todoist.com/help/articles/student-discount",
+      "desc": "Diskon Pro untuk student. Free tier sudah cukup untuk kebanyakan orang.",
+      "tags": [
+        "productivity",
         "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e47219b5f1a7",
+      "title": "Coursera Plus Trial",
+      "provider": "Coursera",
+      "category": "Education",
+      "duration": "7 hari",
+      "price": "$0 trial",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.coursera.org/courseraplus",
+      "desc": "7 hari akses 10.000+ course. Banyak course bisa di-audit gratis tanpa sertifikat.",
+      "tags": [
+        "education"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "fc4713a4f8df",
+      "title": "Coursera Financial Aid",
+      "provider": "Coursera",
+      "category": "Education",
+      "duration": "180 hari per course",
+      "price": "$0",
+      "eligibility": "Semua (isi form)",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid",
+      "desc": "Sertifikat gratis lewat financial aid. Approval ~15 hari, tulis esai singkat.",
+      "tags": [
+        "education",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "e6ccc45660c0",
+      "title": "freeCodeCamp",
+      "provider": "freeCodeCamp",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.freecodecamp.org/",
+      "desc": "Sertifikasi full-stack, Python, data science — 100% gratis tanpa paywall.",
+      "tags": [
+        "education",
+        "developer"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "dfe8a3fa48cd",
+      "title": "Google Skills / Cloud Skills Boost",
+      "provider": "Google",
+      "category": "Education",
+      "duration": "Sering ada credit gratis",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.cloudskillsboost.google/",
+      "desc": "Lab hands-on GCP. Sering ada campaign credit gratis 30-90 hari.",
+      "tags": [
+        "education",
+        "cloud"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "bf72604a1057",
+      "title": "MIT OpenCourseWare",
+      "provider": "MIT",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://ocw.mit.edu/",
+      "desc": "Materi kuliah MIT lengkap (video, PSet, solusi). Tanpa sertifikat.",
+      "tags": [
+        "education"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "c2281d4f06cb",
+      "title": "Duolingo Free",
+      "provider": "Duolingo",
+      "category": "Education",
+      "duration": "Selamanya",
+      "price": "$0",
+      "eligibility": "Umum",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://www.duolingo.com/",
+      "desc": "Belajar bahasa gratis dengan iklan. Super trial 14 hari.",
+      "tags": [
+        "education",
+        "language"
       ],
       "source": "curated"
     },
@@ -926,9 +2355,29 @@
       "category": "Music",
       "duration": "1 bulan trial + 50% off",
       "price": "~Rp 27rb/bln",
-      "eligibility": "Student",
+      "eligibility": "Student kampus terverifikasi",
+      "region": "ID tersedia",
+      "region_class": "Region tertentu",
       "url": "https://www.spotify.com/student/",
-      "desc": "Premium + Hulu (US) / diskon 50% di ID.",
+      "desc": "Diskon 50%. Verifikasi lewat SheerID; kampus Indonesia banyak yang sudah terdaftar.",
+      "tags": [
+        "music",
+        "student"
+      ],
+      "source": "curated"
+    },
+    {
+      "id": "f18d854db05f",
+      "title": "Apple Music Student",
+      "provider": "Apple",
+      "category": "Music",
+      "duration": "1 bulan trial + diskon",
+      "price": "~Rp 35rb/bln",
+      "eligibility": "Student",
+      "region": "ID tersedia",
+      "region_class": "Region tertentu",
+      "url": "https://www.apple.com/apple-music/",
+      "desc": "Harga student + Apple TV+ termasuk di beberapa region.",
       "tags": [
         "music",
         "student"
@@ -943,8 +2392,10 @@
       "duration": "1 bulan trial + diskon",
       "price": "~Rp 35rb/bln",
       "eligibility": "Student",
+      "region": "ID tersedia",
+      "region_class": "Region tertentu",
       "url": "https://www.youtube.com/premium/student",
-      "desc": "YouTube Premium diskon student + trial 1 bulan.",
+      "desc": "No-ads + YouTube Music. Verifikasi ulang tahunan, maks 4 tahun.",
       "tags": [
         "music",
         "student"
@@ -952,153 +2403,107 @@
       "source": "curated"
     },
     {
-      "id": "dba769c840cc",
-      "title": "GitHub Copilot Free Trial",
-      "provider": "GitHub",
-      "category": "Developer",
-      "duration": "30 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://github.com/features/copilot",
-      "desc": "Copilot trial 30 hari, gratis selamanya jika student via pack.",
+      "id": "c32f475a782f",
+      "title": "Amazon Prime Student",
+      "provider": "Amazon",
+      "category": "Entertainment",
+      "duration": "6 bulan gratis",
+      "price": "$0",
+      "eligibility": "Student",
+      "region": "US/UK/EU",
+      "region_class": "Region tertentu",
+      "url": "https://www.amazon.com/prime/student",
+      "desc": "6 bulan Prime gratis lalu 50% off. Tidak berlaku Indonesia.",
       "tags": [
-        "ai",
-        "developer"
+        "student",
+        "shopping"
       ],
       "source": "curated"
     },
     {
-      "id": "ed4706f78ba4",
-      "title": "ChatGPT Plus Trial",
-      "provider": "OpenAI",
-      "category": "AI",
-      "duration": "— (promo musiman)",
-      "price": "$20/bln normal",
-      "eligibility": "Umum",
-      "url": "https://openai.com/chatgpt/pricing",
-      "desc": "Tidak ada trial permanen, tapi sering ada promo bundle. Free tier tetap ada.",
-      "tags": [
-        "ai"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "859bac2d4fb5",
-      "title": "Claude Pro Trial",
-      "provider": "Anthropic",
-      "category": "AI",
-      "duration": "7 hari (via app)",
-      "price": "$20/bln",
-      "eligibility": "Umum",
-      "url": "https://claude.ai/",
-      "desc": "Claude Pro kadang kasih trial 7 hari via mobile subscription.",
-      "tags": [
-        "ai"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "ad39e226a729",
-      "title": "Vercel Pro Trial",
-      "provider": "Vercel",
-      "category": "Developer",
-      "duration": "14 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://vercel.com/pricing",
-      "desc": "Hobby free selamanya, Pro trial 14 hari.",
-      "tags": [
-        "developer"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "549a975cd5d1",
-      "title": "Framer Pro Trial",
-      "provider": "Framer",
-      "category": "Design",
-      "duration": "14 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://www.framer.com/pricing",
-      "desc": "Website builder trial 14 hari.",
-      "tags": [
-        "design"
-      ],
-      "source": "curated"
-    },
-    {
-      "id": "e226a3ef075e",
-      "title": "Notion AI Trial",
-      "provider": "Notion",
-      "category": "AI",
-      "duration": "Gratis terbatas",
+      "id": "ec208e8619cd",
+      "title": "Proton Free (Mail/VPN/Drive)",
+      "provider": "Proton",
+      "category": "Privacy",
+      "duration": "Selamanya",
       "price": "$0",
       "eligibility": "Umum",
-      "url": "https://www.notion.com/pricing",
-      "desc": "AI trial dengan limit, gratis penuh jika student.",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://proton.me/",
+      "desc": "Email terenkripsi 1GB, VPN gratis unlimited data (server terbatas), Drive 5GB.",
       "tags": [
-        "ai",
-        "productivity"
+        "privacy",
+        "vpn"
       ],
       "source": "curated"
     },
     {
-      "id": "efd2238d1379",
-      "title": "Office 365 Family Trial",
-      "provider": "Microsoft",
-      "category": "Productivity",
-      "duration": "1 bulan",
-      "price": "$0 trial",
+      "id": "7eb8c3836cae",
+      "title": "Cloudflare WARP",
+      "provider": "Cloudflare",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
       "eligibility": "Umum",
-      "url": "https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products",
-      "desc": "Family/Personal 1 bulan trial.",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://one.one.one.one/",
+      "desc": "VPN-ish (1.1.1.1) gratis unlimited, bukan untuk ganti lokasi negara.",
       "tags": [
-        "office"
+        "privacy",
+        "vpn"
       ],
       "source": "curated"
     },
     {
-      "id": "aabf913a99a0",
-      "title": "Grammarly Premium",
-      "provider": "Grammarly",
-      "category": "Productivity",
-      "duration": "7 hari trial",
-      "price": "$0 trial",
+      "id": "431e111e27aa",
+      "title": "Bitwarden Free",
+      "provider": "Bitwarden",
+      "category": "Privacy",
+      "duration": "Selamanya",
+      "price": "$0",
       "eligibility": "Umum",
-      "url": "https://www.grammarly.com/",
-      "desc": "Writing assistant premium trial 7 hari.",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://bitwarden.com/",
+      "desc": "Password manager gratis unlimited device & unlimited password. Open source.",
       "tags": [
-        "productivity",
-        "ai"
+        "privacy",
+        "security"
       ],
       "source": "curated"
     },
     {
-      "id": "e47219b5f1a7",
-      "title": "Coursera Plus Trial",
-      "provider": "Coursera",
-      "category": "Education",
-      "duration": "7 hari",
-      "price": "$0 trial",
-      "eligibility": "Umum",
-      "url": "https://www.coursera.org/courseraplus",
-      "desc": "7 hari trial akses 7000+ course.",
+      "id": "fb3b8566b196",
+      "title": "Namecheap .me Domain",
+      "provider": "Namecheap",
+      "category": "Developer",
+      "duration": "1 tahun",
+      "price": "$0",
+      "eligibility": "Lewat GitHub Student Pack",
+      "region": "Global",
+      "region_class": "Semua region",
+      "url": "https://education.github.com/pack/offers",
+      "desc": "Domain .me gratis 1 tahun + SSL. Klaim dari GitHub Student Pack.",
       "tags": [
-        "education"
+        "student",
+        "domain"
       ],
       "source": "curated"
     },
     {
-      "id": "7cf87755a586",
+      "id": "1d56f75ad180",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-d55",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-120e",
+      "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
       ],
@@ -1112,83 +2517,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/aiio_6471/free-model-meets-free-server-designing-a-repeatable-reliability-experiment-1dfe",
-      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "e86caf4a3595",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-26em",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "201ff89b3353",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-g24",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c8a8acdd7a6a",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3pd5",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "02dcb49fedfc",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-12k4",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "8a46758e7bcd",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3kmp",
-      "desc": "\n  \n  \n  Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods Tha",
+      "desc": "We tend to trust free compute only until it fails on a deadline, and by then the deadline is already gone. When a product offers both free models and a free server, the temptation is to bolt them into a working pipeline ",
       "tags": [
         "news"
       ],
@@ -1202,8 +2534,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/buywhere/best-laptop-deals-singapore-june-2026-38kc",
-      "desc": "\n  \n  \n  Best Laptops for Students and Professionals in Singapore\n\n\nCurated picks for June 2026.\n\n\n  \n  \n  Top Picks\n\n\n\nStudent budget: SGD 800-1,000\nProfessional: SGD 1,200-1,800\nCreative/development",
+      "desc": "Best Laptops for Students and Professionals in Singapore\n\n\nCurated picks for June 2026.\n\n\n  \n  \n  Top Picks\n\n\n\nStudent budget: SGD 800-1,000\nProfessional: SGD 1,200-1,800\nCreative/development: SGD 1,500+\n\n\nSee full deals",
       "tags": [
         "news"
       ],
@@ -1217,8 +2551,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/jawagar_raj_e41371bc8599f/realtime-mini-project-centers-chennai-guided-practical-mini-projects-for-engineering-students-1af7",
-      "desc": "Students searching for realtime mini project centers Chennai can consider project guidance that helps them develop smaller applications based on practical and industry relevant concepts. Realtime mini",
+      "desc": "Students searching for realtime mini project centers Chennai can consider project guidance that helps them develop smaller applications based on practical and industry relevant concepts. Realtime mini projects are useful",
       "tags": [
         "news"
       ],
@@ -1232,8 +2568,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
-      "desc": "\n  \n  \n  Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: ",
+      "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
       "tags": [
         "news"
       ],
@@ -1247,8 +2585,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
-      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, stu",
+      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
       "tags": [
         "news"
       ],
@@ -1262,8 +2602,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
-      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try loca",
+      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try local food. With a plan ",
       "tags": [
         "news"
       ],
@@ -1277,23 +2619,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
-      "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era rul",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c6049498f461",
-      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-2270",
-      "desc": "Parents are a child's first and most influential teachers, while Special Education Specialists provide the professional expertise needed to support students with diverse learning needs. When families ",
+      "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era ruled by StackOverflow ",
       "tags": [
         "news"
       ],
@@ -1307,8 +2636,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://dev.to/jeeajeea/15-free-online-tools-every-student-should-bookmark-30ol",
-      "desc": "Students use dozens of online tools every week for assignments, projects, reports, and productivity. Instead of installing software, many of these tasks can now be completed directly in the browser.\n\n",
+      "desc": "Students use dozens of online tools every week for assignments, projects, reports, and productivity. Instead of installing software, many of these tasks can now be completed directly in the browser.\n\nHere are some useful",
       "tags": [
         "news"
       ],
@@ -1322,6 +2653,8 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
       "tags": [
@@ -1337,8 +2670,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
-      "desc": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" T",
+      "desc": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appea",
       "tags": [
         "news"
       ],
@@ -1352,8 +2687,10 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
-      "desc": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know.1.Exploding Topics (Trending Topics)(Photo Credit:- Ex",
+      "desc": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know.1.Exploding Topics (Trending Topics)(Photo Credit:- Exploding Topics)If yo",
       "tags": [
         "news"
       ],
@@ -1367,8 +2704,418 @@
       "duration": "—",
       "price": "—",
       "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
       "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
-      "desc": "Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai. It is an AI based copy writer tool. Basically&nbsp; what a copywriter tool does is, it gives you content that you can post on your blog or video",
+      "desc": "Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai. It is an AI based copy writer tool. Basically&nbsp; what a copywriter tool does is, it gives you content that you can post on your blog or video&nbsp; when you give",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5250e71c3d45",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "desc": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "7e1debc1bd0a",
+      "title": "Offering Zero Data Retention for frontier models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "desc": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "e1775d8d2e17",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "desc": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "f601b26b225b",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/patch-the-planet",
+      "desc": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "65edefcb4544",
+      "title": "Industrial policy for the Intelligence Age",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "desc": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "919d46e19bc3",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/warp",
+      "desc": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "desc": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "7c483a75c783",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "desc": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c32a08ac79ed",
+      "title": "Codex now offers more flexible pricing for teams",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "desc": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "51c5e121f963",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "desc": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "abf99c21c726",
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "desc": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "10c90d7cc781",
+      "title": "A free version of ChatGPT built for teachers",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/chatgpt-for-teachers",
+      "desc": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "963896ca7550",
+      "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/chatgpt-for-veterans",
+      "desc": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, educ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "7e49bfef6007",
+      "title": "Teen safety, freedom, and privacy",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+      "desc": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "48bed504eb23",
+      "title": "Intellectual freedom by design",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
+      "desc": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "84ea06dbd9b7",
+      "title": "OpenAI and the CSU system bring AI to 500,000 students & faculty",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/openai-and-the-csu-system",
+      "desc": "The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "768b82833f45",
+      "title": "Personalizing education with ChatGPT",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/asu",
+      "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "667d2feb16eb",
+      "title": "OpenAI for Education",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/introducing-chatgpt-edu",
+      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c486538cb168",
+      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5e004c9c8676",
+      "title": "Making education data accessible",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/zelma",
+      "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "64b19ff9d69b",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ffjord",
+      "desc": "",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "fc8789a61329",
+      "title": "Teacher–student curriculum learning",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
+      "desc": "",
       "tags": [
         "news"
       ],

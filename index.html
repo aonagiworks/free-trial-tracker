@@ -49,10 +49,11 @@
   <div class="cat" id="favBtn" style="border-color:var(--acc2);color:var(--acc2)">★ Favorit</div>
 </div>
 <div class="cats" id="cats"></div>
+<div class="cats" id="regions"></div>
 <div class="grid" id="grid"></div>
 <footer>Data curated + feed publik. Cek eligibility di situs resmi. Tidak ada jaminan promo aktif terus.</footer>
 <script>
-var DATA=[], CATS=[], activeCat='Semua', showFav=false;
+var DATA=[], CATS=[], REGIONS=[], activeCat='Semua', activeRegion='Semua', showFav=false;
 var FAV=JSON.parse(localStorage.getItem('ftt_fav')||'{}');
 function esc(s){var d=document.createElement('div');d.textContent=s==null?'':String(s);return d.innerHTML;}
 function saveFav(){localStorage.setItem('ftt_fav',JSON.stringify(FAV));}
@@ -63,6 +64,7 @@ function render(){
   var items=DATA.filter(function(x){
     if(showFav && !FAV[x.id])return false;
     if(activeCat!=='Semua' && x.category!==activeCat)return false;
+    if(activeRegion!=='Semua' && (x.region_class||'Region tertentu')!==activeRegion)return false;
     if(q){
       var hay=(x.title+' '+x.provider+' '+x.desc+' '+(x.tags||[]).join(' ')).toLowerCase();
       if(hay.indexOf(q)<0)return false;
@@ -82,6 +84,7 @@ function render(){
     if(x.price&&x.price!=='—')html+='<span class="b price">'+esc(x.price)+'</span>';
     if(x.duration&&x.duration!=='—')html+='<span class="b dur">'+esc(x.duration)+'</span>';
     if(x.eligibility)html+='<span class="b">'+esc(x.eligibility)+'</span>';
+    if(x.region_class)html+='<span class="b">'+esc(x.region_class)+'</span>';
     html+='</div>';
     html+='<div class="desc">'+esc(x.desc)+'</div>';
     html+='<div class="row"><a class="go" href="'+esc(x.url)+'" target="_blank" rel="noopener">Buka →</a></div>';
@@ -103,13 +106,29 @@ function buildCats(){
     c.appendChild(el);
   });
 }
+function buildRegions(){
+  var order=['Semua region','Region tertentu','Butuh institusi'];
+  var set={};
+  DATA.forEach(function(x){if(x.region_class)set[x.region_class]=1;});
+  REGIONS=['Semua'].concat(order.filter(function(r){return set[r];}));
+  var c=document.getElementById('regions');
+  c.innerHTML='';
+  REGIONS.forEach(function(reg){
+    var el=document.createElement('div');
+    el.className='cat'+(reg===activeRegion?' on':'');
+    el.style.borderColor=reg===activeRegion?'':'var(--acc2)';
+    el.textContent=reg==='Semua'?'🌍 Semua region':reg;
+    el.onclick=function(){activeRegion=reg;buildRegions();render();};
+    c.appendChild(el);
+  });
+}
 document.getElementById('q').addEventListener('input',render);
 document.getElementById('favBtn').onclick=function(){showFav=!showFav;this.classList.toggle('on',showFav);if(showFav){activeCat='Semua';buildCats();}render();};
 fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(function(j){
   DATA=j.offers||j.courses||[];
   var d=new Date(j.updated_at);
   document.getElementById('meta').textContent=j.total+' offers · '+j.curated+' curated · '+j.from_feeds+' feed · update '+d.toLocaleString('id-ID');
-  buildCats();render();
+  buildCats();buildRegions();render();
 }).catch(function(e){document.getElementById('meta').textContent='gagal load data.json';});
 </script>
 </body>
