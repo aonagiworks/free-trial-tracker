@@ -6,58 +6,391 @@
 <title>Free Trial Tracker — Student, AI, Editing, Apps</title>
 <meta name="description" content="Database free trial & gratisan: student packs, AI tools, editing, produktivitas. Auto-update.">
 <style>
-  :root{--bg:#0d0d0f;--card:#161619;--line:#26262c;--fg:#f2f2f4;--mut:#8a8a94;--acc:#c7f14a;--acc2:#ff5c8a}
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px;max-width:1100px;margin:0 auto}
-  header{border:2px solid var(--fg);padding:16px;margin-bottom:16px;background:var(--card)}
-  h1{font-size:26px;font-weight:800;letter-spacing:-.5px;text-transform:uppercase}
-  .sub{color:var(--mut);font-size:13px;margin-top:4px}
-  .meta{font-size:12px;color:var(--mut);margin-top:8px}
-  .controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
-  input[type=search]{flex:1;min-width:200px;background:var(--card);border:2px solid var(--line);color:var(--fg);padding:10px 12px;font-size:14px;outline:none}
-  input[type=search]:focus{border-color:var(--acc)}
-  .cats{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
-  .cat{background:var(--card);border:2px solid var(--line);color:var(--mut);padding:6px 12px;font-size:13px;cursor:pointer;user-select:none;font-weight:600}
-  .cat.on{background:var(--acc);color:#000;border-color:var(--acc)}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
-  .card{background:var(--card);border:2px solid var(--line);padding:14px;display:flex;flex-direction:column;gap:8px;position:relative}
-  .card:hover{border-color:var(--acc)}
-  .card h3{font-size:16px;font-weight:700;padding-right:28px}
-  .badges{display:flex;flex-wrap:wrap;gap:5px}
-  .b{font-size:11px;padding:2px 7px;border:1px solid var(--line);color:var(--mut);text-transform:uppercase;letter-spacing:.3px}
-  .b.price{border-color:var(--acc);color:var(--acc)}
-  .b.dur{border-color:var(--acc2);color:var(--acc2)}
-  .desc{font-size:13px;color:#c8c8d0}
-  .prov{font-size:12px;color:var(--mut)}
-  .row{display:flex;justify-content:space-between;align-items:center;margin-top:auto;gap:8px}
-  a.go{background:var(--fg);color:#000;text-decoration:none;padding:7px 14px;font-weight:700;font-size:13px}
-  a.go:hover{background:var(--acc)}
-  .fav{position:absolute;top:12px;right:12px;background:none;border:none;font-size:20px;cursor:pointer;color:var(--line)}
-  .fav.on{color:var(--acc2)}
-  .empty{color:var(--mut);text-align:center;padding:40px;grid-column:1/-1}
-  footer{margin-top:24px;color:var(--mut);font-size:12px;text-align:center;border-top:1px solid var(--line);padding-top:12px}
+  :root{
+    --bg:#e8f2e9;
+    --bg-deep:#d4e6d5;
+    --surface:#fffaf5;
+    --surface-elev:#ffffff;
+    --line:#e8dfd4;
+    --fg:#3d352e;
+    --mut:#8a7f73;
+    --acc:#ff7a4a;
+    --acc-soft:#fff3ed;
+    --peach:#ffb88a;
+    --yellow:#ffe08a;
+    --blue:#9ad1f5;
+    --green:#a8d5a3;
+    --shadow-1:0 2px 8px rgba(61,53,46,.06);
+    --shadow-2:0 8px 24px rgba(61,53,46,.08);
+    --shadow-3:0 16px 40px rgba(61,53,46,.1);
+    --radius-s:16px;
+    --radius-m:24px;
+    --radius-l:32px;
+    --radius-pill:999px;
+    --space-1:4px;
+    --space-2:8px;
+    --space-3:12px;
+    --space-4:16px;
+    --space-5:24px;
+    --space-6:32px;
+    --space-7:48px;
+    --font-sans:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#1a1f1a;
+      --bg-deep:#141a14;
+      --surface:#242823;
+      --surface-elev:#2a2f29;
+      --line:#363b34;
+      --fg:#f2efe8;
+      --mut:#9a9287;
+      --acc:#ff8a5a;
+      --acc-soft:#3d2d22;
+      --shadow-1:0 2px 8px rgba(0,0,0,.3);
+      --shadow-2:0 8px 24px rgba(0,0,0,.4);
+      --shadow-3:0 16px 40px rgba(0,0,0,.5);
+    }
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  html{font-size:16px;-webkit-text-size-adjust:100%}
+  body{
+    background:
+      radial-gradient(ellipse 80% 50% at 50% -20%,var(--bg-deep),transparent),
+      var(--bg);
+    color:var(--fg);
+    font:16px/1.6 var(--font-sans);
+    min-height:100vh;
+    padding:var(--space-4) var(--space-4) var(--space-7);
+  }
+  .wrap{max-width:720px;margin:0 auto}
+  @media (min-width:768px){
+    body{padding:var(--space-6) var(--space-6) var(--space-7)}
+    .wrap{max-width:980px}
+  }
+  @media (min-width:1200px){
+    .wrap{max-width:1180px}
+  }
+  header{
+    background:var(--surface);
+    border-radius:var(--radius-l);
+    padding:var(--space-5) var(--space-5);
+    margin-bottom:var(--space-5);
+    box-shadow:var(--shadow-1);
+    position:relative;
+    overflow:hidden;
+  }
+  header::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:linear-gradient(135deg,var(--acc-soft) 0%,transparent 60%);
+    opacity:.6;
+    pointer-events:none;
+  }
+  header>*{position:relative;z-index:1}
+  h1{
+    font-size:clamp(28px,5vw,40px);
+    font-weight:800;
+    letter-spacing:-.02em;
+    color:var(--fg);
+    line-height:1.2;
+  }
+  .sub{
+    color:var(--mut);
+    font-size:clamp(14px,2.5vw,16px);
+    margin-top:var(--space-2);
+    font-weight:400;
+  }
+  .meta{
+    font-size:13px;
+    color:var(--mut);
+    margin-top:var(--space-3);
+    display:flex;
+    flex-wrap:wrap;
+    gap:var(--space-3);
+    align-items:center;
+  }
+  .meta span{background:var(--acc-soft);color:var(--acc);padding:4px 10px;border-radius:var(--radius-pill);font-size:12px;font-weight:600}
+  .controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:var(--space-3);
+    margin-bottom:var(--space-4);
+  }
+  .search-wrap{flex:1;min-width:240px;position:relative}
+  .search-wrap::before{
+    content:"";
+    position:absolute;
+    left:var(--space-4);
+    top:50%;
+    transform:translateY(-50%);
+    width:22px;height:22px;
+    background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238a7f73' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E") center/contain no-repeat;
+    pointer-events:none;
+    opacity:.6;
+  }
+  .search-wrap:focus-within::before{opacity:1}
+  input[type=search]{
+    width:100%;
+    background:var(--surface);
+    border:2px solid var(--line);
+    color:var(--fg);
+    padding:var(--space-3) var(--space-4) var(--space-3) 48px;
+    font-size:15px;
+    border-radius:var(--radius-pill);
+    outline:none;
+    transition:border-color .15s,box-shadow .15s,background .15s;
+    font-family:inherit;
+  }
+  input[type=search]::placeholder{color:var(--mut);opacity:.7}
+  input[type=search]:hover{border-color:var(--peach)}
+  input[type=search]:focus{
+    border-color:var(--acc);
+    box-shadow:0 0 0 4px var(--acc-soft);
+    background:var(--surface-elev);
+  }
+  .fav-toggle{
+    background:var(--surface);
+    border:2px solid var(--line);
+    color:var(--mut);
+    padding:var(--space-3) var(--space-5);
+    font-size:14px;
+    font-weight:600;
+    border-radius:var(--radius-pill);
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    gap:var(--space-2);
+    transition:all .15s;
+    font-family:inherit;
+    white-space:nowrap;
+  }
+  .fav-toggle:hover{border-color:var(--peach);color:var(--fg)}
+  .fav-toggle.on{background:var(--acc);border-color:var(--acc);color:#fff}
+  .fav-toggle:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+  .chip-row{display:flex;flex-wrap:wrap;gap:var(--space-2);margin-bottom:var(--space-3)}
+  .chip{
+    background:var(--surface);
+    border:2px solid var(--line);
+    color:var(--mut);
+    padding:var(--space-2) var(--space-4);
+    font-size:13px;
+    font-weight:600;
+    border-radius:var(--radius-pill);
+    cursor:pointer;
+    user-select:none;
+    transition:all .15s;
+    white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--peach);color:var(--fg)}
+  .chip.on{background:var(--acc);border-color:var(--acc);color:#fff}
+  .chip:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+  .grid{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:var(--space-4);
+  }
+  @media (min-width:560px){
+    .grid{grid-template-columns:repeat(2,1fr)}
+  }
+  @media (min-width:980px){
+    .grid{grid-template-columns:repeat(3,1fr)}
+  }
+  @media (min-width:1280px){
+    .grid{grid-template-columns:repeat(4,1fr)}
+  }
+  .card{
+    background:var(--surface);
+    border-radius:var(--radius-m);
+    padding:var(--space-4);
+    display:flex;
+    flex-direction:column;
+    gap:var(--space-3);
+    box-shadow:var(--shadow-1);
+    border:1px solid var(--line);
+    transition:transform .2s,box-shadow .2s,border-color .2s;
+    position:relative;
+  }
+  .card:hover{
+    transform:translateY(-4px);
+    box-shadow:var(--shadow-2);
+    border-color:var(--peach);
+  }
+  .card:focus-within{outline:2px solid var(--acc);outline-offset:2px}
+  .card-header{display:flex;justify-content:space-between;align-items:flex-start;gap:var(--space-3)}
+  .card-title{
+    font-size:15px;
+    font-weight:700;
+    line-height:1.35;
+    color:var(--fg);
+    flex:1;
+    padding-right:var(--space-5);
+  }
+  .fav-btn{
+    background:none;
+    border:none;
+    font-size:22px;
+    cursor:pointer;
+    color:var(--line);
+    padding:var(--space-1);
+    line-height:1;
+    border-radius:var(--radius-s);
+    transition:all .15s;
+    flex-shrink:0;
+  }
+  .fav-btn:hover{color:var(--acc);background:var(--acc-soft)}
+  .fav-btn.on{color:var(--acc)}
+  .fav-btn:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+  .card-meta{
+    display:flex;
+    align-items:center;
+    gap:var(--space-2);
+    flex-wrap:wrap;
+    font-size:12px;
+    color:var(--mut);
+  }
+  .provider-badge{
+    background:var(--surface-elev);
+    border:1px solid var(--line);
+    padding:var(--space-1) var(--space-3);
+    border-radius:var(--radius-pill);
+    font-weight:600;
+  }
+  .category-badge{
+    background:var(--acc-soft);
+    color:var(--acc);
+    padding:var(--space-1) var(--space-3);
+    border-radius:var(--radius-pill);
+    font-weight:600;
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:.04em;
+  }
+  .badges{display:flex;flex-wrap:wrap;gap:var(--space-2)}
+  .badge{
+    font-size:11px;
+    padding:var(--space-1) var(--space-3);
+    border:1px solid var(--line);
+    color:var(--mut);
+    border-radius:var(--radius-pill);
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:.04em;
+    background:var(--surface-elev);
+    transition:all .15s;
+  }
+  .badge:hover{border-color:var(--peach);color:var(--fg)}
+  .badge.price{border-color:var(--acc);color:var(--acc);background:var(--acc-soft)}
+  .badge.dur{border-color:var(--blue);color:#1e6bb8;background:#eef8ff}
+  .badge.region{border-color:var(--green);color:#2a7a24;background:#f0f8ef}
+  .desc{
+    font-size:13px;
+    line-height:1.5;
+    color:var(--mut);
+    flex:1;
+  }
+  .card-footer{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:var(--space-3);
+    margin-top:auto;
+    padding-top:var(--space-2);
+    border-top:1px solid var(--line);
+  }
+  .btn-go{
+    flex:1;
+    background:var(--acc);
+    color:#fff;
+    text-decoration:none;
+    padding:var(--space-3) var(--space-5);
+    font-weight:700;
+    font-size:14px;
+    border-radius:var(--radius-pill);
+    text-align:center;
+    transition:all .15s;
+    box-shadow:0 2px 8px rgba(255,122,74,.3);
+  }
+  .btn-go:hover{
+    background:#e8653a;
+    transform:translateY(-1px);
+    box-shadow:0 4px 16px rgba(255,122,74,.4);
+  }
+  .btn-go:active{transform:translateY(0)}
+  .btn-go:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+  .empty{
+    grid-column:1/-1;
+    text-align:center;
+    padding:var(--space-7) var(--space-4);
+    color:var(--mut);
+    background:var(--surface);
+    border-radius:var(--radius-m);
+    border:1px dashed var(--line);
+  }
+  .empty svg{width:64px;height:64px;margin-bottom:var(--space-3);opacity:.5}
+  footer{
+    margin-top:var(--space-7);
+    color:var(--mut);
+    font-size:13px;
+    text-align:center;
+    padding-top:var(--space-5);
+    border-top:1px solid var(--line);
+  }
+  .toast{
+    position:fixed;
+    bottom:var(--space-5);
+    left:50%;
+    transform:translateX(-50%) translateY(100px);
+    background:var(--surface-elev);
+    border:1px solid var(--line);
+    border-radius:var(--radius-m);
+    padding:var(--space-3) var(--space-5);
+    box-shadow:var(--shadow-3);
+    font-size:14px;
+    color:var(--fg);
+    opacity:0;
+    pointer-events:none;
+    transition:transform .3s cubic-bezier(.34,1.56,.64,1),opacity .3s;
+    z-index:1000;
+  }
+  .toast.show{transform:translateX(-50%) translateY(0);opacity:1}
+  @media (max-width:559px){
+    .card-footer{flex-direction:column}
+    .btn-go{width:100%}
+  }
 </style>
 </head>
 <body>
+<div class="wrap">
 <header>
   <h1>Free Trial Tracker</h1>
   <div class="sub">Student packs · AI · Editing · Produktivitas · Apps — gratisan & trial, auto-update</div>
-  <div class="meta" id="meta">memuat…</div>
+  <div class="meta" id="meta"><span>memuat…</span></div>
 </header>
 <div class="controls">
-  <input type="search" id="q" placeholder="Cari: gemini, adobe, student, gratis…">
-  <div class="cat" id="favBtn" style="border-color:var(--acc2);color:var(--acc2)">★ Favorit</div>
+  <div class="search-wrap">
+    <input type="search" id="q" placeholder="Cari: gemini, adobe, student, gratis…" aria-label="Cari offer">
+  </div>
+  <button class="fav-toggle" id="favBtn" aria-label="Filter favorit" aria-pressed="false">★ Favorit</button>
 </div>
-<div class="cats" id="cats"></div>
-<div class="cats" id="regions"></div>
-<div class="grid" id="grid"></div>
+<div class="chip-row" id="cats" role="tablist" aria-label="Filter kategori"></div>
+<div class="chip-row" id="regions" role="tablist" aria-label="Filter region"></div>
+<div class="grid" id="grid" role="list"></div>
 <footer>Data curated + feed publik. Cek eligibility di situs resmi. Tidak ada jaminan promo aktif terus.</footer>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
 <script>
 var DATA=[], CATS=[], REGIONS=[], activeCat='Semua', activeRegion='Semua', showFav=false;
 var FAV=JSON.parse(localStorage.getItem('ftt_fav')||'{}');
 function esc(s){var d=document.createElement('div');d.textContent=s==null?'':String(s);return d.innerHTML;}
 function saveFav(){localStorage.setItem('ftt_fav',JSON.stringify(FAV));}
-function toggleFav(id){if(FAV[id])delete FAV[id];else FAV[id]=1;saveFav();render();}
+function toast(msg){var t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(function(){t.classList.remove('show')},2000);}
+function toggleFav(id){
+  if(FAV[id]){delete FAV[id];toast('Dihapus dari favorit');}
+  else{FAV[id]=1;toast('Ditambah ke favorit');}
+  saveFav();render();
+}
 function render(){
   var q=document.getElementById('q').value.toLowerCase().trim();
   var grid=document.getElementById('grid');
@@ -71,65 +404,87 @@ function render(){
     }
     return true;
   });
-  if(!items.length){grid.innerHTML='<div class="empty">Tidak ada hasil.</div>';return;}
+  if(!items.length){
+    grid.innerHTML='<div class="empty" role="status"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="8" x2="16" y2="16"/><line x1="16" y1="8" x2="8" y2="16"/></svg>Tidak ada hasil untuk filter ini.</div>';
+    return;
+  }
   var html='';
   for(var i=0;i<items.length;i++){
     var x=items[i];
     var on=FAV[x.id]?' on':'';
-    html+='<div class="card">';
-    html+='<button class="fav'+on+'" onclick="toggleFav(\''+esc(x.id)+'\')" title="Favorit">★</button>';
-    html+='<h3>'+esc(x.title)+'</h3>';
-    html+='<div class="prov">'+esc(x.provider)+' · '+esc(x.category)+'</div>';
+    html+='<article class="card" role="listitem">';
+    html+='<div class="card-header">';
+    html+='<h3 class="card-title">'+esc(x.title)+'</h3>';
+    html+='<button class="fav-btn'+on+'" onclick="toggleFav(\''+esc(x.id)+'\')" title="Favorit" aria-label="'+(FAV[x.id]?'Hapus dari':'Tambah ke')+' favorit" aria-pressed="'+!!FAV[x.id]+'">★</button>';
+    html+='</div>';
+    html+='<div class="card-meta">';
+    html+='<span class="provider-badge">'+esc(x.provider)+'</span>';
+    html+='<span class="category-badge">'+esc(x.category)+'</span>';
+    html+='</div>';
     html+='<div class="badges">';
-    if(x.price&&x.price!=='—')html+='<span class="b price">'+esc(x.price)+'</span>';
-    if(x.duration&&x.duration!=='—')html+='<span class="b dur">'+esc(x.duration)+'</span>';
-    if(x.eligibility)html+='<span class="b">'+esc(x.eligibility)+'</span>';
-    if(x.region_class)html+='<span class="b">'+esc(x.region_class)+'</span>';
+    if(x.price&&x.price!=='—')html+='<span class="badge price">'+esc(x.price)+'</span>';
+    if(x.duration&&x.duration!=='—')html+='<span class="badge dur">'+esc(x.duration)+'</span>';
+    if(x.eligibility)html+='<span class="badge">'+esc(x.eligibility)+'</span>';
+    if(x.region_class)html+='<span class="badge region">'+esc(x.region_class)+'</span>';
     html+='</div>';
     html+='<div class="desc">'+esc(x.desc)+'</div>';
-    html+='<div class="row"><a class="go" href="'+esc(x.url)+'" target="_blank" rel="noopener">Buka →</a></div>';
+    html+='<div class="card-footer">';
+    html+='<a class="btn-go" href="'+esc(x.url)+'" target="_blank" rel="noopener">Buka →</a>';
     html+='</div>';
+    html+='</article>';
   }
   grid.innerHTML=html;
+}
+function buildChips(containerId,activeVar,getOptions,labelPrefix,onChange){
+  var container=document.getElementById(containerId);
+  var options=getOptions();
+  container.innerHTML='';
+  options.forEach(function(opt){
+    var el=document.createElement('button');
+    el.className='chip'+(opt===window[activeVar]?' on':'');
+    el.textContent=(labelPrefix?labelPrefix(opt):opt);
+    el.setAttribute('role','tab');
+    el.setAttribute('aria-selected',opt===window[activeVar]);
+    el.onclick=function(){
+      window[activeVar]=opt;
+      onChange();
+      buildChips(containerId,activeVar,getOptions,labelPrefix,onChange);
+      render();
+    };
+    container.appendChild(el);
+  });
 }
 function buildCats(){
   var set={'Semua':1};
   DATA.forEach(function(x){if(x.category)set[x.category]=1;});
   CATS=Object.keys(set);
-  var c=document.getElementById('cats');
-  c.innerHTML='';
-  CATS.forEach(function(cat){
-    var el=document.createElement('div');
-    el.className='cat'+(cat===activeCat?' on':'');
-    el.textContent=cat;
-    el.onclick=function(){activeCat=cat;showFav=false;document.getElementById('favBtn').classList.remove('on');buildCats();render();};
-    c.appendChild(el);
-  });
+  buildChips('cats','activeCat',function(){return CATS;},null,function(){showFav=false;document.getElementById('favBtn').classList.remove('on');});
 }
 function buildRegions(){
   var order=['Semua region','Region tertentu','Butuh institusi'];
   var set={};
   DATA.forEach(function(x){if(x.region_class)set[x.region_class]=1;});
   REGIONS=['Semua'].concat(order.filter(function(r){return set[r];}));
-  var c=document.getElementById('regions');
-  c.innerHTML='';
-  REGIONS.forEach(function(reg){
-    var el=document.createElement('div');
-    el.className='cat'+(reg===activeRegion?' on':'');
-    el.style.borderColor=reg===activeRegion?'':'var(--acc2)';
-    el.textContent=reg==='Semua'?'🌍 Semua region':reg;
-    el.onclick=function(){activeRegion=reg;buildRegions();render();};
-    c.appendChild(el);
-  });
+  buildChips('regions','activeRegion',function(){return REGIONS;},function(r){return r==='Semua'?'🌍 Semua region':r;},function(){});
 }
 document.getElementById('q').addEventListener('input',render);
-document.getElementById('favBtn').onclick=function(){showFav=!showFav;this.classList.toggle('on',showFav);if(showFav){activeCat='Semua';buildCats();}render();};
+document.getElementById('favBtn').onclick=function(){
+  showFav=!showFav;
+  this.classList.toggle('on',showFav);
+  this.setAttribute('aria-pressed',showFav);
+  if(showFav){activeCat='Semua';buildCats();}
+  render();
+};
 fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(function(j){
   DATA=j.offers||j.courses||[];
   var d=new Date(j.updated_at);
-  document.getElementById('meta').textContent=j.total+' offers · '+j.curated+' curated · '+j.from_feeds+' feed · update '+d.toLocaleString('id-ID');
+  var meta=document.getElementById('meta');
+  meta.innerHTML='<span>'+j.total+' offers</span><span>'+j.curated+' curated</span><span>'+j.from_feeds+' feed</span><span>update '+d.toLocaleString('id-ID')+'</span>';
   buildCats();buildRegions();render();
-}).catch(function(e){document.getElementById('meta').textContent='gagal load data.json';});
+}).catch(function(e){
+  document.getElementById('meta').textContent='gagal load data.json';
+  document.getElementById('grid').innerHTML='<div class="empty" role="alert"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>Gagal memuat data. Coba refresh halaman.</div>';
+});
 </script>
 </body>
 </html>
