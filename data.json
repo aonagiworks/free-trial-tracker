@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-01T00:00:07.434714+00:00",
-  "total": 131,
+  "updated_at": "2026-09-01T06:00:53.279609+00:00",
+  "total": 130,
   "curated": 91,
-  "from_feeds": 40,
+  "from_feeds": 39,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "85aae627bf9d",
+      "id": "fd3c9d77c9a9",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,25 +1668,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-250f",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-87n",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "6193da316710",
-      "title": "Free One-Page Website Templates for Developers and Creators",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/panstag_tech/free-one-page-website-templates-for-developers-and-creators-82g",
-      "desc": "If you're starting a new portfolio, landing page, personal website, or small project, you don't always need to build the frontend from zero.\n\nI put together a collection of free one-page website templates that can give y",
       "tags": [
         "news"
       ],
@@ -3984,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "85aae627bf9d",
+      "id": "fd3c9d77c9a9",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,25 +3976,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-250f",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-87n",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "6193da316710",
-      "title": "Free One-Page Website Templates for Developers and Creators",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/panstag_tech/free-one-page-website-templates-for-developers-and-creators-82g",
-      "desc": "If you're starting a new portfolio, landing page, personal website, or small project, you don't always need to build the frontend from zero.\n\nI put together a collection of free one-page website templates that can give y",
       "tags": [
         "news"
       ],
