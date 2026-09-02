@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-02T00:00:17.732889+00:00",
-  "total": 131,
+  "updated_at": "2026-09-02T06:00:26.047004+00:00",
+  "total": 130,
   "curated": 91,
-  "from_feeds": 40,
+  "from_feeds": 39,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "b5bed1b295c1",
+      "id": "7db2d6223516",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-32m8",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-5560",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1812,8 +1812,8 @@
       "source": "feed"
     },
     {
-      "id": "df3138a15b41",
-      "title": "Free-Model Code Review: A 48-Hour False Positive Autopsy",
+      "id": "5d97c5c373e8",
+      "title": "Students Don’t Need to Wait for College to Start Learning AI",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1821,25 +1821,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/codepy_1473/free-model-code-review-a-48-hour-false-positive-autopsy-3dle",
-      "desc": "Have you ever trusted a code review bot because it found something you missed? I did the opposite: I ran a free model on my own commit history and ended up with a long list of vulnerabilities that never existed. This is ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "824877f87b19",
-      "title": "Eval on Free Infrastructure: Four Myths That Waste Your Quota",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/eval-on-free-infrastructure-four-myths-that-waste-your-quota-1cno",
-      "desc": "Your free model + free server combo looks like a gift. It's not. It's a moving target.\n\nI ran model evals on shared infra. The surprises weren't in the model. They were in the platform.\n\nMonkeyCode offers a free model ti",
+      "url": "https://dev.to/aischolars/students-dont-need-to-wait-for-college-to-start-learning-ai-46hj",
+      "desc": "Artificial Intelligence is becoming part of almost every technology career.\n\nBut if you're a student, there's a common misconception:\n\n“I’ll learn AI after I get into college.”\n\nYou don't necessarily have to.\n\nYou also d",
       "tags": [
         "news"
       ],
@@ -3984,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "b5bed1b295c1",
+      "id": "7db2d6223516",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,7 +3976,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-32m8",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-5560",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -4137,8 +4120,8 @@
       "source": "feed"
     },
     {
-      "id": "df3138a15b41",
-      "title": "Free-Model Code Review: A 48-Hour False Positive Autopsy",
+      "id": "5d97c5c373e8",
+      "title": "Students Don’t Need to Wait for College to Start Learning AI",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4146,25 +4129,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/codepy_1473/free-model-code-review-a-48-hour-false-positive-autopsy-3dle",
-      "desc": "Have you ever trusted a code review bot because it found something you missed? I did the opposite: I ran a free model on my own commit history and ended up with a long list of vulnerabilities that never existed. This is ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "824877f87b19",
-      "title": "Eval on Free Infrastructure: Four Myths That Waste Your Quota",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/eval-on-free-infrastructure-four-myths-that-waste-your-quota-1cno",
-      "desc": "Your free model + free server combo looks like a gift. It's not. It's a moving target.\n\nI ran model evals on shared infra. The surprises weren't in the model. They were in the platform.\n\nMonkeyCode offers a free model ti",
+      "url": "https://dev.to/aischolars/students-dont-need-to-wait-for-college-to-start-learning-ai-46hj",
+      "desc": "Artificial Intelligence is becoming part of almost every technology career.\n\nBut if you're a student, there's a common misconception:\n\n“I’ll learn AI after I get into college.”\n\nYou don't necessarily have to.\n\nYou also d",
       "tags": [
         "news"
       ],
