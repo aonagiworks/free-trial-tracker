@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-02T06:00:26.047004+00:00",
-  "total": 130,
+  "updated_at": "2026-09-02T12:00:46.642291+00:00",
+  "total": 131,
   "curated": 91,
-  "from_feeds": 39,
+  "from_feeds": 40,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,24 @@
       "source": "curated"
     },
     {
-      "id": "7db2d6223516",
+      "id": "297b538f36c5",
+      "title": "40% Students Lose Hours With Best Mobile Productivity Apps",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/annabel/40-students-lose-hours-with-best-mobile-productivity-apps-2ihc",
+      "desc": "Forty percent of students waste two hours each week on the wrong apps. That's roughly 80 minutes per week per student. In a campus environment where deadlines and exams are tight, that time loss can be critical. The key ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5ae409c12dab",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1685,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-5560",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3n82",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1812,8 +1829,8 @@
       "source": "feed"
     },
     {
-      "id": "5d97c5c373e8",
-      "title": "Students Don’t Need to Wait for College to Start Learning AI",
+      "id": "195e74d44d61",
+      "title": "That Free AI Call Probably Went Through. Stop Blind Retries",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1821,8 +1838,59 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/aischolars/students-dont-need-to-wait-for-college-to-start-learning-ai-46hj",
-      "desc": "Artificial Intelligence is becoming part of almost every technology career.\n\nBut if you're a student, there's a common misconception:\n\n“I’ll learn AI after I get into college.”\n\nYou don't necessarily have to.\n\nYou also d",
+      "url": "https://dev.to/gitlab_3188/that-free-ai-call-probably-went-through-stop-blind-retries-21fo",
+      "desc": "Your free-tier AI endpoint times out. Your first reflex: press retry. But did the request arrive? Did it run? Did it burn quota? You don't know yet.\n\nBlind retries make that mystery worse. This post is a myth-busting fie",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "1cc42cc6307f",
+      "title": "I Cached Free Model Output for 48 Hours. The Cache Was the Unreliable Layer.",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/codepy_1473/i-cached-free-model-output-for-48-hours-the-cache-was-the-unreliable-layer-2k2l",
+      "desc": "Last week I repeated my favorite mistake: I trusted a cache more than I trusted the generative model behind it. After the retry storm incident, I told myself the model would be the weak link in any free AI stack. I spent",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "f3cdbbbd216a",
+      "title": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/github_7727/a-quarantine-for-model-drafted-docs-free-model-human-merge-29c2",
+      "desc": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge\n\n\nFree model access and a free server option make documentation drafting cheap enough to treat as a disposable experiment. That cheapness becomes a maintenance",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "2ec18a78b506",
+      "title": "The Selective Gate: Property Checks, Fixture Leases, and a Flaky Freeze for a Free Server",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/datacpp_8185/the-selective-gate-property-checks-fixture-leases-and-a-flaky-freeze-for-a-free-server-26l1",
+      "desc": "Why a free server changes your test strategy\n\n\nAn agent patch can be wrong in a thousand ways. The usual response is to throw a bigger CI at it. But when the only server you have is free, CPU and time are your real const",
       "tags": [
         "news"
       ],
@@ -1840,23 +1908,6 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "9ded89d286ec",
-      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
-      "desc": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, wi",
       "tags": [
         "news"
       ],
@@ -2282,40 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/khan-academy",
       "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "64b19ff9d69b",
-      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
-      "desc": "",
       "tags": [
         "news"
       ],
@@ -3967,7 +3984,24 @@
       "source": "curated"
     },
     {
-      "id": "7db2d6223516",
+      "id": "297b538f36c5",
+      "title": "40% Students Lose Hours With Best Mobile Productivity Apps",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/annabel/40-students-lose-hours-with-best-mobile-productivity-apps-2ihc",
+      "desc": "Forty percent of students waste two hours each week on the wrong apps. That's roughly 80 minutes per week per student. In a campus environment where deadlines and exams are tight, that time loss can be critical. The key ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5ae409c12dab",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,7 +4010,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-5560",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3n82",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -4120,8 +4154,8 @@
       "source": "feed"
     },
     {
-      "id": "5d97c5c373e8",
-      "title": "Students Don’t Need to Wait for College to Start Learning AI",
+      "id": "195e74d44d61",
+      "title": "That Free AI Call Probably Went Through. Stop Blind Retries",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4129,8 +4163,59 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/aischolars/students-dont-need-to-wait-for-college-to-start-learning-ai-46hj",
-      "desc": "Artificial Intelligence is becoming part of almost every technology career.\n\nBut if you're a student, there's a common misconception:\n\n“I’ll learn AI after I get into college.”\n\nYou don't necessarily have to.\n\nYou also d",
+      "url": "https://dev.to/gitlab_3188/that-free-ai-call-probably-went-through-stop-blind-retries-21fo",
+      "desc": "Your free-tier AI endpoint times out. Your first reflex: press retry. But did the request arrive? Did it run? Did it burn quota? You don't know yet.\n\nBlind retries make that mystery worse. This post is a myth-busting fie",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "1cc42cc6307f",
+      "title": "I Cached Free Model Output for 48 Hours. The Cache Was the Unreliable Layer.",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/codepy_1473/i-cached-free-model-output-for-48-hours-the-cache-was-the-unreliable-layer-2k2l",
+      "desc": "Last week I repeated my favorite mistake: I trusted a cache more than I trusted the generative model behind it. After the retry storm incident, I told myself the model would be the weak link in any free AI stack. I spent",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "f3cdbbbd216a",
+      "title": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/github_7727/a-quarantine-for-model-drafted-docs-free-model-human-merge-29c2",
+      "desc": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge\n\n\nFree model access and a free server option make documentation drafting cheap enough to treat as a disposable experiment. That cheapness becomes a maintenance",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "2ec18a78b506",
+      "title": "The Selective Gate: Property Checks, Fixture Leases, and a Flaky Freeze for a Free Server",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/datacpp_8185/the-selective-gate-property-checks-fixture-leases-and-a-flaky-freeze-for-a-free-server-26l1",
+      "desc": "Why a free server changes your test strategy\n\n\nAn agent patch can be wrong in a thousand ways. The usual response is to throw a bigger CI at it. But when the only server you have is free, CPU and time are your real const",
       "tags": [
         "news"
       ],
@@ -4148,23 +4233,6 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "9ded89d286ec",
-      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
-      "desc": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, wi",
       "tags": [
         "news"
       ],
@@ -4590,40 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/khan-academy",
       "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "64b19ff9d69b",
-      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
-      "desc": "",
       "tags": [
         "news"
       ],
