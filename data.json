@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-02T12:00:46.642291+00:00",
-  "total": 131,
+  "updated_at": "2026-09-02T18:00:53.666606+00:00",
+  "total": 130,
   "curated": 91,
-  "from_feeds": 40,
+  "from_feeds": 39,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,6 +1659,23 @@
       "source": "curated"
     },
     {
+      "id": "eb4fa8e5fa24",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-1n9a",
+      "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "297b538f36c5",
       "title": "40% Students Lose Hours With Best Mobile Productivity Apps",
       "provider": "dev.to",
@@ -1670,23 +1687,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/annabel/40-students-lose-hours-with-best-mobile-productivity-apps-2ihc",
       "desc": "Forty percent of students waste two hours each week on the wrong apps. That's roughly 80 minutes per week per student. In a campus environment where deadlines and exams are tight, that time loss can be critical. The key ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5ae409c12dab",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3n82",
-      "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
       ],
@@ -1829,74 +1829,6 @@
       "source": "feed"
     },
     {
-      "id": "195e74d44d61",
-      "title": "That Free AI Call Probably Went Through. Stop Blind Retries",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/that-free-ai-call-probably-went-through-stop-blind-retries-21fo",
-      "desc": "Your free-tier AI endpoint times out. Your first reflex: press retry. But did the request arrive? Did it run? Did it burn quota? You don't know yet.\n\nBlind retries make that mystery worse. This post is a myth-busting fie",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "1cc42cc6307f",
-      "title": "I Cached Free Model Output for 48 Hours. The Cache Was the Unreliable Layer.",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/codepy_1473/i-cached-free-model-output-for-48-hours-the-cache-was-the-unreliable-layer-2k2l",
-      "desc": "Last week I repeated my favorite mistake: I trusted a cache more than I trusted the generative model behind it. After the retry storm incident, I told myself the model would be the weak link in any free AI stack. I spent",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "f3cdbbbd216a",
-      "title": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/github_7727/a-quarantine-for-model-drafted-docs-free-model-human-merge-29c2",
-      "desc": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge\n\n\nFree model access and a free server option make documentation drafting cheap enough to treat as a disposable experiment. That cheapness becomes a maintenance",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "2ec18a78b506",
-      "title": "The Selective Gate: Property Checks, Fixture Leases, and a Flaky Freeze for a Free Server",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/datacpp_8185/the-selective-gate-property-checks-fixture-leases-and-a-flaky-freeze-for-a-free-server-26l1",
-      "desc": "Why a free server changes your test strategy\n\n\nAn agent patch can be wrong in a thousand ways. The usual response is to throw a bigger CI at it. But when the only server you have is free, CPU and time are your real const",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -1908,6 +1840,23 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "24ecf9915c34",
+      "title": "NYC bans AI use for students until they reach high school",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "desc": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600",
       "tags": [
         "news"
       ],
@@ -2333,6 +2282,40 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/khan-academy",
       "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "64b19ff9d69b",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ffjord",
+      "desc": "",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "fc8789a61329",
+      "title": "Teacher–student curriculum learning",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
+      "desc": "",
       "tags": [
         "news"
       ],
@@ -3984,6 +3967,23 @@
       "source": "curated"
     },
     {
+      "id": "eb4fa8e5fa24",
+      "title": "Top 10 Ways to Earn Free Crypto",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-1n9a",
+      "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "297b538f36c5",
       "title": "40% Students Lose Hours With Best Mobile Productivity Apps",
       "provider": "dev.to",
@@ -3995,23 +3995,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/annabel/40-students-lose-hours-with-best-mobile-productivity-apps-2ihc",
       "desc": "Forty percent of students waste two hours each week on the wrong apps. That's roughly 80 minutes per week per student. In a campus environment where deadlines and exams are tight, that time loss can be critical. The key ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5ae409c12dab",
-      "title": "Top 10 Ways to Earn Free Crypto",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3n82",
-      "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
       ],
@@ -4154,74 +4137,6 @@
       "source": "feed"
     },
     {
-      "id": "195e74d44d61",
-      "title": "That Free AI Call Probably Went Through. Stop Blind Retries",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/that-free-ai-call-probably-went-through-stop-blind-retries-21fo",
-      "desc": "Your free-tier AI endpoint times out. Your first reflex: press retry. But did the request arrive? Did it run? Did it burn quota? You don't know yet.\n\nBlind retries make that mystery worse. This post is a myth-busting fie",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "1cc42cc6307f",
-      "title": "I Cached Free Model Output for 48 Hours. The Cache Was the Unreliable Layer.",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/codepy_1473/i-cached-free-model-output-for-48-hours-the-cache-was-the-unreliable-layer-2k2l",
-      "desc": "Last week I repeated my favorite mistake: I trusted a cache more than I trusted the generative model behind it. After the retry storm incident, I told myself the model would be the weak link in any free AI stack. I spent",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "f3cdbbbd216a",
-      "title": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/github_7727/a-quarantine-for-model-drafted-docs-free-model-human-merge-29c2",
-      "desc": "A Quarantine for Model-Drafted Docs: Free Model, Human Merge\n\n\nFree model access and a free server option make documentation drafting cheap enough to treat as a disposable experiment. That cheapness becomes a maintenance",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "2ec18a78b506",
-      "title": "The Selective Gate: Property Checks, Fixture Leases, and a Flaky Freeze for a Free Server",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/datacpp_8185/the-selective-gate-property-checks-fixture-leases-and-a-flaky-freeze-for-a-free-server-26l1",
-      "desc": "Why a free server changes your test strategy\n\n\nAn agent patch can be wrong in a thousand ways. The usual response is to throw a bigger CI at it. But when the only server you have is free, CPU and time are your real const",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4233,6 +4148,23 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "24ecf9915c34",
+      "title": "NYC bans AI use for students until they reach high school",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "desc": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600",
       "tags": [
         "news"
       ],
@@ -4658,6 +4590,40 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/khan-academy",
       "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "64b19ff9d69b",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ffjord",
+      "desc": "",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "fc8789a61329",
+      "title": "Teacher–student curriculum learning",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
+      "desc": "",
       "tags": [
         "news"
       ],
