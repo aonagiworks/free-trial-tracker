@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T06:00:17.060691+00:00",
+  "updated_at": "2026-09-03T12:00:24.424768+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "7839ec0302c1",
+      "id": "b9c3b5f4d56c",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-oh4",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2jg4",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "b3d31c26a47f",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-5f53",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1686,74 +1703,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-20260903-124639-2656-2l1i",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "7de7a570c6f9",
-      "title": "1200+ Free Online Tools to Boost Your Productivity - 20260903-124251-4865",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-20260903-124251-4865-3emc",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "21af0511f2d4",
-      "title": "1200+ Free Online Tools to Boost Your Productivity (Sept 20260903-1238)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-sept-20260903-1238-2edo",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "7dee1604dea7",
-      "title": "1200+ Free Online Tools to Boost Your Productivity (2026 Guide)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-2026-guide-1ncl",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "9498c9b7176d",
-      "title": "1200+ Free Online Tools to Boost Your Productivity",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-1i37",
       "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
       "tags": [
         "news"
@@ -1914,8 +1863,8 @@
       "source": "feed"
     },
     {
-      "id": "be274836065a",
-      "title": "MyZubster, N4K48 and Neon Plaza: Connecting Open Source Profiles Through a Visual Metaverse Layer",
+      "id": "f1459070eb46",
+      "title": "AIoT Data Quality: The Foundation of Reliable Industrial Intelligence",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1923,8 +1872,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/danielioni/myzubster-n4k48-and-neon-plaza-connecting-open-source-profiles-through-a-visual-metaverse-layer-3h4",
-      "desc": "MyZubster, N4K48 and Neon Plaza\n\n\nOver the last development cycle, we completed an important step in the evolution of MyZubster:\n\nwe connected real GitHub work, participant profiles, visual storytelling and the emerging ",
+      "url": "https://dev.to/techwithunnati/aiot-data-quality-the-foundation-of-reliable-industrial-intelligence-1pek",
+      "desc": "AIoT systems combine the connectivity of the Internet of Things with the analytical capabilities of Artificial Intelligence. But there is one factor that can determine whether an AIoT project succeeds or struggles: data ",
       "tags": [
         "news"
       ],
@@ -1942,23 +1891,6 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "3c43fd587e90",
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "desc": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s c",
       "tags": [
         "news"
       ],
@@ -2333,6 +2265,74 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
       "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5e004c9c8676",
+      "title": "Making education data accessible",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/zelma",
+      "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "64b19ff9d69b",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ffjord",
+      "desc": "",
       "tags": [
         "news"
       ],
@@ -3984,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "7839ec0302c1",
+      "id": "b9c3b5f4d56c",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,8 +3993,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-oh4",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2jg4",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "b3d31c26a47f",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-5f53",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4011,74 +4028,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-20260903-124639-2656-2l1i",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "7de7a570c6f9",
-      "title": "1200+ Free Online Tools to Boost Your Productivity - 20260903-124251-4865",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-20260903-124251-4865-3emc",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "21af0511f2d4",
-      "title": "1200+ Free Online Tools to Boost Your Productivity (Sept 20260903-1238)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-sept-20260903-1238-2edo",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "7dee1604dea7",
-      "title": "1200+ Free Online Tools to Boost Your Productivity (2026 Guide)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-2026-guide-1ncl",
-      "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "9498c9b7176d",
-      "title": "1200+ Free Online Tools to Boost Your Productivity",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/1200-free-online-tools-to-boost-your-productivity-1i37",
       "desc": "Discover 1200+ Free Online Tools at Evergreen Tools\n\n\nAre you tired of paying for expensive software subscriptions? Looking for reliable, free online tools to boost your productivity? Look no further than Evergreen Tools",
       "tags": [
         "news"
@@ -4239,8 +4188,8 @@
       "source": "feed"
     },
     {
-      "id": "be274836065a",
-      "title": "MyZubster, N4K48 and Neon Plaza: Connecting Open Source Profiles Through a Visual Metaverse Layer",
+      "id": "f1459070eb46",
+      "title": "AIoT Data Quality: The Foundation of Reliable Industrial Intelligence",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4248,8 +4197,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/danielioni/myzubster-n4k48-and-neon-plaza-connecting-open-source-profiles-through-a-visual-metaverse-layer-3h4",
-      "desc": "MyZubster, N4K48 and Neon Plaza\n\n\nOver the last development cycle, we completed an important step in the evolution of MyZubster:\n\nwe connected real GitHub work, participant profiles, visual storytelling and the emerging ",
+      "url": "https://dev.to/techwithunnati/aiot-data-quality-the-foundation-of-reliable-industrial-intelligence-1pek",
+      "desc": "AIoT systems combine the connectivity of the Internet of Things with the analytical capabilities of Artificial Intelligence. But there is one factor that can determine whether an AIoT project succeeds or struggles: data ",
       "tags": [
         "news"
       ],
@@ -4267,23 +4216,6 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "3c43fd587e90",
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "desc": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s c",
       "tags": [
         "news"
       ],
@@ -4658,6 +4590,74 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
       "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5e004c9c8676",
+      "title": "Making education data accessible",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/zelma",
+      "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "64b19ff9d69b",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/ffjord",
+      "desc": "",
       "tags": [
         "news"
       ],
