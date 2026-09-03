@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-02T18:00:53.666606+00:00",
-  "total": 130,
+  "updated_at": "2026-09-03T00:01:01.826173+00:00",
+  "total": 131,
   "curated": 91,
-  "from_feeds": 39,
+  "from_feeds": 40,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "eb4fa8e5fa24",
+      "id": "edfd9f049eec",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-1n9a",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-331o",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1676,8 +1676,8 @@
       "source": "feed"
     },
     {
-      "id": "297b538f36c5",
-      "title": "40% Students Lose Hours With Best Mobile Productivity Apps",
+      "id": "af0b99aa7ced",
+      "title": "Is Online Mooc Courses Free a Fool’s Tale?",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1685,8 +1685,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/annabel/40-students-lose-hours-with-best-mobile-productivity-apps-2ihc",
-      "desc": "Forty percent of students waste two hours each week on the wrong apps. That's roughly 80 minutes per week per student. In a campus environment where deadlines and exams are tight, that time loss can be critical. The key ",
+      "url": "https://dev.to/annabel/is-online-mooc-courses-free-a-fools-tale-1p93",
+      "desc": "Free MOOCs often advertise a zero-price ticket, yet a review of enrollment flows shows that a non-zero fee is required for certificates or premium content. Completion rates remain below 10 % on average, which suggests th",
       "tags": [
         "news"
       ],
@@ -1829,6 +1829,23 @@
       "source": "feed"
     },
     {
+      "id": "99722f7de920",
+      "title": "Open Source AI Stack: Essential Private Infrastructure",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/open-source-ai-stack-essential-private-infrastructure-1hh6",
+      "desc": "Why an Open Source AI Stack Matters\n\n\nAn open source AI stack gives organizations control over where models run, how sensitive data is processed, and which infrastructure supports production workloads. Instead of tying a",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -1846,8 +1863,8 @@
       "source": "feed"
     },
     {
-      "id": "24ecf9915c34",
-      "title": "NYC bans AI use for students until they reach high school",
+      "id": "3c43fd587e90",
+      "title": "Here are some of REI’s best Labor Day sale deals",
       "provider": "www.theverge.com",
       "category": "News/Deal",
       "duration": "—",
@@ -1855,8 +1872,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "desc": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600",
+      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+      "desc": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s c",
       "tags": [
         "news"
       ],
@@ -3967,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "eb4fa8e5fa24",
+      "id": "edfd9f049eec",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,7 +3993,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-1n9a",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-331o",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -3984,8 +4001,8 @@
       "source": "feed"
     },
     {
-      "id": "297b538f36c5",
-      "title": "40% Students Lose Hours With Best Mobile Productivity Apps",
+      "id": "af0b99aa7ced",
+      "title": "Is Online Mooc Courses Free a Fool’s Tale?",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -3993,8 +4010,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/annabel/40-students-lose-hours-with-best-mobile-productivity-apps-2ihc",
-      "desc": "Forty percent of students waste two hours each week on the wrong apps. That's roughly 80 minutes per week per student. In a campus environment where deadlines and exams are tight, that time loss can be critical. The key ",
+      "url": "https://dev.to/annabel/is-online-mooc-courses-free-a-fools-tale-1p93",
+      "desc": "Free MOOCs often advertise a zero-price ticket, yet a review of enrollment flows shows that a non-zero fee is required for certificates or premium content. Completion rates remain below 10 % on average, which suggests th",
       "tags": [
         "news"
       ],
@@ -4137,6 +4154,23 @@
       "source": "feed"
     },
     {
+      "id": "99722f7de920",
+      "title": "Open Source AI Stack: Essential Private Infrastructure",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/open-source-ai-stack-essential-private-infrastructure-1hh6",
+      "desc": "Why an Open Source AI Stack Matters\n\n\nAn open source AI stack gives organizations control over where models run, how sensitive data is processed, and which infrastructure supports production workloads. Instead of tying a",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4154,8 +4188,8 @@
       "source": "feed"
     },
     {
-      "id": "24ecf9915c34",
-      "title": "NYC bans AI use for students until they reach high school",
+      "id": "3c43fd587e90",
+      "title": "Here are some of REI’s best Labor Day sale deals",
       "provider": "www.theverge.com",
       "category": "News/Deal",
       "duration": "—",
@@ -4163,8 +4197,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "desc": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600",
+      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+      "desc": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s c",
       "tags": [
         "news"
       ],
