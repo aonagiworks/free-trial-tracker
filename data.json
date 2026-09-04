@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T06:00:44.707901+00:00",
+  "updated_at": "2026-09-04T12:00:57.232625+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "04850411af30",
+      "id": "e1e7f086ad57",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-5132",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-anh",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1676,8 +1676,8 @@
       "source": "feed"
     },
     {
-      "id": "3bc95e7544f4",
-      "title": "The Best Free Hosting Platforms for Your Side Projects",
+      "id": "bf5747c5231f",
+      "title": "Deploy Python Apps for Free: Complete 2025 Guide",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1685,8 +1685,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/qingluan/the-best-free-hosting-platforms-for-your-side-projects-a6j",
-      "desc": "The Best Free Hosting Platforms for Your Side Projects\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: h",
+      "url": "https://dev.to/qingluan/deploy-python-apps-for-free-complete-2025-guide-g6c",
+      "desc": "Deploy Python Apps for Free: Complete 2025 Guide\n\n\ntags: python, deployment, free, tutorial\n\n\n\n\ntags: python, deployment, free, tutorial\n\n\n\n\ntags: python, deployment, free, tutorial\n\n\n\n\ntags: python, deployment, free, tu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4c6f775dd160",
+      "title": "BCA Project Centers Chennai for Student Projects",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jawagar_raj_e41371bc8599f/bca-project-centers-chennai-for-student-projects-50bn",
+      "desc": "Students searching for BCA Project Centers Chennai can explore project development guidance for their academic requirements. BCA project centers can help students identify suitable topics and understand the technologies ",
       "tags": [
         "news"
       ],
@@ -1846,8 +1863,8 @@
       "source": "feed"
     },
     {
-      "id": "5ea4719e3b3b",
-      "title": "Open Source AI Stack: Essential Private Infrastructure",
+      "id": "33a693ea3af4",
+      "title": "Build a Free AI Code Reviewer on GitHub Actions with MonkeyCode",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1855,8 +1872,93 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/open-source-ai-stack-essential-private-infrastructure-4pon",
-      "desc": "Organizations adopting artificial intelligence often discover that convenience comes with a hidden cost: proprietary model interfaces, restricted data movement, and infrastructure that cannot be reproduced elsewhere. An ",
+      "url": "https://dev.to/hackcpp_3619/build-a-free-ai-code-reviewer-on-github-actions-with-monkeycode-3djo",
+      "desc": "Automated code review is usually a paid feature. This article shows how to build a lightweight PR reviewer using MonkeyCode's free server and free token allowance. The result is a GitHub Action that comments on diffs wit",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "11dab7970606",
+      "title": "The 10M Token Trap: Free Quotas Change Developer Behavior Before They Change Your Costs",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/bestbee/the-10m-token-trap-free-quotas-change-developer-behavior-before-they-change-your-costs-14d4",
+      "desc": "The 10M Token Trap: Free Quotas Change Developer Behavior Before They Change Your Costs\n\n\nLast sprint, I watched a senior engineer rewrite the same error-handling block four times. Each attempt used a longer prompt. Each",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "b4c8327849f8",
+      "title": "Treat a Free Token Tier as a Spec, Not a Giveaway",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/github_7727/treat-a-free-token-tier-as-a-spec-not-a-giveaway-2foe",
+      "desc": "A free AI token tier is not a marketing giveaway; it is a specification that forces you to answer what a feature is worth per request before you ship. I start from that fixed grant, not from model selection, because a ha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3314494cc265",
+      "title": "The Free Server Saw My API Key: A Client-Side Redaction Layer for AI Prompts",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/babycat/the-free-server-saw-my-api-key-a-client-side-redaction-layer-for-ai-prompts-1b24",
+      "desc": "Last week I pasted a code snippet into a chat widget backed by MonkeyCode's free server, and the snippet contained a hardcoded API key. The response was helpful, the stream rendered smoothly, and then it hit me: that key",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "dfdfb2e30504",
+      "title": "Same Question, Different Words: A Semantic Cache for Free Model Endpoints",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/gitlab_3188/same-question-different-words-a-semantic-cache-for-free-model-endpoints-3no0",
+      "desc": "Your free model quota is a countdown timer. Every call burns tokens. Most apps waste them on repeat questions.\n\nSame prompt, same answer, same cost. Nobody notices until the quota hits zero.\n\nI built a semantic cache for",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "d6a5eec9f26a",
+      "title": "The 429 Cascade: Debugging a Code-Review Bot on a Free Endpoint",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/codepro_3283/the-429-cascade-debugging-a-code-review-bot-on-a-free-endpoint-207k",
+      "desc": "The outage was not the endpoint's fault. It was my retry logic.\n\nI pointed a code-review bot at MonkeyCode's free server and watched it stall the review pipeline in eleven minutes. The server did not go down. It returned",
       "tags": [
         "news"
       ],
@@ -1874,6 +1976,23 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "9a19ccf0dc08",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "desc": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith",
       "tags": [
         "news"
       ],
@@ -2214,125 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/asu",
       "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "667d2feb16eb",
-      "title": "OpenAI for Education",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/introducing-chatgpt-edu",
-      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c486538cb168",
-      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5e004c9c8676",
-      "title": "Making education data accessible",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/zelma",
-      "desc": "Zelma uses GPT-4 to make education data accessible.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "acdfe0f492c4",
-      "title": "Using AI to improve patient access to clinical trials",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/paradigm",
-      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "64b19ff9d69b",
-      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
-      "desc": "",
       "tags": [
         "news"
       ],
@@ -3984,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "04850411af30",
+      "id": "e1e7f086ad57",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,7 +3993,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-5132",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-anh",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -4001,8 +4001,8 @@
       "source": "feed"
     },
     {
-      "id": "3bc95e7544f4",
-      "title": "The Best Free Hosting Platforms for Your Side Projects",
+      "id": "bf5747c5231f",
+      "title": "Deploy Python Apps for Free: Complete 2025 Guide",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4010,8 +4010,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/qingluan/the-best-free-hosting-platforms-for-your-side-projects-a6j",
-      "desc": "The Best Free Hosting Platforms for Your Side Projects\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: hosting, free, webdev, tools\n\n\n\n\ntags: h",
+      "url": "https://dev.to/qingluan/deploy-python-apps-for-free-complete-2025-guide-g6c",
+      "desc": "Deploy Python Apps for Free: Complete 2025 Guide\n\n\ntags: python, deployment, free, tutorial\n\n\n\n\ntags: python, deployment, free, tutorial\n\n\n\n\ntags: python, deployment, free, tutorial\n\n\n\n\ntags: python, deployment, free, tu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4c6f775dd160",
+      "title": "BCA Project Centers Chennai for Student Projects",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jawagar_raj_e41371bc8599f/bca-project-centers-chennai-for-student-projects-50bn",
+      "desc": "Students searching for BCA Project Centers Chennai can explore project development guidance for their academic requirements. BCA project centers can help students identify suitable topics and understand the technologies ",
       "tags": [
         "news"
       ],
@@ -4171,8 +4188,8 @@
       "source": "feed"
     },
     {
-      "id": "5ea4719e3b3b",
-      "title": "Open Source AI Stack: Essential Private Infrastructure",
+      "id": "33a693ea3af4",
+      "title": "Build a Free AI Code Reviewer on GitHub Actions with MonkeyCode",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4180,8 +4197,93 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/open-source-ai-stack-essential-private-infrastructure-4pon",
-      "desc": "Organizations adopting artificial intelligence often discover that convenience comes with a hidden cost: proprietary model interfaces, restricted data movement, and infrastructure that cannot be reproduced elsewhere. An ",
+      "url": "https://dev.to/hackcpp_3619/build-a-free-ai-code-reviewer-on-github-actions-with-monkeycode-3djo",
+      "desc": "Automated code review is usually a paid feature. This article shows how to build a lightweight PR reviewer using MonkeyCode's free server and free token allowance. The result is a GitHub Action that comments on diffs wit",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "11dab7970606",
+      "title": "The 10M Token Trap: Free Quotas Change Developer Behavior Before They Change Your Costs",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/bestbee/the-10m-token-trap-free-quotas-change-developer-behavior-before-they-change-your-costs-14d4",
+      "desc": "The 10M Token Trap: Free Quotas Change Developer Behavior Before They Change Your Costs\n\n\nLast sprint, I watched a senior engineer rewrite the same error-handling block four times. Each attempt used a longer prompt. Each",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "b4c8327849f8",
+      "title": "Treat a Free Token Tier as a Spec, Not a Giveaway",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/github_7727/treat-a-free-token-tier-as-a-spec-not-a-giveaway-2foe",
+      "desc": "A free AI token tier is not a marketing giveaway; it is a specification that forces you to answer what a feature is worth per request before you ship. I start from that fixed grant, not from model selection, because a ha",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3314494cc265",
+      "title": "The Free Server Saw My API Key: A Client-Side Redaction Layer for AI Prompts",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/babycat/the-free-server-saw-my-api-key-a-client-side-redaction-layer-for-ai-prompts-1b24",
+      "desc": "Last week I pasted a code snippet into a chat widget backed by MonkeyCode's free server, and the snippet contained a hardcoded API key. The response was helpful, the stream rendered smoothly, and then it hit me: that key",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "dfdfb2e30504",
+      "title": "Same Question, Different Words: A Semantic Cache for Free Model Endpoints",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/gitlab_3188/same-question-different-words-a-semantic-cache-for-free-model-endpoints-3no0",
+      "desc": "Your free model quota is a countdown timer. Every call burns tokens. Most apps waste them on repeat questions.\n\nSame prompt, same answer, same cost. Nobody notices until the quota hits zero.\n\nI built a semantic cache for",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "d6a5eec9f26a",
+      "title": "The 429 Cascade: Debugging a Code-Review Bot on a Free Endpoint",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/codepro_3283/the-429-cascade-debugging-a-code-review-bot-on-a-free-endpoint-207k",
+      "desc": "The outage was not the endpoint's fault. It was my retry logic.\n\nI pointed a code-review bot at MonkeyCode's free server and watched it stall the review pipeline in eleven minutes. The server did not go down. It returned",
       "tags": [
         "news"
       ],
@@ -4199,6 +4301,23 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "9a19ccf0dc08",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "desc": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith",
       "tags": [
         "news"
       ],
@@ -4539,125 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/asu",
       "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "667d2feb16eb",
-      "title": "OpenAI for Education",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/introducing-chatgpt-edu",
-      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c486538cb168",
-      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5e004c9c8676",
-      "title": "Making education data accessible",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/zelma",
-      "desc": "Zelma uses GPT-4 to make education data accessible.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "acdfe0f492c4",
-      "title": "Using AI to improve patient access to clinical trials",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/paradigm",
-      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "64b19ff9d69b",
-      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
-      "desc": "",
       "tags": [
         "news"
       ],
