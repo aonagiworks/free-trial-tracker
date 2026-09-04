@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:00:33.108581+00:00",
+  "updated_at": "2026-09-04T00:00:04.426519+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "673ec01b259d",
+      "id": "f79e919b7f52",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-56k",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-720",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3120f2c7ca71",
+      "title": "Top 10 Free APIs Every Developer Should Know",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/qingluan/top-10-free-apis-every-developer-should-know-3k7l",
+      "desc": "Top 10 Free APIs Every Developer Should Know\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, pr",
       "tags": [
         "news"
       ],
@@ -1687,23 +1704,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-1i14",
       "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "adb3e615dede",
-      "title": "Free AI Tools That Replace $1000/Month Subscriptions in 2025",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/qingluan/free-ai-tools-that-replace-1000month-subscriptions-in-2025-2pmi",
-      "desc": "Free AI Tools That Replace $1000/Month Subscriptions in 2025\n\n\nTags: ai, tools, productivity, free\n\n\n\n\n\n  \n  \n  Introduction\n\n\nArtificial intelligence and automation are transforming how we work and earn money. Free AI T",
       "tags": [
         "news"
       ],
@@ -1863,8 +1863,8 @@
       "source": "feed"
     },
     {
-      "id": "4dc27c9c5d3a",
-      "title": "The free 18+ card game category: Naughty Challenges by Inithouse, 1,000+ cards for couples and friend groups",
+      "id": "9843d52868da",
+      "title": "AI agents can now verify any credential in 1 API call (free, no auth, CORS open)",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1872,8 +1872,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/jakub_inithouse/the-free-18-card-game-category-naughty-challenges-by-inithouse-1000-cards-for-couples-and-4g9p",
-      "desc": "Naughty Challenges is a free 18+ card game with 1,000+ flirty and daring cards across 23+ themed decks. It runs in the browser, needs no download or account, and splits into Solo, Couple and Group play. We built it at In",
+      "url": "https://dev.to/edison_flores_6d2cd381b13/ai-agents-can-now-verify-any-credential-in-1-api-call-free-no-auth-cors-open-37a3",
+      "desc": "The problem agents face\n\n\nWhen an AI agent needs to decide whether to trust a tool, an MCP server, or another agent, it has no universal way to verify credentials. Each standard (JWT, W3C VC, MCP Cards, X.509) has its ow",
       "tags": [
         "news"
       ],
@@ -1908,23 +1908,6 @@
       "region_class": "Region tertentu",
       "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
       "desc": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge di",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "bb7ed2dfbabb",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "desc": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way",
       "tags": [
         "news"
       ],
@@ -2333,6 +2316,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
@@ -3984,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "673ec01b259d",
+      "id": "f79e919b7f52",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,8 +3993,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-56k",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-720",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "3120f2c7ca71",
+      "title": "Top 10 Free APIs Every Developer Should Know",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/qingluan/top-10-free-apis-every-developer-should-know-3k7l",
+      "desc": "Top 10 Free APIs Every Developer Should Know\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, programming, free, tools\n\n\n\n\ntags: api, pr",
       "tags": [
         "news"
       ],
@@ -4012,23 +4029,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-1i14",
       "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "adb3e615dede",
-      "title": "Free AI Tools That Replace $1000/Month Subscriptions in 2025",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/qingluan/free-ai-tools-that-replace-1000month-subscriptions-in-2025-2pmi",
-      "desc": "Free AI Tools That Replace $1000/Month Subscriptions in 2025\n\n\nTags: ai, tools, productivity, free\n\n\n\n\n\n  \n  \n  Introduction\n\n\nArtificial intelligence and automation are transforming how we work and earn money. Free AI T",
       "tags": [
         "news"
       ],
@@ -4188,8 +4188,8 @@
       "source": "feed"
     },
     {
-      "id": "4dc27c9c5d3a",
-      "title": "The free 18+ card game category: Naughty Challenges by Inithouse, 1,000+ cards for couples and friend groups",
+      "id": "9843d52868da",
+      "title": "AI agents can now verify any credential in 1 API call (free, no auth, CORS open)",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4197,8 +4197,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/jakub_inithouse/the-free-18-card-game-category-naughty-challenges-by-inithouse-1000-cards-for-couples-and-4g9p",
-      "desc": "Naughty Challenges is a free 18+ card game with 1,000+ flirty and daring cards across 23+ themed decks. It runs in the browser, needs no download or account, and splits into Solo, Couple and Group play. We built it at In",
+      "url": "https://dev.to/edison_flores_6d2cd381b13/ai-agents-can-now-verify-any-credential-in-1-api-call-free-no-auth-cors-open-37a3",
+      "desc": "The problem agents face\n\n\nWhen an AI agent needs to decide whether to trust a tool, an MCP server, or another agent, it has no universal way to verify credentials. Each standard (JWT, W3C VC, MCP Cards, X.509) has its ow",
       "tags": [
         "news"
       ],
@@ -4233,23 +4233,6 @@
       "region_class": "Region tertentu",
       "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
       "desc": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge di",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "bb7ed2dfbabb",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "desc": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way",
       "tags": [
         "news"
       ],
@@ -4658,6 +4641,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
