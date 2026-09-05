@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T00:00:37.085778+00:00",
-  "total": 130,
+  "updated_at": "2026-09-05T06:00:54.953356+00:00",
+  "total": 131,
   "curated": 91,
-  "from_feeds": 39,
+  "from_feeds": 40,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "32e2920368a3",
+      "id": "cadc8a252aeb",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4ja3",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4d5g",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "ff32608c5d74",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-ng1",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1840,6 +1857,23 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
       "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era ruled by StackOverflow ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "2f41eb460c42",
+      "title": "Wealth Management Technology: Essential Open Source",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-47b8",
+      "desc": "How Wealth Management Technology Is Evolving\n\n\nModern wealth management technology can automate portfolio construction, rebalancing, tax-aware decisions, and investor reporting. Yet many robo-advisors operate as closed s",
       "tags": [
         "news"
       ],
@@ -2298,23 +2332,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
@@ -3967,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "32e2920368a3",
+      "id": "cadc8a252aeb",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,8 +3993,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4ja3",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4d5g",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "ff32608c5d74",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-ng1",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4148,6 +4182,23 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
       "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era ruled by StackOverflow ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "2f41eb460c42",
+      "title": "Wealth Management Technology: Essential Open Source",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-47b8",
+      "desc": "How Wealth Management Technology Is Evolving\n\n\nModern wealth management technology can automate portfolio construction, rebalancing, tax-aware decisions, and investor reporting. Yet many robo-advisors operate as closed s",
       "tags": [
         "news"
       ],
@@ -4606,23 +4657,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
