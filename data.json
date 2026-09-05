@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04T18:00:16.271849+00:00",
-  "total": 131,
+  "updated_at": "2026-09-05T00:00:37.085778+00:00",
+  "total": 130,
   "curated": 91,
-  "from_feeds": 40,
+  "from_feeds": 39,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "648e4be729ac",
+      "id": "32e2920368a3",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-1fdg",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4ja3",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1840,23 +1840,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
       "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era ruled by StackOverflow ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "09edd39f35a2",
-      "title": "Score the Lane First: Free Shared Workspace, Paid API, or Self-Hosted",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/datago_8008/score-the-lane-first-free-shared-workspace-paid-api-or-self-hosted-1hic",
-      "desc": "The cheapest lane is rarely the correct one once an agent starts retrying its own assumptions. I score every coding job on secrets, retry amplification, isolation, and ops appetite before choosing. Free model access on a",
       "tags": [
         "news"
       ],
@@ -3984,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "648e4be729ac",
+      "id": "32e2920368a3",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,7 +3976,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-1fdg",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-4ja3",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -4165,23 +4148,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20",
       "desc": "I graduated from undergrad the year that ChatGPT was first released to the public, and I'm now applying to Master's programs for the Fall. As we inch away from the educational realm I knew, an era ruled by StackOverflow ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "09edd39f35a2",
-      "title": "Score the Lane First: Free Shared Workspace, Paid API, or Self-Hosted",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/datago_8008/score-the-lane-first-free-shared-workspace-paid-api-or-self-hosted-1hic",
-      "desc": "The cheapest lane is rarely the correct one once an agent starts retrying its own assumptions. I score every coding job on secrets, retry amplification, isolation, and ops appetite before choosing. Free model access on a",
       "tags": [
         "news"
       ],
