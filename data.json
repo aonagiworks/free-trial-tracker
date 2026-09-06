@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:00:48.343787+00:00",
+  "updated_at": "2026-09-06T06:00:08.228527+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "8004aa333e53",
+      "id": "e443c56b9602",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-41do",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2913",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "87c38be0f6a1",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-2027",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1846,8 +1863,8 @@
       "source": "feed"
     },
     {
-      "id": "7b3bec7f4951",
-      "title": "13 repositories, 13 bugs: what open source taught me about my own tool",
+      "id": "5bf321bf2820",
+      "title": "How to Get $100 in Free Microsoft Azure Credits & AI Tools for Student Projects (No Credit Card)",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1855,8 +1872,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/laraib_hasan/13-repositories-13-bugs-what-open-source-taught-me-about-my-own-tool-113c",
-      "desc": "I built a tool that draws architecture diagrams from a repository, where every edge cites the file, line and commit it came from. Then I ran it against thirteen repositories it had never seen, and every single one of the",
+      "url": "https://dev.to/anagha_shetty_23/how-to-get-100-in-free-microsoft-azure-credits-ai-tools-for-student-projects-no-credit-card-19im",
+      "desc": "If you are a student building web applications, training machine learning models, or hosting backend services, finding reliable cloud hosting is always a challenge. Most major cloud platforms require a credit card upfron",
       "tags": [
         "news"
       ],
@@ -2315,23 +2332,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
@@ -3984,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "8004aa333e53",
+      "id": "e443c56b9602",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,8 +3993,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-41do",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2913",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "87c38be0f6a1",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-2027",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4171,8 +4188,8 @@
       "source": "feed"
     },
     {
-      "id": "7b3bec7f4951",
-      "title": "13 repositories, 13 bugs: what open source taught me about my own tool",
+      "id": "5bf321bf2820",
+      "title": "How to Get $100 in Free Microsoft Azure Credits & AI Tools for Student Projects (No Credit Card)",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4180,8 +4197,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/laraib_hasan/13-repositories-13-bugs-what-open-source-taught-me-about-my-own-tool-113c",
-      "desc": "I built a tool that draws architecture diagrams from a repository, where every edge cites the file, line and commit it came from. Then I ran it against thirteen repositories it had never seen, and every single one of the",
+      "url": "https://dev.to/anagha_shetty_23/how-to-get-100-in-free-microsoft-azure-credits-ai-tools-for-student-projects-no-credit-card-19im",
+      "desc": "If you are a student building web applications, training machine learning models, or hosting backend services, finding reliable cloud hosting is always a challenge. Most major cloud platforms require a credit card upfron",
       "tags": [
         "news"
       ],
@@ -4640,23 +4657,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
