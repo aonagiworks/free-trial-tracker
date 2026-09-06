@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:00:27.877579+00:00",
+  "updated_at": "2026-09-06T00:00:48.343787+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "aae88bca14e3",
+      "id": "8004aa333e53",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,25 +1668,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-57ca",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-41do",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "1dbfeaf25e2e",
-      "title": "From Free-Party Culture to a Circular Metaverse: Building the MyZubster Cultural Network",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/danielioni/from-free-party-culture-to-a-circular-metaverse-building-the-myzubster-cultural-network-hl0",
-      "desc": "From Free-Party Culture to a Circular Metaverse: Building the MyZubster Cultural Network\n\n\nWhat happens when the philosophy of DIY sound systems, free-party culture, independent art, recycling, digital identity, social n",
       "tags": [
         "news"
       ],
@@ -1863,8 +1846,8 @@
       "source": "feed"
     },
     {
-      "id": "206ede54fddc",
-      "title": "Quantitative Finance Tools: Essential Open Source Edge",
+      "id": "7b3bec7f4951",
+      "title": "13 repositories, 13 bugs: what open source taught me about my own tool",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1872,8 +1855,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/quantitative-finance-tools-essential-open-source-edge-3k3i",
-      "desc": "Institutional trading once required proprietary data systems, specialized developers, and costly computing infrastructure. Modern quantitative finance tools are changing that equation. Open frameworks, standardized APIs,",
+      "url": "https://dev.to/laraib_hasan/13-repositories-13-bugs-what-open-source-taught-me-about-my-own-tool-113c",
+      "desc": "I built a tool that draws architecture diagrams from a repository, where every edge cites the file, line and commit it came from. Then I ran it against thirteen repositories it had never seen, and every single one of the",
       "tags": [
         "news"
       ],
@@ -2332,6 +2315,23 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
+      "desc": "",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "fc8789a61329",
+      "title": "Teacher–student curriculum learning",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
@@ -3984,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "aae88bca14e3",
+      "id": "8004aa333e53",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,25 +3993,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-57ca",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-41do",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "1dbfeaf25e2e",
-      "title": "From Free-Party Culture to a Circular Metaverse: Building the MyZubster Cultural Network",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/danielioni/from-free-party-culture-to-a-circular-metaverse-building-the-myzubster-cultural-network-hl0",
-      "desc": "From Free-Party Culture to a Circular Metaverse: Building the MyZubster Cultural Network\n\n\nWhat happens when the philosophy of DIY sound systems, free-party culture, independent art, recycling, digital identity, social n",
       "tags": [
         "news"
       ],
@@ -4188,8 +4171,8 @@
       "source": "feed"
     },
     {
-      "id": "206ede54fddc",
-      "title": "Quantitative Finance Tools: Essential Open Source Edge",
+      "id": "7b3bec7f4951",
+      "title": "13 repositories, 13 bugs: what open source taught me about my own tool",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4197,8 +4180,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/quantitative-finance-tools-essential-open-source-edge-3k3i",
-      "desc": "Institutional trading once required proprietary data systems, specialized developers, and costly computing infrastructure. Modern quantitative finance tools are changing that equation. Open frameworks, standardized APIs,",
+      "url": "https://dev.to/laraib_hasan/13-repositories-13-bugs-what-open-source-taught-me-about-my-own-tool-113c",
+      "desc": "I built a tool that draws architecture diagrams from a repository, where every edge cites the file, line and commit it came from. Then I ran it against thirteen repositories it had never seen, and every single one of the",
       "tags": [
         "news"
       ],
@@ -4657,6 +4640,23 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
+      "desc": "",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "fc8789a61329",
+      "title": "Teacher–student curriculum learning",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
