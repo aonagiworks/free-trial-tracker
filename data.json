@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-06T18:00:48.907818+00:00",
-  "total": 130,
+  "updated_at": "2026-09-07T00:00:58.052922+00:00",
+  "total": 131,
   "curated": 91,
-  "from_feeds": 39,
+  "from_feeds": 40,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "4bb071ae52cd",
+      "id": "81c6d3b673ca",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-899",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3koe",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "dd4d98e851ef",
+      "title": "How to Use Cloudflare Workers for Free Hosting",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/qingluan/how-to-use-cloudflare-workers-for-free-hosting-26e0",
+      "desc": "How to Use Cloudflare Workers for Free Hosting\n\n\ntags: javascript, cloudflare, hosting, free\n\n\n\n\ntags: javascript, cloudflare, hosting, free\n\n\n\n\ntags: javascript, cloudflare, hosting, free\n\n\n\n\ntags: javascript, cloudflar",
       "tags": [
         "news"
       ],
@@ -3967,7 +3984,7 @@
       "source": "curated"
     },
     {
-      "id": "4bb071ae52cd",
+      "id": "81c6d3b673ca",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,8 +3993,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-899",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-3koe",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "dd4d98e851ef",
+      "title": "How to Use Cloudflare Workers for Free Hosting",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/qingluan/how-to-use-cloudflare-workers-for-free-hosting-26e0",
+      "desc": "How to Use Cloudflare Workers for Free Hosting\n\n\ntags: javascript, cloudflare, hosting, free\n\n\n\n\ntags: javascript, cloudflare, hosting, free\n\n\n\n\ntags: javascript, cloudflare, hosting, free\n\n\n\n\ntags: javascript, cloudflar",
       "tags": [
         "news"
       ],
