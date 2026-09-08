@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:00:47.736975+00:00",
+  "updated_at": "2026-09-08T18:00:56.412820+00:00",
   "total": 130,
   "curated": 91,
   "from_feeds": 39,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "77d9bb4a3f85",
+      "id": "9306c5da8940",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-l75",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2e91",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "57362221e920",
+      "title": "AI Voice Generator for Audiobooks: A Complete Guide for Students",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/audioscripter/ai-voice-generator-for-audiobooks-a-complete-guide-for-students-32g7",
+      "desc": "While reading is a method to acquire information, it is not the only method nor may it be the best method for many people. For instance, if you can remember information more efficiently when listening rather than reading",
       "tags": [
         "news"
       ],
@@ -1812,8 +1829,8 @@
       "source": "feed"
     },
     {
-      "id": "c03848aa9cee",
-      "title": "Vacation Accommodation on Student Budget: Finding the Best Deals",
+      "id": "b30459b75760",
+      "title": "Wealth Management Technology: Essential Open Source",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1821,25 +1838,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
-      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try local food. With a plan ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "66d57588e6a4",
-      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-30ia",
-      "desc": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works\n\n\nDevelopers building autonomous AI agents often need a way to pay for external services (API calls, data labeling, compute) without relying on a centra",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-1km0",
+      "desc": "Modern wealth management technology can automate portfolio construction, rebalancing, risk assessment, and client reporting. Yet many conventional robo-advisors operate as closed systems: investors and advisers see recom",
       "tags": [
         "news"
       ],
@@ -3967,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "77d9bb4a3f85",
+      "id": "9306c5da8940",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,8 +3976,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-l75",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2e91",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "57362221e920",
+      "title": "AI Voice Generator for Audiobooks: A Complete Guide for Students",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/audioscripter/ai-voice-generator-for-audiobooks-a-complete-guide-for-students-32g7",
+      "desc": "While reading is a method to acquire information, it is not the only method nor may it be the best method for many people. For instance, if you can remember information more efficiently when listening rather than reading",
       "tags": [
         "news"
       ],
@@ -4120,8 +4137,8 @@
       "source": "feed"
     },
     {
-      "id": "c03848aa9cee",
-      "title": "Vacation Accommodation on Student Budget: Finding the Best Deals",
+      "id": "b30459b75760",
+      "title": "Wealth Management Technology: Essential Open Source",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4129,25 +4146,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
-      "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try local food. With a plan ",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "66d57588e6a4",
-      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-30ia",
-      "desc": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works\n\n\nDevelopers building autonomous AI agents often need a way to pay for external services (API calls, data labeling, compute) without relying on a centra",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-1km0",
+      "desc": "Modern wealth management technology can automate portfolio construction, rebalancing, risk assessment, and client reporting. Yet many conventional robo-advisors operate as closed systems: investors and advisers see recom",
       "tags": [
         "news"
       ],
