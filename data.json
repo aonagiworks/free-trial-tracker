@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:00:42.924184+00:00",
+  "updated_at": "2026-09-08T12:00:47.736975+00:00",
   "total": 130,
   "curated": 91,
   "from_feeds": 39,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "217ab9a7faf2",
+      "id": "77d9bb4a3f85",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,25 +1668,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2j6h",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-l75",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "dac020a208ef",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-4f45",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1840,6 +1823,23 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
       "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try local food. With a plan ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "66d57588e6a4",
+      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-30ia",
+      "desc": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works\n\n\nDevelopers building autonomous AI agents often need a way to pay for external services (API calls, data labeling, compute) without relying on a centra",
       "tags": [
         "news"
       ],
@@ -3967,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "217ab9a7faf2",
+      "id": "77d9bb4a3f85",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,25 +3976,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2j6h",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-l75",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "dac020a208ef",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-4f45",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4148,6 +4131,23 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/britney_scott/vacation-accommodation-on-student-budget-finding-the-best-deals-45kb",
       "desc": "Travel is one of the best rewards for surviving midterms, deadlines, and part-time shifts. The problem is that accommodation can eat most of your budget before you even buy a museum ticket or try local food. With a plan ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "66d57588e6a4",
+      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-30ia",
+      "desc": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works\n\n\nDevelopers building autonomous AI agents often need a way to pay for external services (API calls, data labeling, compute) without relying on a centra",
       "tags": [
         "news"
       ],
