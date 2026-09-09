@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:00:56.412820+00:00",
+  "updated_at": "2026-09-09T00:00:04.188711+00:00",
   "total": 130,
   "curated": 91,
   "from_feeds": 39,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "9306c5da8940",
+      "id": "be8c197ba87b",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,8 +1668,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2e91",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2jlp",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "edf50f403d0c",
+      "title": "Como se tornar um Microsoft Student Ambassadors",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/duarda_lima/como-se-tornar-um-microsoft-student-ambassadors-1iec",
+      "desc": "O programa é uma comunidade global de estudante universitários que desenvolvem habilidades técnicas e de liderança. Os estudantes ganham experiência prática com as ferramentas e têm suporte para usá-las.\n\nImportante ress",
       "tags": [
         "news"
       ],
@@ -1823,23 +1840,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "b30459b75760",
-      "title": "Wealth Management Technology: Essential Open Source",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-1km0",
-      "desc": "Modern wealth management technology can automate portfolio construction, rebalancing, risk assessment, and client reporting. Yet many conventional robo-advisors operate as closed systems: investors and advisers see recom",
       "tags": [
         "news"
       ],
@@ -3967,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "9306c5da8940",
+      "id": "be8c197ba87b",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,8 +3976,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2e91",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2jlp",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "edf50f403d0c",
+      "title": "Como se tornar um Microsoft Student Ambassadors",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/duarda_lima/como-se-tornar-um-microsoft-student-ambassadors-1iec",
+      "desc": "O programa é uma comunidade global de estudante universitários que desenvolvem habilidades técnicas e de liderança. Os estudantes ganham experiência prática com as ferramentas e têm suporte para usá-las.\n\nImportante ress",
       "tags": [
         "news"
       ],
@@ -4131,23 +4148,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "b30459b75760",
-      "title": "Wealth Management Technology: Essential Open Source",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-1km0",
-      "desc": "Modern wealth management technology can automate portfolio construction, rebalancing, risk assessment, and client reporting. Yet many conventional robo-advisors operate as closed systems: investors and advisers see recom",
       "tags": [
         "news"
       ],
