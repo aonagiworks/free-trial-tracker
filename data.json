@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10T12:00:52.046145+00:00",
-  "total": 130,
+  "updated_at": "2026-09-10T18:00:58.317776+00:00",
+  "total": 129,
   "curated": 91,
-  "from_feeds": 39,
+  "from_feeds": 38,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "be550ab25c88",
+      "id": "ea61bdfdc16a",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-20d0",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2ce8",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1823,23 +1823,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "0ea17c7a259f",
-      "title": "Freelancer vs. SEO Agency: Who Should Handle Your Technical Site Audit?",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/paperub1/freelancer-vs-seo-agency-who-should-handle-your-technical-site-audit-36h4",
-      "desc": "A technical site audit is an important part of maintaining a healthy, search-friendly website. It helps identify issues related to website speed, crawling, indexing, mobile usability, broken links, redirects, security, a",
       "tags": [
         "news"
       ],
@@ -3967,7 +3950,7 @@
       "source": "curated"
     },
     {
-      "id": "be550ab25c88",
+      "id": "ea61bdfdc16a",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,7 +3959,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-20d0",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-2ce8",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -4131,23 +4114,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "0ea17c7a259f",
-      "title": "Freelancer vs. SEO Agency: Who Should Handle Your Technical Site Audit?",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/paperub1/freelancer-vs-seo-agency-who-should-handle-your-technical-site-audit-36h4",
-      "desc": "A technical site audit is an important part of maintaining a healthy, search-friendly website. It helps identify issues related to website speed, crawling, indexing, mobile usability, broken links, redirects, security, a",
       "tags": [
         "news"
       ],
