@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-09T18:00:26.602623+00:00",
-  "total": 131,
+  "updated_at": "2026-09-10T00:00:33.860650+00:00",
+  "total": 129,
   "curated": 91,
-  "from_feeds": 40,
+  "from_feeds": 38,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "e0f30ba82598",
+      "id": "50937fa6828c",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,7 +1668,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-51fg",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-pi0",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -1823,40 +1823,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "7806c0d87ad9",
-      "title": "Discover Free AI and Utility Tools to Boost Your Daily Productivity",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/aitipworld/discover-free-ai-and-utility-tools-to-boost-your-daily-productivity-47k1",
-      "desc": "In today's fast-paced digital world, having access to the right utilities and AI tools can save countless hours. Whether you are a developer, designer, or creator, finding reliable and free tools in one place is a huge g",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5e3b0f5249c6",
-      "title": "You Got a Free Model. Name the Host It Used.",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/you-got-a-free-model-name-the-host-it-used-lo2",
-      "desc": "Did your last free agent run on a model? Or did it run on a host? Those are not the same resource. People smash them into one sentence anyway.\n\nI hear this claim all week. \"I ran it for free.\" Free what, exactly? Tokens?",
       "tags": [
         "news"
       ],
@@ -3984,7 +3950,7 @@
       "source": "curated"
     },
     {
-      "id": "e0f30ba82598",
+      "id": "50937fa6828c",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3993,7 +3959,7 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-51fg",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-pi0",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
       "tags": [
         "news"
@@ -4148,40 +4114,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "7806c0d87ad9",
-      "title": "Discover Free AI and Utility Tools to Boost Your Daily Productivity",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/aitipworld/discover-free-ai-and-utility-tools-to-boost-your-daily-productivity-47k1",
-      "desc": "In today's fast-paced digital world, having access to the right utilities and AI tools can save countless hours. Whether you are a developer, designer, or creator, finding reliable and free tools in one place is a huge g",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5e3b0f5249c6",
-      "title": "You Got a Free Model. Name the Host It Used.",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/you-got-a-free-model-name-the-host-it-used-lo2",
-      "desc": "Did your last free agent run on a model? Or did it run on a host? Those are not the same resource. People smash them into one sentence anyway.\n\nI hear this claim all week. \"I ran it for free.\" Free what, exactly? Tokens?",
       "tags": [
         "news"
       ],
