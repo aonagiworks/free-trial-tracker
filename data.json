@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:00:39.919438+00:00",
+  "updated_at": "2026-09-10T12:00:52.046145+00:00",
   "total": 130,
   "curated": 91,
   "from_feeds": 39,
@@ -1659,7 +1659,7 @@
       "source": "curated"
     },
     {
-      "id": "b1a3c4071f9d",
+      "id": "be550ab25c88",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -1668,25 +1668,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-517b",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-20d0",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "88ce8f307973",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-57oo",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1840,6 +1823,23 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "0ea17c7a259f",
+      "title": "Freelancer vs. SEO Agency: Who Should Handle Your Technical Site Audit?",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/paperub1/freelancer-vs-seo-agency-who-should-handle-your-technical-site-audit-36h4",
+      "desc": "A technical site audit is an important part of maintaining a healthy, search-friendly website. It helps identify issues related to website speed, crawling, indexing, mobile usability, broken links, redirects, security, a",
       "tags": [
         "news"
       ],
@@ -3967,7 +3967,7 @@
       "source": "curated"
     },
     {
-      "id": "b1a3c4071f9d",
+      "id": "be550ab25c88",
       "title": "Top 10 Ways to Earn Free Crypto",
       "provider": "dev.to",
       "category": "News/Deal",
@@ -3976,25 +3976,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-517b",
+      "url": "https://dev.to/sinatra182/top-10-ways-to-earn-free-crypto-20d0",
       "desc": "Top 10 Ways to Earn Free Crypto\n\n\n\n  \n  \n  Introduction\n\n\nIn 2026, earning money online is more accessible than ever. This guide covers\nreal methods that pay — no fluff.\n\n\n  \n  \n  Methods That Work\n\n\n\n\nMicrotasks — small",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "88ce8f307973",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-57oo",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4148,6 +4131,23 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
       "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "0ea17c7a259f",
+      "title": "Freelancer vs. SEO Agency: Who Should Handle Your Technical Site Audit?",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/paperub1/freelancer-vs-seo-agency-who-should-handle-your-technical-site-audit-36h4",
+      "desc": "A technical site audit is an important part of maintaining a healthy, search-friendly website. It helps identify issues related to website speed, crawling, indexing, mobile usability, broken links, redirects, security, a",
       "tags": [
         "news"
       ],
