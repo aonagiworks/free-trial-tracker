@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:00:10.710349+00:00",
+  "updated_at": "2026-09-11T06:00:19.286597+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,23 @@
       "source": "curated"
     },
     {
+      "id": "dff1cc359f95",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-21k1",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "ac237f6e9e64",
       "title": "Gw Coba Free Spin di Mbgtoto, Ternyata Beda Banget",
       "provider": "dev.to",
@@ -2315,23 +2332,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
@@ -3984,6 +3984,23 @@
       "source": "curated"
     },
     {
+      "id": "dff1cc359f95",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-21k1",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "ac237f6e9e64",
       "title": "Gw Coba Free Spin di Mbgtoto, Ternyata Beda Banget",
       "provider": "dev.to",
@@ -4640,23 +4657,6 @@
       "region": "Cek per negara",
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/ffjord",
-      "desc": "",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "fc8789a61329",
-      "title": "Teacher–student curriculum learning",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/teacher-student-curriculum-learning",
       "desc": "",
       "tags": [
         "news"
