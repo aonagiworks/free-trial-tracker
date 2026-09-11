@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10T18:00:58.317776+00:00",
-  "total": 129,
+  "updated_at": "2026-09-11T00:00:10.710349+00:00",
+  "total": 131,
   "curated": 91,
-  "from_feeds": 38,
+  "from_feeds": 40,
   "regions": [
     "Cek per negara",
     "Global",
@@ -1657,6 +1657,40 @@
         "cloud"
       ],
       "source": "curated"
+    },
+    {
+      "id": "ac237f6e9e64",
+      "title": "Gw Coba Free Spin di Mbgtoto, Ternyata Beda Banget",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/hellblazer_4faac605ede4e8/gw-coba-free-spin-di-mbgtoto-ternyata-beda-banget-5131",
+      "desc": "Gw Coba Free Spin di Mbgtoto, Ternyata Beda Banget\n\n\nAnjir, gw kira free spin itu cuma bonus murahan buat ngisi waktu. Ternyata beneran bisa jadi modal awal yang asik kalo lo tau caranya. Gw jadi penasaran waktu liat tem",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "0523630bd198",
+      "title": "Gw Dapet Free Spin MBGtoto, Ternyata Beda Banget dari Yang Gw Bayangkan",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/hellblazer_4faac605ede4e8/gw-dapet-free-spin-mbgtoto-ternyata-beda-banget-dari-yang-gw-bayangkan-16kc",
+      "desc": "Gw Dapet Free Spin MBGtoto, Ternyata Beda Banget dari Yang Gw Bayangkan\n\n\nAnjir, gw waktu itu lagi scroll-scroll di grup slot, temen gw bilang ada platform yang kasih free spin tanpa perlu deposit duluan. Gw kira itu sca",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
     },
     {
       "id": "ea61bdfdc16a",
@@ -3948,6 +3982,40 @@
         "cloud"
       ],
       "source": "curated"
+    },
+    {
+      "id": "ac237f6e9e64",
+      "title": "Gw Coba Free Spin di Mbgtoto, Ternyata Beda Banget",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/hellblazer_4faac605ede4e8/gw-coba-free-spin-di-mbgtoto-ternyata-beda-banget-5131",
+      "desc": "Gw Coba Free Spin di Mbgtoto, Ternyata Beda Banget\n\n\nAnjir, gw kira free spin itu cuma bonus murahan buat ngisi waktu. Ternyata beneran bisa jadi modal awal yang asik kalo lo tau caranya. Gw jadi penasaran waktu liat tem",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "0523630bd198",
+      "title": "Gw Dapet Free Spin MBGtoto, Ternyata Beda Banget dari Yang Gw Bayangkan",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/hellblazer_4faac605ede4e8/gw-dapet-free-spin-mbgtoto-ternyata-beda-banget-dari-yang-gw-bayangkan-16kc",
+      "desc": "Gw Dapet Free Spin MBGtoto, Ternyata Beda Banget dari Yang Gw Bayangkan\n\n\nAnjir, gw waktu itu lagi scroll-scroll di grup slot, temen gw bilang ada platform yang kasih free spin tanpa perlu deposit duluan. Gw kira itu sca",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
     },
     {
       "id": "ea61bdfdc16a",
