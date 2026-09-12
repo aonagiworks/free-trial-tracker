@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:00:31.627015+00:00",
+  "updated_at": "2026-09-12T00:00:43.615918+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1880,6 +1880,23 @@
       "source": "feed"
     },
     {
+      "id": "99f4fbac2629",
+      "title": "Wealth Management Technology: Essential Open Source",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-29o3",
+      "desc": "Robo-advisors promise lower costs, automated rebalancing, and personalized portfolios. Yet many operate as black boxes, leaving financial professionals unable to inspect how recommendations are generated. Modern wealth m",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -2316,23 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
@@ -4205,6 +4205,23 @@
       "source": "feed"
     },
     {
+      "id": "99f4fbac2629",
+      "title": "Wealth Management Technology: Essential Open Source",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/wealth-management-technology-essential-open-source-29o3",
+      "desc": "Robo-advisors promise lower costs, automated rebalancing, and personalized portfolios. Yet many operate as black boxes, leaving financial professionals unable to inspect how recommendations are generated. Modern wealth m",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4641,23 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
