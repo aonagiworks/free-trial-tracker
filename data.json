@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T12:00:15.939504+00:00",
+  "updated_at": "2026-09-12T18:00:20.055665+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1761,6 +1761,23 @@
       "source": "feed"
     },
     {
+      "id": "b7d48346e7ac",
+      "title": "I Built a Free AI Decision-Maker App as a 12th-Grade Student (Here's What I Learned)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ice_tech/i-built-a-free-ai-decision-maker-app-as-a-12th-grade-student-heres-what-i-learned-1nhm",
+      "desc": "Hey DEV Community! 👋\n\n\nI'm a 12th-grade student from India, and I want to share my journey of building my first AI-powered app while juggling school exams, district-level swimming competitions, and CA Foundation prep.\n\n\n",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "57362221e920",
       "title": "AI Voice Generator for Audiobooks: A Complete Guide for Students",
       "provider": "dev.to",
@@ -1897,8 +1914,8 @@
       "source": "feed"
     },
     {
-      "id": "578984e7b35f",
-      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
+      "id": "769938282fd4",
+      "title": "Regen the Example, Freeze the Side Effect: Capability Cards for Internal APIs",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1906,25 +1923,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
-      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "2e3bcdba604b",
-      "title": "FAQ: Five Myths That Treat a Free Model Like a Server",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/faq-five-myths-that-treat-a-free-model-like-a-server-3bam",
-      "desc": "Did the free model run tests, or only narrate a green build?\nI keep seeing those two events glued together in reviews.\nPeople paste a chat log and call it a passing pipeline.\n\n  \n  \n  Why this mix-up keeps winning\n\n\nFree",
+      "url": "https://dev.to/datago_7777/regen-the-example-freeze-the-side-effect-capability-cards-for-internal-apis-19le",
+      "desc": "An internal refunds page sat in the team wiki for six weeks. The curl example still parsed. The retry sentence did not.\n\nOn a Tuesday rollback, an on-call engineer followed a generated note that called POST /v2/refunds \"",
       "tags": [
         "news"
       ],
@@ -4086,6 +4086,23 @@
       "source": "feed"
     },
     {
+      "id": "b7d48346e7ac",
+      "title": "I Built a Free AI Decision-Maker App as a 12th-Grade Student (Here's What I Learned)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ice_tech/i-built-a-free-ai-decision-maker-app-as-a-12th-grade-student-heres-what-i-learned-1nhm",
+      "desc": "Hey DEV Community! 👋\n\n\nI'm a 12th-grade student from India, and I want to share my journey of building my first AI-powered app while juggling school exams, district-level swimming competitions, and CA Foundation prep.\n\n\n",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "57362221e920",
       "title": "AI Voice Generator for Audiobooks: A Complete Guide for Students",
       "provider": "dev.to",
@@ -4222,8 +4239,8 @@
       "source": "feed"
     },
     {
-      "id": "578984e7b35f",
-      "title": "How Parents Can Collaborate with Special Education Specialists for Student Success",
+      "id": "769938282fd4",
+      "title": "Regen the Example, Freeze the Side Effect: Capability Cards for Internal APIs",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4231,25 +4248,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/every_specialchildusa_9/how-parents-can-collaborate-with-special-education-specialists-for-student-success-3n83",
-      "desc": "Parents play a crucial role in their child's education, while Special Education Specialists bring professional knowledge, instructional expertise, and specialized support. When both work together, students are more likel",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "2e3bcdba604b",
-      "title": "FAQ: Five Myths That Treat a Free Model Like a Server",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/faq-five-myths-that-treat-a-free-model-like-a-server-3bam",
-      "desc": "Did the free model run tests, or only narrate a green build?\nI keep seeing those two events glued together in reviews.\nPeople paste a chat log and call it a passing pipeline.\n\n  \n  \n  Why this mix-up keeps winning\n\n\nFree",
+      "url": "https://dev.to/datago_7777/regen-the-example-freeze-the-side-effect-capability-cards-for-internal-apis-19le",
+      "desc": "An internal refunds page sat in the team wiki for six weeks. The curl example still parsed. The retry sentence did not.\n\nOn a Tuesday rollback, an on-call engineer followed a generated note that called POST /v2/refunds \"",
       "tags": [
         "news"
       ],
