@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T06:01:02.378611+00:00",
+  "updated_at": "2026-09-12T12:00:15.939504+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1914,6 +1914,23 @@
       "source": "feed"
     },
     {
+      "id": "2e3bcdba604b",
+      "title": "FAQ: Five Myths That Treat a Free Model Like a Server",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/gitlab_3188/faq-five-myths-that-treat-a-free-model-like-a-server-3bam",
+      "desc": "Did the free model run tests, or only narrate a green build?\nI keep seeing those two events glued together in reviews.\nPeople paste a chat log and call it a passing pipeline.\n\n  \n  \n  Why this mix-up keeps winning\n\n\nFree",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -1925,23 +1942,6 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4e6ef69fea6d",
-      "title": "The wireless earbuds with unbeatable call quality got their first discount",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
-      "desc": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds ",
       "tags": [
         "news"
       ],
@@ -4239,6 +4239,23 @@
       "source": "feed"
     },
     {
+      "id": "2e3bcdba604b",
+      "title": "FAQ: Five Myths That Treat a Free Model Like a Server",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/gitlab_3188/faq-five-myths-that-treat-a-free-model-like-a-server-3bam",
+      "desc": "Did the free model run tests, or only narrate a green build?\nI keep seeing those two events glued together in reviews.\nPeople paste a chat log and call it a passing pipeline.\n\n  \n  \n  Why this mix-up keeps winning\n\n\nFree",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4250,23 +4267,6 @@
       "region_class": "Region tertentu",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4e6ef69fea6d",
-      "title": "The wireless earbuds with unbeatable call quality got their first discount",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
-      "desc": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds ",
       "tags": [
         "news"
       ],
