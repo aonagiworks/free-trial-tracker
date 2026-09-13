@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:00:20.055665+00:00",
+  "updated_at": "2026-09-13T00:00:28.698332+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1914,23 +1914,6 @@
       "source": "feed"
     },
     {
-      "id": "769938282fd4",
-      "title": "Regen the Example, Freeze the Side Effect: Capability Cards for Internal APIs",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/datago_7777/regen-the-example-freeze-the-side-effect-capability-cards-for-internal-apis-19le",
-      "desc": "An internal refunds page sat in the team wiki for six weeks. The curl example still parsed. The retry sentence did not.\n\nOn a Tuesday rollback, an on-call engineer followed a generated note that called POST /v2/refunds \"",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -2333,6 +2316,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/zelma",
       "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
       "tags": [
         "news"
       ],
@@ -4239,23 +4239,6 @@
       "source": "feed"
     },
     {
-      "id": "769938282fd4",
-      "title": "Regen the Example, Freeze the Side Effect: Capability Cards for Internal APIs",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/datago_7777/regen-the-example-freeze-the-side-effect-capability-cards-for-internal-apis-19le",
-      "desc": "An internal refunds page sat in the team wiki for six weeks. The curl example still parsed. The retry sentence did not.\n\nOn a Tuesday rollback, an on-call engineer followed a generated note that called POST /v2/refunds \"",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4658,6 +4641,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/zelma",
       "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
       "tags": [
         "news"
       ],
