@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:00:45.390908+00:00",
+  "updated_at": "2026-09-13T12:00:50.283787+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1897,8 +1897,8 @@
       "source": "feed"
     },
     {
-      "id": "ff4473330e5f",
-      "title": "I built 9 free web tools and printed the entire backend on every page. What should number 10 be?",
+      "id": "7a8338182c44",
+      "title": "SAVI SDK vs. Langfuse vs. Helicone: Where the Free Tiers Actually Differ",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1906,8 +1906,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/polterguy/i-built-9-free-web-tools-and-printed-the-entire-backend-on-every-page-what-should-number-10-be-1a8f",
-      "desc": "Over the last couple of weeks I've built nine small web tools. No signup, no API key, no \"start your free trial\". You paste a URL, you get a result.\n\nThere's a catch, and it's the interesting part: every tool prints the ",
+      "url": "https://dev.to/gras/savi-sdk-vs-langfuse-vs-helicone-where-the-free-tiers-actually-differ-kol",
+      "desc": "If you’ve looked at LLM observability tools in the past six months, you’ve probably run into the same problem we did: many comparison posts are already out of date. The space has changed quickly, including two acquisitio",
       "tags": [
         "news"
       ],
@@ -4222,8 +4222,8 @@
       "source": "feed"
     },
     {
-      "id": "ff4473330e5f",
-      "title": "I built 9 free web tools and printed the entire backend on every page. What should number 10 be?",
+      "id": "7a8338182c44",
+      "title": "SAVI SDK vs. Langfuse vs. Helicone: Where the Free Tiers Actually Differ",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4231,8 +4231,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/polterguy/i-built-9-free-web-tools-and-printed-the-entire-backend-on-every-page-what-should-number-10-be-1a8f",
-      "desc": "Over the last couple of weeks I've built nine small web tools. No signup, no API key, no \"start your free trial\". You paste a URL, you get a result.\n\nThere's a catch, and it's the interesting part: every tool prints the ",
+      "url": "https://dev.to/gras/savi-sdk-vs-langfuse-vs-helicone-where-the-free-tiers-actually-differ-kol",
+      "desc": "If you’ve looked at LLM observability tools in the past six months, you’ve probably run into the same problem we did: many comparison posts are already out of date. The space has changed quickly, including two acquisitio",
       "tags": [
         "news"
       ],
