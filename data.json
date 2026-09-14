@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T12:00:15.348584+00:00",
+  "updated_at": "2026-09-14T18:00:20.488398+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1914,6 +1914,23 @@
       "source": "feed"
     },
     {
+      "id": "26d7eafc21d8",
+      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+      "desc": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagshi",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "ebe6abbf73bf",
       "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
       "provider": "techncruncher.blogspot.com",
@@ -2316,23 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
@@ -4239,6 +4239,23 @@
       "source": "feed"
     },
     {
+      "id": "26d7eafc21d8",
+      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+      "provider": "www.theverge.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+      "desc": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagshi",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "ebe6abbf73bf",
       "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
       "provider": "techncruncher.blogspot.com",
@@ -4641,23 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
