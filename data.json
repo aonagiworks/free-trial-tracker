@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T00:01:02.146387+00:00",
+  "updated_at": "2026-09-14T06:00:10.114216+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,40 @@
       "source": "curated"
     },
     {
+      "id": "879f2bf21d88",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-5apg",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "decf65ed345a",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-1don",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "18362e35fe57",
       "title": "North Compact Desert Outpost: Free Browser Micro City Builder Overview",
       "provider": "dev.to",
@@ -1670,40 +1704,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/avneet_kumarsingla_e743d/north-compact-desert-outpost-free-browser-micro-city-builder-overview-111c",
       "desc": "Game Overview\n\n\nNorth Compact Desert Outpost is a free micro city‑building game that runs directly in a web browser. The game loads instantly without requiring any download or sign‑up, making it accessible on most device",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4b469e50de83",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-16ff",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "aae7f30cafe8",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-2klk",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1880,8 +1880,8 @@
       "source": "feed"
     },
     {
-      "id": "38cb1373aa8e",
-      "title": "From Projects to Products in the AI Age: Why Ownership Matters More When Prototypes Are Free",
+      "id": "bf89da74c9b9",
+      "title": "How Students Can Use AI for Homework Without Cheating",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -1889,8 +1889,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/debashish_ghosal/from-projects-to-products-in-the-ai-age-why-ownership-matters-more-when-prototypes-are-free-3d0k",
-      "desc": "TLDR: AI has made prototypes, POCs and MVPs cheap — a plausible demo in days. What has not gotten cheaper is everything after: reliability, adoption, governance, cost-to-serve. Teams that fund projects now get more demos",
+      "url": "https://dev.to/vidyatech/how-students-can-use-ai-for-homework-without-cheating-1en2",
+      "desc": "Artificial intelligence has changed the way students study, research, and complete their homework. With AI-powered tools, students can get explanations, practice questions, feedback, and study support within seconds.\n\nHo",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "a8b8397bd5e2",
+      "title": "Why do so many students learn coding but struggle to actually practice it?",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/harsha_nandi_d66568aa75c4/why-do-so-many-students-learn-coding-but-struggle-to-actually-practice-it-4kkg",
+      "desc": "I've been working on CosmoDex, and one problem keeps coming up while talking to students and thinking about coding education:\n\nStudents can learn programming concepts, but getting them to practice consistently is much ha",
       "tags": [
         "news"
       ],
@@ -2316,23 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
@@ -3984,6 +3984,40 @@
       "source": "curated"
     },
     {
+      "id": "879f2bf21d88",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-5apg",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "decf65ed345a",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-1don",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "18362e35fe57",
       "title": "North Compact Desert Outpost: Free Browser Micro City Builder Overview",
       "provider": "dev.to",
@@ -3995,40 +4029,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/avneet_kumarsingla_e743d/north-compact-desert-outpost-free-browser-micro-city-builder-overview-111c",
       "desc": "Game Overview\n\n\nNorth Compact Desert Outpost is a free micro city‑building game that runs directly in a web browser. The game loads instantly without requiring any download or sign‑up, making it accessible on most device",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4b469e50de83",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-16ff",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "aae7f30cafe8",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-2klk",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4205,8 +4205,8 @@
       "source": "feed"
     },
     {
-      "id": "38cb1373aa8e",
-      "title": "From Projects to Products in the AI Age: Why Ownership Matters More When Prototypes Are Free",
+      "id": "bf89da74c9b9",
+      "title": "How Students Can Use AI for Homework Without Cheating",
       "provider": "dev.to",
       "category": "News/Deal",
       "duration": "—",
@@ -4214,8 +4214,25 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://dev.to/debashish_ghosal/from-projects-to-products-in-the-ai-age-why-ownership-matters-more-when-prototypes-are-free-3d0k",
-      "desc": "TLDR: AI has made prototypes, POCs and MVPs cheap — a plausible demo in days. What has not gotten cheaper is everything after: reliability, adoption, governance, cost-to-serve. Teams that fund projects now get more demos",
+      "url": "https://dev.to/vidyatech/how-students-can-use-ai-for-homework-without-cheating-1en2",
+      "desc": "Artificial intelligence has changed the way students study, research, and complete their homework. With AI-powered tools, students can get explanations, practice questions, feedback, and study support within seconds.\n\nHo",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "a8b8397bd5e2",
+      "title": "Why do so many students learn coding but struggle to actually practice it?",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/harsha_nandi_d66568aa75c4/why-do-so-many-students-learn-coding-but-struggle-to-actually-practice-it-4kkg",
+      "desc": "I've been working on CosmoDex, and one problem keeps coming up while talking to students and thinking about coding education:\n\nStudents can learn programming concepts, but getting them to practice consistently is much ha",
       "tags": [
         "news"
       ],
@@ -4641,23 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "4eb3f5bc86ea",
-      "title": "Powering virtual education for the classroom",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/khan-academy",
-      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
