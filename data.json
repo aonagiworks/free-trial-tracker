@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:00:56.239606+00:00",
+  "updated_at": "2026-09-14T00:01:02.146387+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1880,6 +1880,23 @@
       "source": "feed"
     },
     {
+      "id": "38cb1373aa8e",
+      "title": "From Projects to Products in the AI Age: Why Ownership Matters More When Prototypes Are Free",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/debashish_ghosal/from-projects-to-products-in-the-ai-age-why-ownership-matters-more-when-prototypes-are-free-3d0k",
+      "desc": "TLDR: AI has made prototypes, POCs and MVPs cheap — a plausible demo in days. What has not gotten cheaper is everything after: reliability, adoption, governance, cost-to-serve. Teams that fund projects now get more demos",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -2316,23 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/khan-academy",
       "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "64b19ff9d69b",
-      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/ffjord",
-      "desc": "",
       "tags": [
         "news"
       ],
@@ -4205,6 +4205,23 @@
       "source": "feed"
     },
     {
+      "id": "38cb1373aa8e",
+      "title": "From Projects to Products in the AI Age: Why Ownership Matters More When Prototypes Are Free",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/debashish_ghosal/from-projects-to-products-in-the-ai-age-why-ownership-matters-more-when-prototypes-are-free-3d0k",
+      "desc": "TLDR: AI has made prototypes, POCs and MVPs cheap — a plausible demo in days. What has not gotten cheaper is everything after: reliability, adoption, governance, cost-to-serve. Teams that fund projects now get more demos",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4641,23 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/khan-academy",
       "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "64b19ff9d69b",
-      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/ffjord",
-      "desc": "",
       "tags": [
         "news"
       ],
