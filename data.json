@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:00:10.114216+00:00",
+  "updated_at": "2026-09-14T12:00:15.348584+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,40 @@
       "source": "curated"
     },
     {
+      "id": "668926e79367",
+      "title": "I Ran the Same Vision Model on Ollama, Hugging Face Free Inference, and Google Colab — Only One Didn't Cost Me a Rate Limit Meltdown",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jarynagent/i-ran-the-same-vision-model-on-ollama-hugging-face-free-inference-and-google-colab-only-one-4lpg",
+      "desc": "Every \"free vision AI\" recommendation conflates three very different things: running a model on your own GPU (Ollama), calling someone else's free API (Hugging Face Inference), and borrowing a free GPU notebook (Colab). ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c66b60202c00",
+      "title": "5 Free AI Image Tools That Don't Require a Subscription",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/javimosch/5-free-ai-image-tools-that-dont-require-a-subscription-15m",
+      "desc": "Most AI image generators lock you behind a paywall or a free trial that expires in 7 days. I built Crevisto to be different: 5 free credits, no credit card, no subscription, credits never expire. Here are the 5 most popu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "879f2bf21d88",
       "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
       "provider": "dev.to",
@@ -1704,23 +1738,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/avneet_kumarsingla_e743d/north-compact-desert-outpost-free-browser-micro-city-builder-overview-111c",
       "desc": "Game Overview\n\n\nNorth Compact Desert Outpost is a free micro city‑building game that runs directly in a web browser. The game loads instantly without requiring any download or sign‑up, making it accessible on most device",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "ef82b4129258",
-      "title": "Gw Dapet Free Spin di MBGtoto, Ternyata Gak Seberapa Sih",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/hellblazer_4faac605ede4e8/gw-dapet-free-spin-di-mbgtoto-ternyata-gak-seberapa-sih-2g1l",
-      "desc": "Gw Dapet Free Spin di MBGtoto, Ternyata Gak Seberapa Sih\n\n\nAnjir, gw kemarin lagi scroll-scroll ngobrol sama temen di grup, tiba-tiba ada yang mention soal free spin. Gw pikir \"apa tuh, gratis kah?\" Ternyata beneran ada ",
       "tags": [
         "news"
       ],
@@ -1874,40 +1891,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
       "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "bf89da74c9b9",
-      "title": "How Students Can Use AI for Homework Without Cheating",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/vidyatech/how-students-can-use-ai-for-homework-without-cheating-1en2",
-      "desc": "Artificial intelligence has changed the way students study, research, and complete their homework. With AI-powered tools, students can get explanations, practice questions, feedback, and study support within seconds.\n\nHo",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "a8b8397bd5e2",
-      "title": "Why do so many students learn coding but struggle to actually practice it?",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/harsha_nandi_d66568aa75c4/why-do-so-many-students-learn-coding-but-struggle-to-actually-practice-it-4kkg",
-      "desc": "I've been working on CosmoDex, and one problem keeps coming up while talking to students and thinking about coding education:\n\nStudents can learn programming concepts, but getting them to practice consistently is much ha",
       "tags": [
         "news"
       ],
@@ -2333,6 +2316,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
@@ -3984,6 +3984,40 @@
       "source": "curated"
     },
     {
+      "id": "668926e79367",
+      "title": "I Ran the Same Vision Model on Ollama, Hugging Face Free Inference, and Google Colab — Only One Didn't Cost Me a Rate Limit Meltdown",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jarynagent/i-ran-the-same-vision-model-on-ollama-hugging-face-free-inference-and-google-colab-only-one-4lpg",
+      "desc": "Every \"free vision AI\" recommendation conflates three very different things: running a model on your own GPU (Ollama), calling someone else's free API (Hugging Face Inference), and borrowing a free GPU notebook (Colab). ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c66b60202c00",
+      "title": "5 Free AI Image Tools That Don't Require a Subscription",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/javimosch/5-free-ai-image-tools-that-dont-require-a-subscription-15m",
+      "desc": "Most AI image generators lock you behind a paywall or a free trial that expires in 7 days. I built Crevisto to be different: 5 free credits, no credit card, no subscription, credits never expire. Here are the 5 most popu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "879f2bf21d88",
       "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
       "provider": "dev.to",
@@ -4029,23 +4063,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/avneet_kumarsingla_e743d/north-compact-desert-outpost-free-browser-micro-city-builder-overview-111c",
       "desc": "Game Overview\n\n\nNorth Compact Desert Outpost is a free micro city‑building game that runs directly in a web browser. The game loads instantly without requiring any download or sign‑up, making it accessible on most device",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "ef82b4129258",
-      "title": "Gw Dapet Free Spin di MBGtoto, Ternyata Gak Seberapa Sih",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/hellblazer_4faac605ede4e8/gw-dapet-free-spin-di-mbgtoto-ternyata-gak-seberapa-sih-2g1l",
-      "desc": "Gw Dapet Free Spin di MBGtoto, Ternyata Gak Seberapa Sih\n\n\nAnjir, gw kemarin lagi scroll-scroll ngobrol sama temen di grup, tiba-tiba ada yang mention soal free spin. Gw pikir \"apa tuh, gratis kah?\" Ternyata beneran ada ",
       "tags": [
         "news"
       ],
@@ -4199,40 +4216,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
       "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "bf89da74c9b9",
-      "title": "How Students Can Use AI for Homework Without Cheating",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/vidyatech/how-students-can-use-ai-for-homework-without-cheating-1en2",
-      "desc": "Artificial intelligence has changed the way students study, research, and complete their homework. With AI-powered tools, students can get explanations, practice questions, feedback, and study support within seconds.\n\nHo",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "a8b8397bd5e2",
-      "title": "Why do so many students learn coding but struggle to actually practice it?",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/harsha_nandi_d66568aa75c4/why-do-so-many-students-learn-coding-but-struggle-to-actually-practice-it-4kkg",
-      "desc": "I've been working on CosmoDex, and one problem keeps coming up while talking to students and thinking about coding education:\n\nStudents can learn programming concepts, but getting them to practice consistently is much ha",
       "tags": [
         "news"
       ],
@@ -4658,6 +4641,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/paradigm",
       "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "4eb3f5bc86ea",
+      "title": "Powering virtual education for the classroom",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/khan-academy",
+      "desc": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
       "tags": [
         "news"
       ],
