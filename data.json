@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:00:54.876884+00:00",
+  "updated_at": "2026-09-15T18:01:03.978336+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,23 @@
       "source": "curated"
     },
     {
+      "id": "cf24a78d91ef",
+      "title": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/hive80lab/5-free-python-scripts-every-small-business-needs-copy-paste-ready-4p9m",
+      "desc": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)\n\n\nYou don't need a $500/month SaaS tool to automate your small business. These 5 Python scripts solve real problems — and they're free.\n\n\n  \n  \n  1. Rev",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "e95e7b7fb02b",
       "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
       "provider": "dev.to",
@@ -1755,23 +1772,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/javimosch/5-free-ai-image-tools-that-dont-require-a-subscription-15m",
       "desc": "Most AI image generators lock you behind a paywall or a free trial that expires in 7 days. I built Crevisto to be different: 5 free credits, no credit card, no subscription, credits never expire. Here are the 5 most popu",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "18362e35fe57",
-      "title": "North Compact Desert Outpost: Free Browser Micro City Builder Overview",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/avneet_kumarsingla_e743d/north-compact-desert-outpost-free-browser-micro-city-builder-overview-111c",
-      "desc": "Game Overview\n\n\nNorth Compact Desert Outpost is a free micro city‑building game that runs directly in a web browser. The game loads instantly without requiring any download or sign‑up, making it accessible on most device",
       "tags": [
         "news"
       ],
@@ -1925,23 +1925,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
       "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "16b2e2d45d99",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "provider": "blog.google",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
       "tags": [
         "news"
       ],
@@ -2333,6 +2316,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/zelma",
       "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
       "tags": [
         "news"
       ],
@@ -3984,6 +3984,23 @@
       "source": "curated"
     },
     {
+      "id": "cf24a78d91ef",
+      "title": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/hive80lab/5-free-python-scripts-every-small-business-needs-copy-paste-ready-4p9m",
+      "desc": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)\n\n\nYou don't need a $500/month SaaS tool to automate your small business. These 5 Python scripts solve real problems — and they're free.\n\n\n  \n  \n  1. Rev",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "e95e7b7fb02b",
       "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
       "provider": "dev.to",
@@ -4080,23 +4097,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/javimosch/5-free-ai-image-tools-that-dont-require-a-subscription-15m",
       "desc": "Most AI image generators lock you behind a paywall or a free trial that expires in 7 days. I built Crevisto to be different: 5 free credits, no credit card, no subscription, credits never expire. Here are the 5 most popu",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "18362e35fe57",
-      "title": "North Compact Desert Outpost: Free Browser Micro City Builder Overview",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/avneet_kumarsingla_e743d/north-compact-desert-outpost-free-browser-micro-city-builder-overview-111c",
-      "desc": "Game Overview\n\n\nNorth Compact Desert Outpost is a free micro city‑building game that runs directly in a web browser. The game loads instantly without requiring any download or sign‑up, making it accessible on most device",
       "tags": [
         "news"
       ],
@@ -4250,23 +4250,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
       "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "16b2e2d45d99",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "provider": "blog.google",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "desc": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
       "tags": [
         "news"
       ],
@@ -4658,6 +4641,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/zelma",
       "desc": "Zelma uses GPT-4 to make education data accessible.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "acdfe0f492c4",
+      "title": "Using AI to improve patient access to clinical trials",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/paradigm",
+      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
       "tags": [
         "news"
       ],
