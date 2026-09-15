@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T00:00:35.169756+00:00",
+  "updated_at": "2026-09-15T06:00:48.205969+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,40 @@
       "source": "curated"
     },
     {
+      "id": "e95e7b7fb02b",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-jdc",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "f633ea020179",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-4j9",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "d1606d5e5d6e",
       "title": "I Ran the Same Embedding Pipeline on Hugging Face Free, Google Colab Free, and My Laptop with Ollama — The \"Free\" Tiers Cost Me More Than Money",
       "provider": "dev.to",
@@ -1721,40 +1755,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/javimosch/5-free-ai-image-tools-that-dont-require-a-subscription-15m",
       "desc": "Most AI image generators lock you behind a paywall or a free trial that expires in 7 days. I built Crevisto to be different: 5 free credits, no credit card, no subscription, credits never expire. Here are the 5 most popu",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "879f2bf21d88",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-5apg",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "decf65ed345a",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-1don",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -1925,40 +1925,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
       "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "bdab00ca5d22",
-      "title": "Quantitative Finance Tools: Essential Open Source Edge",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/quantitative-finance-tools-essential-open-source-edge-52j",
-      "desc": "Why Quantitative Finance Tools Need Open Foundations\n\n\nInstitutional trading was once defined by expensive data systems, proprietary execution engines, and specialized research teams. Today, quantitative finance tools bu",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "a357459de745",
-      "title": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/retries-are-not-free-measuring-duplicate-side-effects-in-an-agent-loop-43lf",
-      "desc": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop\n\n\nYour agent calls a tool. The call times out. Your loop retries it.\n\nNow you have two writes and one intent. Which one was the bug? Neither. The bu",
       "tags": [
         "news"
       ],
@@ -2333,6 +2299,40 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/asu",
       "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "667d2feb16eb",
+      "title": "OpenAI for Education",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/introducing-chatgpt-edu",
+      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c486538cb168",
+      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
       "tags": [
         "news"
       ],
@@ -3984,6 +3984,40 @@
       "source": "curated"
     },
     {
+      "id": "e95e7b7fb02b",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-jdc",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "f633ea020179",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-4j9",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "d1606d5e5d6e",
       "title": "I Ran the Same Embedding Pipeline on Hugging Face Free, Google Colab Free, and My Laptop with Ollama — The \"Free\" Tiers Cost Me More Than Money",
       "provider": "dev.to",
@@ -4046,40 +4080,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/javimosch/5-free-ai-image-tools-that-dont-require-a-subscription-15m",
       "desc": "Most AI image generators lock you behind a paywall or a free trial that expires in 7 days. I built Crevisto to be different: 5 free credits, no credit card, no subscription, credits never expire. Here are the 5 most popu",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "879f2bf21d88",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-5apg",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "decf65ed345a",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-1don",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -4250,40 +4250,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je",
       "desc": "Why a Resume Alone Doesn't Cut It (And How a Student Portfolio Fixes It)\n\n\nIf you're a student applying for internships or your first dev job, you've probably already run into the same wall: your resume is a wall of text",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "bdab00ca5d22",
-      "title": "Quantitative Finance Tools: Essential Open Source Edge",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/vladimir_lialine_b2e67374/quantitative-finance-tools-essential-open-source-edge-52j",
-      "desc": "Why Quantitative Finance Tools Need Open Foundations\n\n\nInstitutional trading was once defined by expensive data systems, proprietary execution engines, and specialized research teams. Today, quantitative finance tools bu",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "a357459de745",
-      "title": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/gitlab_3188/retries-are-not-free-measuring-duplicate-side-effects-in-an-agent-loop-43lf",
-      "desc": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop\n\n\nYour agent calls a tool. The call times out. Your loop retries it.\n\nNow you have two writes and one intent. Which one was the bug? Neither. The bu",
       "tags": [
         "news"
       ],
@@ -4658,6 +4624,40 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/asu",
       "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "667d2feb16eb",
+      "title": "OpenAI for Education",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/introducing-chatgpt-edu",
+      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "c486538cb168",
+      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
       "tags": [
         "news"
       ],
