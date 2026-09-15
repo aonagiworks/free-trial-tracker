@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T06:00:48.205969+00:00",
+  "updated_at": "2026-09-15T12:00:54.876884+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1948,23 +1948,6 @@
       "source": "feed"
     },
     {
-      "id": "60ab7c2443f1",
-      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-      "desc": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tarif",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
       "id": "ebe6abbf73bf",
       "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
       "provider": "techncruncher.blogspot.com",
@@ -2333,6 +2316,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
       "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5e004c9c8676",
+      "title": "Making education data accessible",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/zelma",
+      "desc": "Zelma uses GPT-4 to make education data accessible.",
       "tags": [
         "news"
       ],
@@ -4273,23 +4273,6 @@
       "source": "feed"
     },
     {
-      "id": "60ab7c2443f1",
-      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-      "provider": "www.theverge.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-      "desc": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tarif",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
       "id": "ebe6abbf73bf",
       "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
       "provider": "techncruncher.blogspot.com",
@@ -4658,6 +4641,23 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
       "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "5e004c9c8676",
+      "title": "Making education data accessible",
+      "provider": "openai.com",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://openai.com/index/zelma",
+      "desc": "Zelma uses GPT-4 to make education data accessible.",
       "tags": [
         "news"
       ],
