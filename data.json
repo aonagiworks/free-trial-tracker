@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T18:00:20.488398+00:00",
+  "updated_at": "2026-09-15T00:00:35.169756+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,40 @@
       "source": "curated"
     },
     {
+      "id": "d1606d5e5d6e",
+      "title": "I Ran the Same Embedding Pipeline on Hugging Face Free, Google Colab Free, and My Laptop with Ollama — The \"Free\" Tiers Cost Me More Than Money",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jarynagent/i-ran-the-same-embedding-pipeline-on-hugging-face-free-google-colab-free-and-my-laptop-with-16m2",
+      "desc": "Everyone's RAG tutorial starts with \"just use a free embedding API.\" So I took the same workload — embed 5,000 document chunks (~2.1M tokens) with a bge-small-class model — and ran it three ways: Hugging Face Serverless ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "51c6f753fc40",
+      "title": "I Stopped Paying $30/Month for Error Tracking — GlitchTip on a Free VM Catches Everything Sentry Did",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jarynagent/i-stopped-paying-30month-for-error-tracking-glitchtip-on-a-free-vm-catches-everything-sentry-did-hno",
+      "desc": "My side projects were throwing maybe 200 errors a month. Sentry's team plan wanted $26/month for the privilege of telling me that. For a fleet that earns $0, that's a rounding error with a subscription attached.\n\nSo I mo",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "668926e79367",
       "title": "I Ran the Same Vision Model on Ollama, Hugging Face Free Inference, and Google Colab — Only One Didn't Cost Me a Rate Limit Meltdown",
       "provider": "dev.to",
@@ -1897,6 +1931,40 @@
       "source": "feed"
     },
     {
+      "id": "bdab00ca5d22",
+      "title": "Quantitative Finance Tools: Essential Open Source Edge",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/quantitative-finance-tools-essential-open-source-edge-52j",
+      "desc": "Why Quantitative Finance Tools Need Open Foundations\n\n\nInstitutional trading was once defined by expensive data systems, proprietary execution engines, and specialized research teams. Today, quantitative finance tools bu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "a357459de745",
+      "title": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/gitlab_3188/retries-are-not-free-measuring-duplicate-side-effects-in-an-agent-loop-43lf",
+      "desc": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop\n\n\nYour agent calls a tool. The call times out. Your loop retries it.\n\nNow you have two writes and one intent. Which one was the bug? Neither. The bu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -1914,8 +1982,8 @@
       "source": "feed"
     },
     {
-      "id": "26d7eafc21d8",
-      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+      "id": "60ab7c2443f1",
+      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
       "provider": "www.theverge.com",
       "category": "News/Deal",
       "duration": "—",
@@ -1923,8 +1991,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-      "desc": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagshi",
+      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+      "desc": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tarif",
       "tags": [
         "news"
       ],
@@ -2265,74 +2333,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/asu",
       "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "667d2feb16eb",
-      "title": "OpenAI for Education",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/introducing-chatgpt-edu",
-      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c486538cb168",
-      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5e004c9c8676",
-      "title": "Making education data accessible",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/zelma",
-      "desc": "Zelma uses GPT-4 to make education data accessible.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "acdfe0f492c4",
-      "title": "Using AI to improve patient access to clinical trials",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/paradigm",
-      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
       "tags": [
         "news"
       ],
@@ -3984,6 +3984,40 @@
       "source": "curated"
     },
     {
+      "id": "d1606d5e5d6e",
+      "title": "I Ran the Same Embedding Pipeline on Hugging Face Free, Google Colab Free, and My Laptop with Ollama — The \"Free\" Tiers Cost Me More Than Money",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jarynagent/i-ran-the-same-embedding-pipeline-on-hugging-face-free-google-colab-free-and-my-laptop-with-16m2",
+      "desc": "Everyone's RAG tutorial starts with \"just use a free embedding API.\" So I took the same workload — embed 5,000 document chunks (~2.1M tokens) with a bge-small-class model — and ran it three ways: Hugging Face Serverless ",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "51c6f753fc40",
+      "title": "I Stopped Paying $30/Month for Error Tracking — GlitchTip on a Free VM Catches Everything Sentry Did",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/jarynagent/i-stopped-paying-30month-for-error-tracking-glitchtip-on-a-free-vm-catches-everything-sentry-did-hno",
+      "desc": "My side projects were throwing maybe 200 errors a month. Sentry's team plan wanted $26/month for the privilege of telling me that. For a fleet that earns $0, that's a rounding error with a subscription attached.\n\nSo I mo",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "668926e79367",
       "title": "I Ran the Same Vision Model on Ollama, Hugging Face Free Inference, and Google Colab — Only One Didn't Cost Me a Rate Limit Meltdown",
       "provider": "dev.to",
@@ -4222,6 +4256,40 @@
       "source": "feed"
     },
     {
+      "id": "bdab00ca5d22",
+      "title": "Quantitative Finance Tools: Essential Open Source Edge",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/vladimir_lialine_b2e67374/quantitative-finance-tools-essential-open-source-edge-52j",
+      "desc": "Why Quantitative Finance Tools Need Open Foundations\n\n\nInstitutional trading was once defined by expensive data systems, proprietary execution engines, and specialized research teams. Today, quantitative finance tools bu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "a357459de745",
+      "title": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/gitlab_3188/retries-are-not-free-measuring-duplicate-side-effects-in-an-agent-loop-43lf",
+      "desc": "Retries Are Not Free: Measuring Duplicate Side Effects in an Agent Loop\n\n\nYour agent calls a tool. The call times out. Your loop retries it.\n\nNow you have two writes and one intent. Which one was the bug? Neither. The bu",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "16b2e2d45d99",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "provider": "blog.google",
@@ -4239,8 +4307,8 @@
       "source": "feed"
     },
     {
-      "id": "26d7eafc21d8",
-      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+      "id": "60ab7c2443f1",
+      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
       "provider": "www.theverge.com",
       "category": "News/Deal",
       "duration": "—",
@@ -4248,8 +4316,8 @@
       "eligibility": "Umum",
       "region": "Cek per negara",
       "region_class": "Region tertentu",
-      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-      "desc": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagshi",
+      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+      "desc": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tarif",
       "tags": [
         "news"
       ],
@@ -4590,74 +4658,6 @@
       "region_class": "Region tertentu",
       "url": "https://openai.com/index/asu",
       "desc": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "667d2feb16eb",
-      "title": "OpenAI for Education",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/introducing-chatgpt-edu",
-      "desc": "An affordable offering for universities to responsibly bring AI to campus.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "c486538cb168",
-      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-      "desc": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "5e004c9c8676",
-      "title": "Making education data accessible",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/zelma",
-      "desc": "Zelma uses GPT-4 to make education data accessible.",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "acdfe0f492c4",
-      "title": "Using AI to improve patient access to clinical trials",
-      "provider": "openai.com",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://openai.com/index/paradigm",
-      "desc": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
       "tags": [
         "news"
       ],
