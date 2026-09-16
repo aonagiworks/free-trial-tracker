@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T00:00:13.625313+00:00",
+  "updated_at": "2026-09-16T06:00:21.949532+00:00",
   "total": 131,
   "curated": 91,
   "from_feeds": 40,
@@ -1659,6 +1659,40 @@
       "source": "curated"
     },
     {
+      "id": "b6682ca591ff",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-47p0",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "da2319bea848",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-53f",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "cf24a78d91ef",
       "title": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)",
       "provider": "dev.to",
@@ -1670,40 +1704,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/hive80lab/5-free-python-scripts-every-small-business-needs-copy-paste-ready-4p9m",
       "desc": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)\n\n\nYou don't need a $500/month SaaS tool to automate your small business. These 5 Python scripts solve real problems — and they're free.\n\n\n  \n  \n  1. Rev",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "e95e7b7fb02b",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-jdc",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "f633ea020179",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-4j9",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
@@ -3984,6 +3984,40 @@
       "source": "curated"
     },
     {
+      "id": "b6682ca591ff",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-47p0",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
+      "id": "da2319bea848",
+      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
+      "provider": "dev.to",
+      "category": "News/Deal",
+      "duration": "—",
+      "price": "—",
+      "eligibility": "Umum",
+      "region": "Cek per negara",
+      "region_class": "Region tertentu",
+      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-53f",
+      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
+      "tags": [
+        "news"
+      ],
+      "source": "feed"
+    },
+    {
       "id": "cf24a78d91ef",
       "title": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)",
       "provider": "dev.to",
@@ -3995,40 +4029,6 @@
       "region_class": "Region tertentu",
       "url": "https://dev.to/hive80lab/5-free-python-scripts-every-small-business-needs-copy-paste-ready-4p9m",
       "desc": "5 Free Python Scripts Every Small Business Needs (Copy-Paste Ready)\n\n\nYou don't need a $500/month SaaS tool to automate your small business. These 5 Python scripts solve real problems — and they're free.\n\n\n  \n  \n  1. Rev",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "e95e7b7fb02b",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-144854-3324)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-144854-3324-jdc",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
-      "tags": [
-        "news"
-      ],
-      "source": "feed"
-    },
-    {
-      "id": "f633ea020179",
-      "title": "Stop Paying for Software: 1200+ Free Tools That Actually Work (20260903-210917-3604)",
-      "provider": "dev.to",
-      "category": "News/Deal",
-      "duration": "—",
-      "price": "—",
-      "eligibility": "Umum",
-      "region": "Cek per negara",
-      "region_class": "Region tertentu",
-      "url": "https://dev.to/ericchen_dev/stop-paying-for-software-1200-free-tools-that-actually-work-20260903-210917-3604-4j9",
-      "desc": "Stop Paying for Software: 1200+ Free Tools That Actually Work\n\n\nLook, I get it. You're drowning in subscriptions.\n\nNetflix, Spotify, Adobe, Microsoft 365, that random PDF converter you signed up for at 2 AM because you w",
       "tags": [
         "news"
       ],
